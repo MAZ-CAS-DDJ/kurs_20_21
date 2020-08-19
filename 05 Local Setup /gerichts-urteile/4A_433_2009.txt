@@ -1,0 +1,243 @@
+
+
+4A_433/2009 (26.05.2010)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Bundesgericht
+Tribunal fédéral
+Tribunale federale
+Tribunal federal
+ 
+{T 0/2}
+4A_433/2009
+ 
+Arrêt du 26 mai 2010
+Ire Cour de droit civil
+ 
+Composition
+Mmes et MM. les Juges Klett, Présidente, Corboz, Rottenberg Liatowitsch, Kolly et Kiss.
+Greffière: Mme Godat Zimmermann.
+ 
+Participants à la procédure
+X.________, représentée par Mes Elliott Geisinger et Alexandra Johnson Wilcke,
+recourante,
+ 
+contre
+ 
+Y.________ Inc., représentée par Mes Dominique Brown-Berset et Héloïse Rordorf,
+intimée.
+ 
+Objet
+arbitrage international,
+ 
+recours en matière civile contre la sentence du Tribunal arbitral CCI du 25 juin 2009.
+ 
+Faits:
+ 
+A.
+Y.________ Inc. (ci-après: Y.________) est une société de droit américain dont le siège est à ... (États-Unis d'Amérique). Le gouvernement américain, représenté par the United States Army Corps of Engineers (CoE), a confié à cette société des travaux sur une base aérienne en Irak. Par contrat du 17 juin 2004, Y.________ a sous-traité une partie des travaux à X.________, société de droit turc dont le siège est à ... (Turquie). En 2005, la société américaine a résilié le contrat de sous-traitance aux torts de X.________ (for default). Celle-ci a contesté le bien-fondé de la résiliation.
+ 
+B.
+Par requête du 25 mai 2005, X.________ a mis en oeuvre l'arbitrage prévu dans le contrat de sous-traitance. La clause arbitrale fixe le siège du Tribunal arbitral à Genève et soumet la cause au droit américain. La requérante a conclu notamment à ce que la résiliation soit qualifiée de résiliation for convenience et à ce que Y.________ soit condamnée à lui verser un peu plus de 8'000'000 USD; pour sa part, Y.________ a conclu au rejet de la demande et, notamment, à la condamnation de X.________ à lui payer plus de 4'000'000 USD.
+ 
+Le Tribunal arbitral a clos la procédure probatoire le 5 avril 2007. Dans sa sentence (award) rendue le 25 juin 2009, il a considéré que la résiliation for default du contrat de sous-traitance était justifiée; il a rejeté la demande de X.________ et admis la demande en dommages-intérêts de Y.________ à hauteur de 2'421'095 USD.
+ 
+Le 31 juillet 2009, X.________ a présenté une requête en rectification et interprétation auprès du Tribunal arbitral.
+ 
+C.
+X.________ a formé un recours en matière civile contre la sentence du 25 juin 2009, dont elle demande l'annulation.
+ 
+Le Tribunal arbitral a déposé des observations.
+ 
+Le 31 décembre 2009, il a rendu un addendum qui rectifie partiellement la sentence du 25 juin 2009, en ce sens que le montant à payer par X.________ est réduit à 479'613 USD.
+Dans sa réponse, Y.________ conclut principalement à l'irrecevabilité du recours, lequel serait devenu abusif au regard de l'addendum rendu après l'introduction de la procédure devant le Tribunal fédéral; à titre subsidiaire, l'intimée propose le rejet du recours.
+ 
+La réponse de l'intimée et les observations du Tribunal arbitral ont été notifiées à la recourante, qui a été invitée à fournir une réplique. Donnant suite à cette invitation, la recourante a déposé un mémoire, dans lequel elle renonce à maintenir divers griefs ayant perdu leur intérêt juridique à la suite de l'addendum; pour le surplus, elle maintient son recours.
+ 
+Dans sa duplique, l'intimée confirme les conclusions prises dans le mémoire de réponse.
+ 
+Considérant en droit:
+ 
+1.
+Dans le domaine de l'arbitrage international, le recours en matière civile est recevable contre les décisions de tribunaux arbitraux aux conditions prévues par les art. 190 à 192 LDIP (art. 77 al. 1 LTF).
+ 
+1.1  Le siège du tribunal arbitral est en Suisse et aucune des parties n'y avait son domicile au moment de la conclusion de la clause d'arbitrage; les dispositions du chapitre 12 de la LDIP sont dès lors applicables (cf. art. 176 al. 1 LDIP).
+ 
+1.2  La recourante est directement touchée par la sentence finale attaquée qui, en particulier, la condamne à payer une somme d'argent à l'intimée; elle a ainsi qualité pour recourir (art. 76 al. 1 LTF).
+ 
+1.3  Un addendum du 31 décembre 2009 fait suite à la sentence originaire. Malgré son intitulé, cette deuxième sentence n'est pas une sentence additionnelle stricto sensu, mais une sentence rectificative. Elle n'ajoute rien à la sentence initiale qui ne s'y trouve déjà et se présente comme l'accessoire de la sentence originelle dont elle partage le sort (cf. ATF 131 III 164 consid. 1.1 p. 166 s.; 130 III 755 consid. 1.3 p. 763).
+ 
+Contrairement à ce que l'intimée soutient en invoquant l'art. 42 al. 7 LTF, le recours n'est pas devenu abusif ensuite de l'addendum du 31 décembre 2009. En effet, si les griefs en rapport avec les REAs (Request for Equitable Adjustment) 1, 2 et 3 sont désormais sans objet comme la recourante le reconnaît du reste, il n'en va de même des autres griefs soulevés dans le recours.
+ 
+1.4  Déposé en temps utile (art. 46 al. 1 let. b et art. 100 al. 1 LTF) et dans la forme prévue par la loi (art. 42 al. 1 LTF), le recours est en principe recevable, sous réserve de l'examen de la recevabilité des différents griefs qui y sont formulés.
+ 
+1.5  Le recours ne peut être formé que pour l'un des motifs énumérés de manière exhaustive à l'art. 190 al. 2 LDIP. Le Tribunal fédéral examine uniquement les griefs invoqués et motivés conformément aux exigences strictes posées en la matière par l'art. 106 al. 2 LTF (art. 77 al. 3 LTF; ATF 134 III 186 consid. 5; cf. ATF 128 III 50 consid. 1c p. 53 s.).
+ 
+Le Tribunal fédéral statue sur la base des faits établis par le tribunal arbitral (art. 105 al. 1 LTF). Il ne peut pas rectifier ou compléter d'office les constatations des arbitres, même si les faits ont été établis de manière manifestement inexacte ou en violation du droit (cf. l'art. 77 al. 2 LTF excluant l'application de l'art. 105 al. 2 LTF). En revanche, comme sous l'empire de l'ancienne loi fédérale d'organisation judiciaire (cf. ATF 129 III 727 consid. 5.2.2 p. 733; 128 III 50 consid. 2a p. 54 et l'arrêt cité), le Tribunal fédéral conserve la faculté de revoir l'état de fait à la base de la sentence attaquée si l'un des griefs mentionnés à l'art. 190 al. 2 LDIP est soulevé à l'encontre dudit état de fait ou que des faits ou des moyens de preuve nouveaux sont exceptionnellement pris en considération dans le cadre de la procédure du recours en matière civile (cf. art. 99 al. 1 LTF).
+ 
+2.
+Invoquant l'art. 190 al. 2 let. d LDIP, la recourante reproche tout d'abord au Tribunal arbitral d'avoir violé son droit d'être entendue en commettant plusieurs inadvertances manifestes, constitutives de déni de justice formel.
+ 
+2.1  Une sentence arbitrale peut être attaquée lorsque le droit des parties d'être entendues en procédure contradictoire n'a pas été respecté (art. 190 al. 2 let. d LDIP; cf. art. 182 al. 3 LDIP).
+ 
+Selon une jurisprudence constante, le droit d'être entendu en procédure contradictoire n'exige pas qu'une sentence arbitrale internationale soit motivée. Cependant, il a également été déduit du droit d'être entendu un devoir minimum pour l'autorité d'examiner et de traiter les problèmes pertinents. Ce devoir a été étendu par la jurisprudence au domaine de l'arbitrage international. Il est violé lorsque, par inadvertance ou malentendu, le tribunal arbitral ne prend pas en considération des allégués, arguments, preuves et offres de preuve présentés par l'une des parties et importants pour la décision à rendre. En effet, la partie concernée est alors lésée dans son droit de faire valoir son point de vue auprès des arbitres; elle est placée dans la même situation que si elle n'avait pas eu la possibilité de leur présenter ses arguments.
+ 
+Il incombe à la partie se prétendant lésée de démontrer, dans son recours dirigé contre la sentence, en quoi une inadvertance des arbitres l'a empêchée de se faire entendre sur un point important. C'est à elle d'établir, d'une part, que le tribunal arbitral n'a pas examiné certains des éléments de fait, de preuve ou de droit qu'elle avait régulièrement avancés à l'appui de ses conclusions et, d'autre part, que ces éléments étaient de nature à influer sur le sort du litige. Pareille démonstration se fera sur le vu des motifs énoncés dans la sentence attaquée. Si la sentence passe totalement sous silence des éléments apparemment importants pour la solution du litige, c'est aux arbitres ou à la partie intimée qu'il appartiendra de justifier cette omission dans leurs observations sur le recours. Ils pourront le faire soit en démontrant que, contrairement aux affirmations du recourant, les éléments omis n'étaient pas pertinents pour résoudre le cas concret, soit, s'ils l'étaient, qu'ils ont été réfutés implicitement par le tribunal arbitral. Il n'y a toutefois violation du droit d'être entendu que si l'autorité ne satisfait pas à son devoir minimum d'examiner les problèmes pertinents. Aussi les arbitres n'ont-ils pas l'obligation de discuter tous les arguments invoqués par les parties, de sorte qu'ils ne sauraient se voir reprocher, au titre de la violation du droit d'être entendu en procédure contradictoire, de n'avoir pas réfuté, même implicitement, un moyen objectivement dénué de toute pertinence (ATF 133 III 235 consid. 5.2 p. 248 s. et les arrêts cités).
+ 
+2.2  Comme déjà relevé, la recourante renonce, dans sa réplique, à maintenir les griefs formulés en rapport avec les REAs 1, 2 et 3. Il n'y a donc pas à revenir sur ce point.
+ 
+2.3  Selon la recourante, la sentence arbitrale ne traite pas de certains éléments du dommage, soit les postes 0002, 0003 et 0004 du REA 4 représentant 48'000 USD, 180'000 USD et 102'570 USD pour la suspension des dépenses périodiques en avril 2006, l'extension des frais généraux du site pendant la remobilisation après la suspension et les dégâts à un camion.
+2.3.1  L'intimée soutient que ces postes sont inclus dans le montant de 400'000 USD alloué par le Tribunal arbitral. Elle se réfère aux ch. 777 et 778 de la sentence où le Tribunal arbitral traite d'un ajustement approprié de la valeur estimée des prestations fournies par la recourante («increase in the EEV [Estimated Earned Value]») en tenant compte de l'entier du dossier («entire record»), incluant les REAs 1 à 3, mais sans s'y limiter. Le Tribunal arbitral y alloue 400'000 USD afin de remédier à toute inexactitude, sous-évaluation du travail ou toute autre iniquité possible associée au pourcentage estimé d'achèvement proposé par l'intimée («is intended to remedy any inaccuracies, underevaluation [of X.________'s work]) or other alleged inequities associated with [Y.________'s] estimated percentages of completion»).
+ 
+Pour sa part, le Tribunal arbitral relève, dans ses observations, que l'intimée n'a pas repris les postes litigieux dans ses mémoires récapitulatifs après enquête, ajoutant que les points essentiels doivent y figurer lorsqu'une partie, comme en l'espèce, a déposé quelque 830 pages de mémoires. Dans la sentence additionnelle, le Tribunal arbitral expose que le dossier n'était pas clair sur le montant litigieux, mais qu'il a néanmoins alloué 400'000 USD à titre de compensation globale («omnibus allowance»).
+ 
+Dans sa réplique, la recourante ne se détermine pas sur ces explications. Elle ne mentionne plus les postes 0002, 0003 et 0004 du REA 4.
+2.3.2  Le Tribunal arbitral explique qu'il n'a pas spécifiquement discuté des postes précités au motif qu'ils ne ressortaient pas des mémoires récapitulatifs après enquête. Il invoque ainsi une règle de procédure qui justifiait de ne pas traiter ces questions ou même empêchait de le faire. La recourante ne discute pas cette justification dans sa réplique. Il faut en déduire qu'elle ne la conteste pas. Il y a donc lieu d'admettre un défaut d'allégation conforme aux règles de procédure applicables. Dans ces circonstances, il ne saurait être question d'une violation du droit d'être entendu.
+ 
+2.4  A suivre la recourante, le Tribunal arbitral aurait également omis de se prononcer sur ses arguments quant aux acomptes que l'intimée lui aurait versés. Il aurait ainsi été amené à retenir à tort un montant de 7'002'712,83 USD à ce titre au lieu de 6'620'564,81 USD.
+2.4.1  Dans son mémoire de recours, la recourante relève avoir plusieurs fois allégué, d'une part, que la différence de 382'148 USD entre les deux montants susmentionnés était pour l'essentiel due au fait que l'intimée avait procédé à une retenue de 30% du «Payment Estimate n° 3» et, d'autre part, que l'intimée avait admis, dans la procédure arbitrale, avoir effectué cette retenue. En conclusion, le montant litigieux n'aurait pas été payé, mais seulement comptabilisé par l'intimée.
+ 
+Les arbitres retiennent, dans la sentence attaquée, que la recourante admet avoir reçu 6'620'564,81 USD (ch. 219 s.) et que l'intimée a estimé les coûts de la recourante à 7'002'713 USD (ch. 744, pos. 001-2102). La sentence ne recèle aucun motif expliquant pourquoi il a été retenu que la recourante avait reçu le second montant, ni aucune allusion aux objections précitées de la recourante.
+ 
+Dans ses observations, le Tribunal arbitral ne se détermine pas de manière spécifique. Il observe simplement que ce point ne figure pas dans les mémoires récapitulatifs après enquête. Or, dans la «Claimant's First Post Hearing Submission» du 1er juin 2007, postérieure à la clôture de la procédure probatoire intervenue le 5 avril 2007, la recourante a allégué que l'intimée avait retenu 30% de l'avance n° 3 et qu'un témoin, lors de son audition, avait confirmé ce fait en précisant que «this claim was a "cost based" claim and not a "payment" based claim» (ch. 519). Dans sa réponse, l'intimée ne prend pas position à ce sujet.
+ 
+Dans la sentence additionnelle (ch. 51 à 53), le Tribunal arbitral conteste avoir ignoré les objections de la recourante. Il explique qu'il s'est fondé sur l'expertise produite par l'intimée et que ce document constate que les coûts en question ont été correctement comptabilisés par l'intimée («the costs claimed by [Y.________] properly recorded in [Y.________'s] accounting system»). Et il reproche à la recourante d'avoir omis de traiter spécifiquement des conséquences de la retenue de 30% («it failed specifically to address the consequences of the retainage to the calculation of [Y.________'s] claim.»).
+ 
+Dans la duplique, l'intimée exprime le même avis. Elle ajoute que ni la recourante, ni l'expert mandaté par cette dernière ne se sont prononcés sur les conséquences de la retenue de paiement, alors qu'ils avaient toute latitude de le faire lors des audiences ou dans les conclusions après enquête. En outre, selon l'intimée, le fait que l'expert de la recourante n'ait pas contesté la méthodologie qu'elle-même avait proposée a pu légitimement être compris par le Tribunal arbitral comme un acquiescement à celle-ci.
+2.4.2  Dans la sentence, le Tribunal arbitral ne dit mot des objections de la recourante. Dans ses observations, il ne se détermine pas spécifiquement sur ce point, sauf à invoquer - à tort - un défaut d'allégation dans les mémoires après enquête. Enfin, dans la sentence additionnelle, il invoque l'expertise produite par l'intimée, aux termes de laquelle le montant des coûts de la recourante a été correctement comptabilisé par l'intimée. Mais cette assertion ne répond pas à l'objection de la recourante, qui soutient n'avoir reçu que 70% du montant comptabilisé. Dans ces circonstances, il ne saurait être retenu que le Tribunal arbitral a pris en considération les objections de la recourante et les a implicitement réfutées.
+ 
+Dans la sentence additionnelle, le Tribunal arbitral reproche à la recourante de ne pas avoir traité spécifiquement des conséquences de la retenue de 30%. Mais celles-ci sont évidentes. La pertinence de cette explication échappe à la cour de céans. L'intimée n'en dit rien non plus.
+ 
+Force est ainsi de conclure que le Tribunal arbitral n'a pas satisfait à son devoir minimum d'examiner les problèmes pertinents en ne prenant pas en considération les allégués de la recourante au sujet de la retenue effectuée par l'intimée, élément important dans le cadre de la fixation des dommages-intérêts. Ce faisant, le Tribunal arbitral a violé le droit d'être entendu de la recourante.
+ 
+2.5  Selon la recourante, le Tribunal arbitral aurait en outre omis de se prononcer sur ses arguments tirés de la relation intime entre le chef de projet de l'intimée et la propriétaire d'une tierce entreprise ayant livré du matériel prétendument surfacturé.
+ 
+Dans son mémoire de recours, la recourante allègue elle-même que cette relation a été longuement traitée au cours des audiences. On ne saurait dès lors retenir que le Tribunal arbitral a ignoré cette circonstance. Le grief tiré d'une violation du droit d'être entendu est mal fondé, peu importe que la décision de ne pas retenir les faits allégués soit matériellement juste ou non.
+ 
+3.
+3.1  La recourante invoque enfin une atteinte à l'ordre public (art. 190 al. 2 let. e LDIP). Selon elle, le Tribunal arbitral aurait violé le principe de la fidélité contractuelle (pacta sunt servanda) en jugeant que des montants qui lui étaient dus ne devaient pas lui être payés; elle se réfère à la retenue de 30% traitée ci-dessus (consid. 2.4).
+ 
+3.2  Une sentence est incompatible avec l'ordre public si elle méconnaît les valeurs essentielles et largement reconnues qui, selon les conceptions prévalant en Suisse, devraient constituer le fondement de tout ordre juridique (ATF 132 III 389 consid. 2.2.3 p. 395). Elle l'est en particulier lorsqu'elle viole des principes fondamentaux du droit de fond parmi lesquels figure la fidélité contractuelle. Ce principe n'est toutefois violé que dans les cas où le juge reconnaît l'existence d'un contrat, mais refuse d'en ordonner le respect en se fondant sur des considérations non déterminantes ou sur des textes légaux non applicables ou, inversement, lorsqu'il nie l'existence d'un contrat et, néanmoins, admet une obligation contractuelle (arrêt 4P.143/2001 du 18 septembre 2001 consid. 3a/bb et les arrêts cités).
+ 
+Ces hypothèses ne sont pas réalisées en l'espèce. A vrai dire, il y va d'une simple question de fait, soit de savoir si l'intimée a versé l'entier de l'avance n° 3 ou si elle a procédé à une retenue de 30%. Le grief ne peut être qu'écarté.
+ 
+4.
+Sur le vu de ce qui précède, le recours doit être admis partiellement. Il s'ensuit l'annulation de la sentence originelle et le renvoi de la cause au Tribunal arbitral (cf. art. 77 al. 2 LTF). La sentence rectificative devient ipso facto caduque en raison de l'annulation de la sentence dont elle fait partie intégrante (ATF 131 III 164 consid. 1.1 p. 167 et consid. 1.2.4 p. 170).
+ 
+5.
+Aucune des parties n'obtenant pleinement gain de cause, il se justifie de répartir les frais judiciaires par moitié et de ne pas allouer de dépens (art. 66 et 68 LTF).
+ 
+Par ces motifs, le Tribunal fédéral prononce:
+ 
+1.
+Le recours est admis partiellement.
+ 
+2.
+La sentence du 25 juin 2009 et la sentence additionnelle du 31 décembre 2009 sont annulées.
+ 
+La cause est renvoyée au Tribunal arbitral.
+ 
+3.
+Les frais judiciaires, arrêtés à 25'000 fr., sont mis par moitié à la charge de chaque partie.
+ 
+4.
+Il n'est pas alloué de dépens.
+ 
+5.
+Le présent arrêt est communiqué aux mandataires des parties et au Président du Tribunal arbitral.
+ 
+Lausanne, le 26 mai 2010
+ 
+Au nom de la Ire Cour de droit civil
+du Tribunal fédéral suisse
+ 
+La Présidente:    Klett
+ 
+La Greffière:    Godat Zimmermann
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                            2
+3
+4
+5
+Vorwärts
+
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

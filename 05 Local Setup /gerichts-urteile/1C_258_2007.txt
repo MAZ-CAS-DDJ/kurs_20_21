@@ -1,0 +1,201 @@
+
+
+1C_258/2007 (26.02.2008)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Tribunale federale
+Tribunal federal
+ 
+{T 0/2}
+1C_258/2007
+ 
+Urteil vom 26. Februar 2008
+I. öffentlich-rechtliche Abteilung
+ 
+Besetzung
+Bundesrichter Aemisegger, präsidierendes Mitglied,
+Bundesrichter Fonjallaz, Eusebio,
+Gerichtsschreiberin Gerber.
+ 
+Parteien
+Orange Communications SA, Beschwerdeführerin, vertreten durch Rechtsanwalt Amadeus Klein,
+ 
+gegen
+ 
+1. A.________,
+2. B.________,
+3. C.________,
+4. D.________ AG,
+Beschwerdegegner, alle vertreten durch Rechtsanwalt Christof Wyss,
+Stadt Zürich, Bausektion des Stadtrates,
+c/o Amt für Baubewilligungen, Lindenhofstrasse 19, Postfach, 8021 Zürich.
+ 
+Gegenstand
+Baubewilligung,
+ 
+Beschwerde gegen den Entscheid vom 20. Juni 2007
+des Verwaltungsgerichts des Kantons Zürich,
+1. Abteilung, 1. Kammer.
+ 
+Sachverhalt:
+A.
+Die Bausektion der Stadt Zürich bewilligte der Orange Communications SA mit Beschluss vom 7. Juni 2005 die Erstellung einer Mobilfunk-Basisstation auf dem Gebäude Wiesenstrasse 1 in Zürich 8 (Grundstück Kat.-Nr. RI4110).
+B.
+Dagegen rekurrierten A.________ und 3 weitere Personen an die Baurekurskommission I des Kantons Zürich. Diese wies den Rekurs am 8. September 2006 ab.
+C.
+Dagegen erhoben die Rekurrenten Beschwerde an das Verwaltungsgericht des Kantons Zürich.
+ 
+Mit Präsidialverfügung vom 7. März 2007 wurde der Orange Communications SA Frist angesetzt, um zu erklären, nach welchen Grundsätzen sie ihr Qualitätssicherungssystem aufgebaut habe und welche Garantien die von ihr veranlasste externe Auditierung biete. Am 28. März 2007 reichte die Orange Communications SA eine Eingabe samt Beilagen ein, zu der sich die Rekurrenten am 14. Mai 2007 äusserten
+ 
+Am 20. Juni 2007 hiess das Verwaltungsgericht die Beschwerde gut und hob den Entscheid der Baurekurskommission und der Bausektion der Stadt Zürich auf, weil die Orange Communications SA nicht nachgewiesen habe, dass ihr Qualitätssicherungssystem den Anforderungen gemäss Rundschreiben des Bundesamts für Umwelt (BAFU) vom 16. Januar 2006 entspreche.
+D.
+Gegen diesen Entscheid hat die Orange Communications SA am 7. September 2007 Beschwerde in öffentlich-rechtlichen Angelegenheiten ans Bundesgericht erhoben. Sie beantragt, der angefochtene Entscheid sei aufzuheben, es seien der Beschluss der Bausektion der Stadt Zürich vom 7. Juni 2005 und der Entscheid der Baurekurskommission vom 8. September 2006 zu bestätigen und die entsprechende Baubewilligung zu erteilen. Zudem beantragt sie die Gewährung der aufschiebenden Wirkung.
+E.
+Das Verwaltungsgericht und die Rekurrenten beantragen die Abweisung der Beschwerde. Die Bausektion der Stadt Zürich hat eine Stellungnahme eingereicht, aber keinen Antrag gestellt. Das Bundesamt für Kommunikation (BAKOM) hat auf eine Stellungnahme verzichtet.
+ 
+Das BAFU lässt offen, ob eine allenfalls mangelhafte Auditierung unabhängig vom Ergebnis von Stichprobenkontrollen hinreichend sei, um einen Netzbetreiber zu verpflichten, Bewilligungsgesuche für Mobilfunksendeanlagen auf der Basis der maximalen Leistungsdaten für ERP einzureichen. Nachdem das Qualitätssicherungssystem der Orange Communications SA zwischenzeitlich, am 30. August 2007, von der akkreditierten Firma SGS Société Générale de Surveillance SA auf den Standard ISO 9001:2000 zertifiziert worden sei, sei die Frage, ob der erste Auditierungsbericht den Anforderungen des Bundesgerichts entsprochen habe und ob die auditierende Stelle über genügende Qualifikationen verfügt habe, nur noch von theoretischem Interesse und nicht mehr entscheidrelevant.
+F.
+Mit Verfügung vom 8. Oktober 2007 wurde das Gesuch um Gewährung der aufschiebenden Wirkung abgewiesen.
+ 
+Erwägungen:
+1.
+Der angefochtene, kantonal letztinstanzliche Entscheid des Verwaltungsgerichts, mit dem der Beschwerdeführerin die Baubewilligung verweigert wurde, unterliegt grundsätzlich der Beschwerde in öffentlich-rechtlichen Angelegenheiten (Art. 82 ff. BGG).
+ 
+Zu prüfen ist, ob noch ein schutzwürdiges Interesse an der Aufhebung des angefochtenen Entscheids besteht (Art. 89 Abs. 1 lit. c BGG), nachdem das Qualitätssicherungssystem der Beschwerdeführerin zwischenzeitlich durch eine hierfür akkreditierte Gesellschaft nach ISO-Normen zertifiziert worden ist. Das Verwaltungsgericht Zürich ging deshalb in einem Entscheid vom 21. November 2007 (VB.2007.00235, E. 4.2.2) davon aus, dass das Qualitätssicherungssystem im heutigen Zeitpunkt den gestellten Anforderungen genüge.
+ 
+Dies hat allerdings keinen Einfluss auf die vorliegend streitige, vom Verwaltungsgericht aufgehobene Baubewilligung. Zwar könnte die Beschwerdeführerin ein neues Baugesuch mit Hinweis auf die zwischenzeitlich erfolgte Zertifizierung einreichen. Sie ist jedoch der Auffassung, das Verwaltungsgericht habe die ihr erteilte Baubewilligung vom 7. Juni 2005 zu Unrecht aufgehoben und beantragt deshalb die Aufhebung des verwaltungsgerichtlichen Entscheids. Dies hätte zur Folge, dass die Baubewilligung vom 7. Juni 2005 rechtskräftig würde und die Beschwerdeführerin die streitige Mobilfunkbasisstation sofort installieren und in Betrieb nehmen könnte, ohne nochmals den gesamten Instanzenzug durchlaufen zu müssen. Damit hat sie weiterhin ein aktuelles Rechtsschutzinteresse.
+ 
+Auf die Beschwerde ist daher einzutreten.
+2.
+Die Feststellung des Sachverhalts kann im Beschwerdeverfahren vor Bundesgericht nur gerügt werden, wenn sie offensichtlich unrichtig ist oder auf einer Rechtsverletzung im Sinne von Artikel 95 beruht und wenn die Behebung des Mangels für den Ausgang des Verfahrens entscheidend sein kann (Art. 97 Abs. 1 BGG).
+2.1 Die Beschwerdeführerin rügt, die Sachverhaltsermittlung des Verwaltungsgerichts beruhe auf einer Verletzung der Amtsermittlungspflicht und des rechtlichen Gehörs und sei aus diesem Grund auch willkürlich.
+ 
+Sie macht geltend, das Verwaltungsgericht habe die Seriosität und die Fachkompetenz des beauftragten Auditors, E.________, in Zweifel gezogen und behauptet, dieser verfüge über keine Akkreditierung. Dies sei falsch, weil E.________ über ein Zertifikat der SGS International Certification Services AG als Qualitäts-Management-Auditor verfüge und seit 14 Jahren bei der Firma SGS als leitender Auditor ca. 35 Audits pro Jahr durchführe. Weiter verfüge E.________ über ein Zertifikat der European Organization for Quality (EOQ). Diese Informationen wären durch einen einfachen Anruf beim Institut F.________ oder der Firma SGS zu erhalten gewesen. Indem die Vorinstanz diese Abklärungen unterliess, habe sie gegen die Offizialmaxime gemäss § 7 des Verwaltungsrechtspflegegesetzes des Kantons Zürich vom 24. Mai 1959 (VRG) verstossen; dies sei willkürlich.
+ 
+Das Verwaltungsgericht sei nach Würdigung der Beweise anscheinend zum Ergebnis gekommen, dass für den Nachweis der Funktionsfähigkeit der Qualitätssicherungssysteme eine ISO-Zertifizierung nötig sei und dass die Auditierung des Systems der Orange Communications SA durch einen mangelhaft qualifizierten Auditor erfolgt sei. Zu diesem Beweisergebnis habe die Orange Communications SA keine Gelegenheit zur Stellungnahme erhalten. Dies habe ihren Anspruch auf rechtliches Gehör (Art. 29 Abs. 2 BV) verletzt.
+2.2 Die Amtsermittlungspflicht der Verwaltungsbehörden und -gerichte gemäss § 7 Abs. 1 VRG wird durch die in Abs. 2 statuierte Mitwirkungspflicht der Verfahrensbeteiligten eingeschränkt (vgl. Alfred Kölz/Jürg Bosshart/Martin Röhl, Kommentar zum Verwaltungsrechtspflegegesetz des Kantons Zürich, 2. Aufl., § 7 N 5).
+2.2.1 Mitwirkungspflichtig sind nach dieser Bestimmung Beteiligte, soweit sie ein Begehren gestellt haben (§ 7 Abs. 2 lit. a VRG) oder ihnen nach gesetzlicher Vorschrift eine Auskunfts- oder Mitteilungspflicht obliegt (§ 7 Abs. 2 lit. b VRG). Die Orange Communications SA war daher als Baugesuchstellerin mitwirkungspflichtig (Kölz/Bosshart/Röhl § 7 N 66); überdies ergibt sich aus den Art. 10 f. NISV eine Mitwirkungspflicht von Anlagebetreibern beim Vollzug der Verordnung und namentlich im Bewilligungsverfahren.
+2.2.2 Mit Verfügung vom 7. März 2007 wies der Abteilungspräsident darauf hin, dass aus dem publizierten Bericht über die Auditierung des Qualitätssicherungssystems der Orange Communications SA nicht hervorgehe, nach welchen Grundsätzen (z.B. einer einschlägigen ISO-Norm) diese ihr Qualitätssicherungssystem aufgebaut habe, und auch nichts über eine allfällige Akkreditierung des zur Auditierung herangezogenen Instituts bekannt sei. Der Abteilungspräsident räumte der Orange Communications SA eine Frist vom 20 Tagen ein, um zu erklären, nach welchen Grundsätzen sie ihr Qualitätssicherungssystem aufgebaut habe und welche Garantien die von ihr veranlasste externe Auditierung biete.
+ 
+Damit wurde die Orange Communications SA zur Mitwirkung bei der entsprechenden Sachverhaltsabklärung aufgefordert. Die Fragen betrafen Umstände im Geschäftsbereich der Orange Communications SA, über die diese besser in der Lage war, Informationen zu beschaffen als das Verwaltungsgericht und die übrigen Verfahrensbeteiligten.
+2.2.3 Die Orange Communications SA antwortete am 28. März 2007 in wenigen Sätzen, ihr Qualitätssicherungssystem sei zwar - anders als dasjenige ihrer Konkurrenten - nicht als ISO-Zertifizierung ausgestaltet; genau wie die Systeme der anderen Betreiber leiste es aber Gewähr dafür, dass weder die bewilligten Maximalsendeleistungen noch die bewilligten Tilts überschritten würden. Hierfür verwies sie auf den "Status Report" vom 2. Oktober 2006. Der Prozess werde durch eine unabhängige externe Stelle auditiert. Als Beleg für die Garantien der externen Auditierung reichte die Orange Communications SA die Titelseite des Auditierungs-Berichts vom 14. Dezember 2006 ein.
+ 
+Damit kam die Orange Communications SA ihrer Mitwirkungspflicht klarerweise nicht nach. Den "Status Report" vom 2. Oktober 2006 hatte sie zuvor schon ihrer Beschwerdeantwort vom 16. November 2006 beigelegt; dessen erneute Einreichung konnte dem Verwaltungsgericht deshalb keine neuen Erkenntnisse vermitteln. Die neu eingereichte Titelseite des Audits liess ihrerseits keine Rückschlüsse auf Fachkompetenz, Leistungsfähigkeit und Unabhängigkeit des Auditors zu; hierfür kann auf die zutreffende Würdigung im angefochtenen Urteil (E. 6.4.2) verwiesen werden.
+2.2.4 Wird die Mitwirkungspflicht verletzt, darf die Behörde dies im Rahmen der Sachverhaltsermittlung zu Ungunsten der nicht kooperativen Partei berücksichtigen, d.h. sie darf annehmen, die zu belegende Tatsache habe sich nicht verwirklicht und zum Nachteil des Mitwirkungspflichtigen entscheiden (Kölz/Bosshart/Röhl § 7 N 68). Das Verwaltungsgericht durfte daher ohne Willkür die fachliche Kapazität und Unabhängigkeit der Auditierung in Zweifel ziehen, und war nicht verpflichtet, weitere Recherchen zu unternehmen.
+2.3 Zu prüfen ist, ob das Verwaltungsgericht verpflichtet gewesen wäre, der Orange Communications SA diese Schlussfolgerung vor seinem Entscheid mitzuteilen und ihr nochmals Gelegenheit zur Stellungnahme einzuräumen.
+2.3.1 Der Anspruch auf rechtliches Gehör umfasst das Recht der Parteien, sich vor Erlass des in ihre Rechtsstellung eingreifenden Entscheids zur Sache zu äussern, erhebliche Beweise beizubringen, Einsicht in die Akten zu nehmen, mit erheblichen Beweisanträgen gehört zu werden und an der Erhebung wesentlicher Beweise entweder mitzuwirken oder sich zumindest zum Beweisergebnis zu äussern, wenn dieses geeignet ist, den Entscheid zu beeinflussen (BGE 132 V 368 E. 3.1 S. 371; 129 II 497 E. 2.2 S. 504 f., je mit Hinweisen).
+ 
+Beweisergebnis im Sinne dieser Rechtsprechung sind beispielsweise die Aussage eines Zeugen, die Auskunft einer Auskunftsperson, das Gutachten eines Experten, die am Augenschein getroffenen Feststellungen, usw. Dazu muss den Parteien - jedenfalls sofern sie an der Beweisabnahme nicht mitgewirkt haben - Gelegenheit zur Stellungnahme eingeräumt werden. Davon zu unterscheiden ist die Beweiswürdigung und die sich darauf stützende Sachverhaltsfeststellung des Gerichts: Diese wird regelmässig erst im Entscheid selbst begründet und muss den Parteien grundsätzlich nicht vorab zur Stellungnahme unterbreitet werden.
+2.3.2 Im vorliegenden Fall erhielt die Orange Communications SA mit Präsidialverfügung vom 7. März 2007 Gelegenheit, sich zu den Garantien der von ihr veranlassten externen Auditierung zu äussern und die diesbezüglichen Zweifel des Gerichts durch Beweismittel zu entkräften. Daraufhin reichte die Orange Communications SA die Eingabe vom 28. März 2007 zu den Akten. Die Würdigung dieser Eingabe und deren Beilagen war Sache des Gerichts; zu diesem Beweiswürdigungsergebnis musste der Beschwerdeführerin nicht nochmals Gelegenheit zur Stellungnahme eingeräumt werden.
+2.4 Nach dem Gesagten ist die Sachverhaltsfeststellung des Verwaltungsgerichts nicht zu beanstanden. Ob diese im Lichte der von der Beschwerdeführerin vor Bundesgericht eingereichten Unterlagen richtig ist, ist nicht zu prüfen: Neue Tatsachen und Beweismittel dürfen gemäss Art. 99 Abs. 1 BGG nur so weit vorgebracht werden, als erst der Entscheid der Vorinstanz dazu Anlass gibt. Wie oben (E. 2.2) dargelegt worden ist, hätte die Beschwerdeführerin die Unterlagen über die Qualifikation des Auditors schon vor Verwaltungsgericht einreichen müssen. Diese Verletzung der Mitwirkungspflicht im kantonalen Verfahren kann vor Bundesgericht nicht geheilt werden.
+3.
+Schliesslich erachtet die Orange den Entscheid des Verwaltungsgerichts als willkürlich, weil dieser, in Abweichung vom Rundschreiben des BAFU und von der bundesgerichtlichen Praxis, eine ISO-Zertifizierung des Qualitätssicherungssystems verlange. Damit habe das Verwaltungsgericht die Wirtschaftsfreiheit, die Eigentumsgarantie und die Informationsfreiheit der Orange in unzulässiger Weise, ohne gesetzliche Grundlage, eingeschränkt und Bundesumweltrecht verletzt.
+ 
+Das Verwaltungsgericht ging davon aus, die Zertifizierung nach ISO-Normen durch eine hierfür akkreditierte Stelle biete eine Mindestgarantie für die Einhaltung sachdienlicher Verfahren. Es schloss allerdings die Auditierung durch andere Stellen nicht von vornherein aus, verlangte jedoch für diesen Fall den Nachweis der Fachkompetenz und der Unabhängigkeit des Auditors.
+Diese Auffassung ist nicht zu beanstanden: Nach der bundesgerichtlichen Rechtsprechung kann auf die Kontrolle der Emissionsbegrenzung durch bauliche Vorkehrungen nur verzichtet werden, wenn die Einhaltung der bewilligten ERP und des bewilligten Winkelbereichs auf andere Weise wirksam kontrolliert werden kann. Wie das BAFU und die Bausektion Zürich in ihren Vernehmlassungen betonen, ist die Auditierung der Qualitätssicherungssysteme für das Vertrauen der Öffentlichkeit in dieses Kontrollsystem von entscheidender Bedeutung. Im Zeitpunkt des angefochtenen Entscheids waren die Qualitätssicherungssysteme gerade erst in Betrieb genommen worden und es lagen noch keine praktische Erfahrungen damit vor, weshalb der Auditierung um so grössere Bedeutung zukam. Unter diesen Umständen verstiess es nicht gegen Bundesrecht, auf einer Kontrolle durch bauliche Vorkehrungen zu beharren, solange die Qualitätssicherungssysteme - nach Ablauf der vom BAFU eingeräumten Übergangsfrist bis 31. Dezember 2006 - nicht von einer fachkundigen und unabhängigen Stelle auditiert worden waren.
+ 
+Ob es mildere Mittel als die Verweigerung der Baubewilligung gegeben hätte, ist im vorliegenden Fall nicht zu prüfen, nachdem die Beschwerdeführerin keine anderen geeigneten Mittel benennt und die Verletzung des Verhältnismässigkeitsprinzips auch nicht rügt (Art. 106 Abs. 2 BGG).
+4.
+Nach dem Gesagten ist die Beschwerde abzuweisen. Bei diesem Ausgang des Verfahrens wird die Beschwerdeführerin kosten- und entschädigungspflichtig (Art. 65 ff. BGG).
+ 
+Demnach erkennt das Bundesgericht:
+1.
+Die Beschwerde wird abgewiesen.
+2.
+Die Gerichtskosten von Fr. 3'000.-- werden der Beschwerdeführerin auferlegt.
+3.
+Die Beschwerdeführerin hat die privaten Beschwerdegegner für das bundesgerichtliche Verfahren mit insgesamt Fr. 2'000.-- zu entschädigen.
+4.
+Dieses Urteil wird den Parteien, der Stadt Zürich, Bausektion des Stadtrates, dem Verwaltungsgericht des Kantons Zürich, 1. Abteilung, 1. Kammer, den Bundesämtern für Umwelt und für Kommunikation schriftlich mitgeteilt.
+Lausanne, 26. Februar 2008
+Im Namen der I. öffentlich-rechtlichen Abteilung
+des Schweizerischen Bundesgerichts
+Das präsidierende Mitglied:        Die Gerichtsschreiberin:
+ 
+Aemisegger        Gerber
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                            2
+3
+4
+5
+Vorwärts
+
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

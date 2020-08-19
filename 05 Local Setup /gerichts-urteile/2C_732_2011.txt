@@ -1,0 +1,201 @@
+
+
+2C_732/2011 (08.06.2012)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Bundesgericht
+Tribunal fédéral
+Tribunale federale
+Tribunal federal
+ 
+{T 1/2}
+2C_732/2011
+ 
+Urteil vom 8. Juni 2012
+II. öffentlich-rechtliche Abteilung
+ 
+Besetzung
+Bundesrichter Zünd, Präsident,
+Bundesrichter Seiler,
+Bundesrichterin Aubry Girardin,
+Bundesrichter Donzallaz,
+Bundesrichter Stadelmann,
+Gerichtsschreiber Winiger.
+ 
+1.  Verfahrensbeteiligte
+Nordostschweizerische Kraftwerke Grid AG,
+2.  Axpo AG,
+3.  Kernkraftwerk Leibstadt AG,
+4.  Forces Motrices de Mauvoisin SA,
+5.  Kraftwerke Mattmark AG,
+6.  Kraftwerke Vorderrhein AG,
+Beschwerdeführerinnen,
+alle vertreten durch Prof. Dr. Hans-Rudolf Trüeb und Julia Bhend, Rechtsanwälte, Walder Wyss AG,
+ 
+gegen
+ 
+1.  Alpiq Netz AG Gösgen,
+2.  swissgrid ag,
+Beschwerdegegnerinnen,
+ 
+Eidgenössische Elektrizitätskommission ElCom, Effingerstrasse 39, 3003 Bern.
+ 
+Gegenstand
+Definition und Abgrenzung Übertragungsnetz,
+ 
+Beschwerde gegen das Urteil des Bundesverwaltungsgerichts, Abteilung I, vom 11. Juli 2011.
+ 
+Sachverhalt:
+ 
+A.
+A.a  Am 1. Januar 2008 ist das Bundesgesetz vom 23. März 2007 über die Stromversorgung (Stromversorgungsgesetz, StromVG; SR 734.7) in Kraft getreten. Gemäss Art. 18 Abs. 1 dieses Gesetzes wird das Übertragungsnetz auf gesamtschweizerischer Ebene von der nationalen Netzgesellschaft betrieben. Die Elektrizitätsversorgungsunternehmen überführen bis spätestens fünf Jahre nach dem Inkrafttreten des Gesetzes (d.h. bis spätestens 1. Januar 2013) das Übertragungsnetz auf gesamtschweizerischer Ebene auf die nationale Netzgesellschaft (Art. 33 Abs. 4 StromVG). Kommen die Elektrizitätsversorgungsunternehmen dieser Verpflichtung nicht nach, erlässt die Elektrizitätskommission (ElCom) auf Antrag der nationalen Netzgesellschaft oder von Amtes wegen die erforderlichen Verfügungen (Art. 33 Abs. 5 StromVG).
+A.b  Am 1. Juni 2010 stellte die nationale Netzgesellschaft swissgrid ag bei der ElCom ein Feststellungsgesuch mit dem Antrag, es sei festzustellen, dass das gesamte 220/380-kV-Netz als Übertragungsnetz gelte (mit den in den Beilagen definierten Ausnahmen) und das Eigentum daran an die nationale Netzgesellschaft zu übertragen sei. Die ElCom stellte das Gesuch am 5. Juli 2010 allen Übertragungsnetzeigentümern zu und gab ihnen Gelegenheit, dazu Stellung zu nehmen.
+A.c  Am 9. Juli 2010 stellte die Nordostschweizerische Kraftwerke Grid AG (im Folgenden: NOK Grid AG) bei der ElCom ebenfalls ein Feststellungsgesuch mit den Anträgen, es sei festzustellen, dass das auf die nationale Netzgesellschaft zu übertragende Übertragungsnetz anhand einer an den Funktionen ausgerichteten Betrachtungsweise zu definieren und vom Verteilnetz abzugrenzen sei. Es sei festzustellen, dass die funktionale Zuordnung der Netze zum Übertragungs- oder Verteilnetz anhand nachfolgender Kriterien zu erfolgen habe: Netzausdehnung, mittlere Systemlänge, mittlere Übertragungsentfernung, Anzahl der Anschlusspunkte, umgesetzte Jahresenergien (Versorgung, Export), unterlagerte Transite und gegenseitige Beeinflussung. Eventualiter seien die Kriterien für die funktionale Zuordnung von Netzen bzw. Netzteilen zum Übertragungs- oder Verteilnetz durch die ElCom festzulegen. Im Gesuch wies die NOK Grid AG darauf hin, dass sie dieses Gesuch ausgearbeitet habe, bevor das Schreiben vom 5. Juli 2010 betreffend Feststellungsbegehren der swissgrid ag eingetroffen sei. Am 11. August 2010 stellte die ElCom auch das Gesuch der NOK Grid AG allen Übertragungsnetzeigentümern zu und gab ihnen Gelegenheit, sich dazu zu äussern.
+A.d  In der Folge äusserten sich verschiedene Übertragungsnetzeigentümer zu den von swissgrid ag bzw. NOK Grid AG vorgeschlagenen Abgrenzungskriterien, darunter namentlich die Alpiq Réseau S.A. Lausanne, die Alpiq Netz AG Gösgen, die CKW Grid, die BKW Übertragungsnetz AG, die Kraftwerke Vorderrhein AG, die Kraftwerke Mattmark AG und die Forces Motrices de Mauvoisin S.A. Sodann äusserten sich swissgrid ag und NOK Grid AG jeweils wechselseitig zu den von der anderen Gesuchstellerin gestellten Anträgen.
+A.e  Am 11. November 2010 erliess die ElCom eine Verfügung (921-10-005); im Rubrum wurden die swissgrid ag als Gesuchstellerin 1, die NOK Grid AG als Gesuchstellerin 2 und "Eigentümer des Übertragungsnetzes" als weitere Verfahrensbeteiligte bezeichnet. Im Dispositiv verfügte die ElCom u.a.:
+"1. Vermaschte Leitungen und die erforderlichen Nebenanlagen, die auf der Spannungsebene 220/380 kV-Netz betrieben werden, gehören grundsätzlich zum Übertragungsnetz und sind auf die swissgrid ag zu überführen. Das Gesuch der swissgrid ag wird in diesem Punkt gutgeheissen. Ziffer 1 des Gesuchs der NOK Grid AG wird in diesem Punkt abgewiesen, Ziffer 2 und Ziffer 3a werden abgewiesen.
+(...)
+10. Stichleitungen gehören nicht zum Übertragungsnetz und sind nicht auf die swissgrid ag zu übertragen. Das Gesuch der swissgrid ag wird in diesem Punkt teilweise gutgeheissen. Ziffer 3b des Gesuchs der NOK Grid AG wird teilweise gutgeheissen. Stichleitungen, die nach einem Netzausbau Teil des vermaschten Übertragungsnetzes werden, gehören ab diesem Zeitpunkt zum Übertragungsnetz und sind auf die swissgrid ag zu überführen."
+In Ziff. 142 der Erwägungen nannte die ElCom nicht abschliessend einige Beispiele für Stichleitungen, die nicht zum Übertragungsnetz gehören, darunter soweit hier von Interesse die Leitung Mettlen-Ingenbohl-Plattischachen-Göschenen.
+Die Verfügung wurde der swissgrid ag, der NOK Grid AG sowie den (in einem Anhang zur Verfügung namentlich genannten) weiteren Verfahrensbeteiligten eröffnet, darunter der Alpiq Netz AG Gösgen.
+ 
+B.
+Am 6. Januar 2011 erhob die Alpiq Netz AG Gösgen Beschwerde beim Bundesverwaltungsgericht. Sie beantragte, es sei Ziff. 142 der Erwägungen der angefochtenen Verfügung dahingehend zu präzisieren, dass die Leitung Mettlen-Ingenbohl-Plattischachen nicht als Stichleitung gelte und zum Übertragungsnetz gehöre. Eventualiter sei Ziff. 10 des Dispositivs der angefochtenen Verfügung dahingehend zu präzisieren, dass die Leitung Mettlen-Ingenbohl-Plattischachen nicht als Stichleitung gelte, zum Übertragungsnetz gehöre und somit an die swissgrid ag zu übertragen sei.
+Das Bundesverwaltungsgericht lud die swissgrid ag und die ElCom zur Vernehmlassung ein. Mit Urteil vom 11. Juli 2011 hiess es die Beschwerde gut, hob Ziffer 10 des Dispositivs der Verfügung der ElCom auf (Ziff. 1) und stellte fest, dass Stichleitungen (mit oder ohne Versorgungscharakter) zum Übertragungsnetz gehörten und in das Eigentum der swissgrid ag zu überführen seien (Ziff. 2). Ferner stellte es fest, dass die gesamte Leitung Mettlen-Ingenbohl-Plattischachen-Göschenen zum Übertragungsnetz gehöre und in das Eigentum der swissgrid ag zu übertragen sei (Ziff. 3). Das Urteil wurde der Alpiq Netz AG Gösgen, der swissgrid ag, der ElCom und dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (im Folgenden: UVEK) eröffnet.
+ 
+C.
+Die NOK Grid AG, die Axpo AG, die Kernkraftwerk Leibstadt AG, die Forces Motrices de Mauvoisin SA, die Kraftwerke Mattmark AG und die Kraftwerke Vorderrhein AG erheben gemeinsam Beschwerde in öffentlich-rechtlichen Angelegenheiten mit dem Rechtsbegehren, das Urteil des Bundesverwaltungsgerichts sei aufzuheben und die Sache zur Wiederholung des Verfahrens an die Vorinstanz zurückzuweisen; eventualiter seien die Ziff. 1 und 2 des angefochtenen Urteils aufzuheben und die Ziff. 10 der Verfügung der ElCom vom 11. November 2010 zu bestätigen; subeventualiter seien die Ziff. 1 und 2 des angefochtenen Urteils aufzuheben, unter gleichzeitiger Feststellung, dass die folgenden Stichleitungen nicht zum Übertragungsnetz gehören und nicht an die swissgrid ag zu übertragen seien: KK Leibstadt-Leibstadt; KK Beznau-Beznau; Breite-Riet-Schlattingen; Birr-GT Alstom; Grynau-Tierfehd; Riddes-Fionnay FMM; Stalden-Zermeiggern sowie  Tavanasa-Sedrun; subsubeventualiter seien Ziff. 1 und 2 des angefochtenen Urteils dahingehend anzupassen, dass vom konzessionsrechtlichen Heimfall betroffene oder zu den Erschliessungsanlagen nach Art. 49 Abs. 5 KEG gehörende Netzanlagen nicht Teil des Übertragungsnetzes bilden und nicht an die swissgrid ag zu übertragen seien.
+Die swissgrid ag beantragt, die Rechtsbegehren 1-3 seien abzuweisen, soweit darauf einzutreten sei; hinsichtlich des Subsubeventualbegehrens sei das Verfahren zu sistieren, soweit es vom konzessionsrechtlichen Heimfall erfasste Netzanlagen betreffe und soweit darauf einzutreten sei.
+Die Alpiq Netz AG Gösgen beantragt, die Beschwerde sei abzuweisen, soweit darauf einzutreten sei und das Urteil der Vorinstanz sei vollumfänglich zu bestätigen. Die ElCom äussert sich zum Verfahren, ohne einen ausdrücklichen Antrag zu stellen. Das Bundesverwaltungsgericht, das UVEK und das Bundesamt für Energie verzichten auf Vernehmlassung.
+ 
+Erwägungen:
+ 
+1.
+Das Bundesgericht prüft seine Zuständigkeit und die Eintretensvoraussetzungen von Amtes wegen (Art. 29 Abs. 1 BGG; BGE 136 I 42 E. 1 S. 43; 135 III 1 E. 1.1 S. 3). Die Beschwerde in öffentlich-rechtlichen Angelegenheiten gegen den Endentscheid des Bundesverwaltungsgerichts ist grundsätzlich zulässig (Art. 82 lit. a, Art. 86 Abs. 1 lit. a und Art. 90 BGG).
+ 
+2.
+Näher zu prüfen ist die Legitimation der Beschwerdeführerinnen.
+ 
+2.1  Zur Beschwerde berechtigt ist nach Art. 89 Abs. 1 BGG, wer vor der Vorinstanz am Verfahren teilgenommen hat oder keine Möglichkeit zur Teilnahme erhalten hat (lit. a), durch den angefochtenen Entscheid besonders berührt ist (lit. b) und ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat (lit. c).
+ 
+2.2  Die Beschwerdeführerinnen sind als Eigentümerinnen von Elektrizitätsleitungen materiell beschwert durch Entscheide, welche den Umfang der Übertragungspflicht gemäss Art. 33 Abs. 4 StromVG  in Bezug auf ihre Leitungen zum Gegenstand haben. Sie waren allerdings am Verfahren vor der Vorinstanz nicht beteiligt, machen aber geltend, sie hätten zu Unrecht keine Möglichkeit zur Teilnahme erhalten: Obwohl sie durch den angefochtenen Entscheid beschwert seien, weil er für alle Beteiligten des erstinstanzlichen Verfahrens gelte, seien sie vom Bundesverwaltungsgericht nie zur Vernehmlassung eingeladen worden. Das Erfordernis der formellen Beschwer gemäss Art. 89 Abs. 1 lit. a BGG sei deshalb auf sie nicht anwendbar.
+ 
+2.3  Abgesehen von denjenigen Fällen, in denen erst durch den vorinstanzlichen Entscheid die besondere Berührtheit überhaupt entsteht (Urteil 1C_134/2010 vom 28. September 2010 E. 3), kommt der Verzicht auf formelle Beschwer nur zum Tragen, wenn der Beschwerdeführer im vorinstanzlichen Verfahren richtigerweise hätte Parteistellung beanspruchen können, aber am Verfahren unverschuldet - z.B. wegen eines Fehlers der Behörde - nicht teilnehmen konnte (BGE 8C_190/2011 vom 13. Februar 2012 E. 2.5.1; 134 V 306 E. 3.3.1 S. 311; 133 II 181 E. 3.2 S. 187). Dies setzt voraus, dass der Beschwerdeführer bereits im vorinstanzlichen Verfahren materiell besonders berührt gewesen wäre.
+ 
+2.4  Ausgangspunkt des vorliegenden Verfahrens bildet die Verfügung der ElCom vom 11. November 2010. Eine Verfügung ist eine Anordnung im Einzelfall, welche die Begründung, Änderung oder Aufhebung von Rechten oder Pflichten oder entsprechende Feststellungen zum Gegenstand hat (Art. 5 VwVG). Eine Verfügung beantwortet indessen nicht abstrakte, theoretische Rechtsfragen (BGE 126 II 300 E. 2c S. 303), sondern regelt konkrete Rechtsverhältnisse (BGE 135 II 38 E. 4.6 S. 46; 133 II 450 E. 2.1 S. 454; 132 V 257 E. 2.4.2 S. 263) oder trifft entsprechende Feststellungen (Art. 25 VwVG). In casu regelt die Verfügung der ElCom, welche Leitungen oder Anlagen von den bisherigen Netzeigentümern auf die swissgrid ag zu übertragen sind. Auch wenn sich für alle Anlagen die gleichen Rechtsfragen stellen und die Verfügung weitgehend generell formuliert ist, ist sie nicht als generell-abstrakter Erlass (wozu die ElCom gar nicht zuständig wäre [vgl. Art. 22 StromVG; Art. 48 RVOG e contrario] und der nicht anfechtbar wäre [Art. 31 und 33 VGG e contrario]) zu qualifizieren. Ebenso wenig handelt es sich um eine Allgemeinverfügung, welche einen konkreten Sachverhalt mit Wirkung für eine unbestimmte Zahl von Parteien regelt (BGE 134 II 272 E. 3.2 S. 280; 126 II 300 E. 1a S. 302). Vielmehr regelt die Verfügung der ElCom eine Vielzahl von konkreten Sachverhalten (Leitungen) und die entsprechenden Rechtsverhältnisse, an denen jeweils einerseits die swissgrid und andererseits der Eigentümer der betreffenden Leitung beteiligt sind. Dementsprechend hat die ElCom richtigerweise allen Übertragungsnetz-Eigentümern Gelegenheit gegeben, sich am Verfahren zu beteiligen, und allen die Verfügung eröffnet.
+ 
+2.5  swissgrid ag und die meisten Netzeigentümer (darunter auch die heutigen Beschwerdeführerinnen) haben die Verfügung der ElCom nicht angefochten. Im Verhältnis zwischen swissgrid ag einerseits und diesen nicht anfechtenden Netzeigentümern ist damit die Verfügung der ElCom vom 11. November 2010, inklusive der umstrittenen Ziffer 10, in Rechtskraft erwachsen.
+ 
+2.6  Nur eine kleine Zahl von Netzeigentümern, darunter die heutige Beschwerdegegnerin 1, haben die Verfügung der ElCom bei der Vorinstanz angefochten. Streitgegenstand im vorinstanzlichen Verfahren konnte damit von vornherein nur das Rechtsverhältnis zwischen swissgrid ag und dem jeweils Beschwerde führenden Netzeigentümer sein, nicht aber das Verhältnis zu den anderen Netzeigentümern, welche nicht Beschwerde geführt hatten. Die Vorinstanz hat richtigerweise die swissgrid ag ins Verfahren einbezogen, weil sie notwendige Gegenpartei ist (MARANTELLI-SONANINI/HUBER, in: Praxiskommentar zum VwVG, 2009, Rz. 8 zu Art. 6 VwVG). Hingegen bestand kein Anlass, die übrigen Netzeigentümer, deren Rechtsverhältnis zu swissgrid ag rechtskräftig entschieden worden ist, ins Verfahren einzubeziehen.
+ 
+2.7  Dementsprechend kann der angefochtene Entscheid nur Rechtswirkungen im Verhältnis zwischen swissgrid ag einerseits und der jeweils Beschwerde führenden Partei (heutige Beschwerdegegnerin 1) haben. Daran ändert nichts, dass im Wortlaut des Dispositivs in genereller Weise die Ziff. 10 der Verfügung der ElCom aufgehoben und festgestellt wird, Stichleitungen gehörten zum Übertragungsnetz; denn das Urteilsdispositiv kann nicht etwas anderes regeln als das, was zum Streitgegenstand gehört. Die Beschwerdeführerinnen bzw. ihre Leitungen waren und sind durch das Urteil der Vorinstanz nicht betroffen. In Bezug auf sie bleibt es bei der Verfügung der ElCom vom 11. November 2010. Die Beschwerdeführerinnen sind daher auch materiell durch das angefochtene Urteil nicht beschwert. Daran vermag auch der Umstand, dass sich die Vorinstanz nicht explizit zu dieser Problematik geäussert hat, nichts zu ändern; allerdings hätte eine diesbezügliche Klarstellung die Beschwerdeführerinnen womöglich davon abgehalten, mit Beschwerde an das Bundesgericht zu gelangen. Immerhin hat die Vorinstanz dadurch, dass sie die übrigen Netzeigentümer nicht ins Verfahren miteinbezogen hat (vgl. E. 2.6 hiervor), deutlich zum Ausdruck gebracht, dass sich ihr Urteil nur auf die Verhältnisse der Beschwerdegegnerin 1 beziehen kann; dementsprechend hat sie auch in Ziff. 3 des angefochtenen Urteils klargestellt, dass nur die erwähnten Stichleitungen zum Übertragungsnetz gehören.
+ 
+2.8  Daraus ergibt sich, dass auf die Beschwerde mangels Legitimation der Beschwerdeführerinnen nicht einzutreten ist.
+ 
+3.
+Bei diesem Ausgang des Verfahrens tragen die Beschwerdeführerinnen die Kosten des bundesgerichtlichen Verfahrens unter solidarischer Haftung (Art. 66 Abs. 1 und 5 BGG). Die nicht anwaltlich vertretenen Beschwerdegegnerinnen haben keinen Anspruch auf Parteientschädigung.
+ 
+Demnach erkennt das Bundesgericht:
+ 
+1.
+Auf die Beschwerde wird nicht eingetreten.
+ 
+2.
+Die Gerichtskosten von Fr. 5'000.-- werden den Beschwerdeführerinnen unter solidarischer Haftung auferlegt.
+ 
+3.
+Dieses Urteil wird den Verfahrensbeteiligten, der Eidgenössischen Elektrizitätskommission ElCom, dem Bundesverwaltungsgericht, Abteilung I, dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation und dem Bundesamt für Energie schriftlich mitgeteilt.
+ 
+Lausanne, 8. Juni 2012
+ 
+Im Namen der II. öffentlich-rechtlichen Abteilung
+des Schweizerischen Bundesgerichts
+ 
+Der Präsident:    Zünd
+ 
+Der Gerichtsschreiber:    Winiger
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                            2
+3
+Vorwärts
+
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

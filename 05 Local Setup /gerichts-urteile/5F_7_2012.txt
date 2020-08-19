@@ -1,0 +1,186 @@
+
+
+5F_7/2012 (07.09.2012)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Bundesgericht
+Tribunal fédéral
+Tribunale federale
+Tribunal federal
+ 
+{T 0/2}
+5F_7/2012
+ 
+Arrêt du 7 septembre 2012
+IIe Cour de droit civil
+ 
+Composition
+Mme et MM. les Juges fédéraux Escher, Juge présidant, Marazzi et Herrmann.
+Greffier: M. Braconi.
+ 
+Participants à la procédure
+1. B.________,
+2. C.________,
+3. D.________,
+tous représentés par Me J.________, avocat,
+requérants,
+ 
+contre
+ 
+A.________,
+représentée par Me Ivan Cohen, avocat,
+intimée,
+ 
+Objet
+demande de révision de l'arrêt 5A_682/2011 du 29 mai 2012.
+ 
+Faits:
+ 
+A.
+F.________ SA, société sise à X.________, a été déclarée en faillite le 3 octobre 2006 sur requête de A.________; son actionnaire et administrateur unique était G.________. A.________ est une société sise aux Etats-Unis (Wyoming), dont l'actionnaire est H.________.
+En 2002, B.________, C.________ et D.________, tous domiciliés dans le canton de Genève, ont investi 1'400'000 USD dans les affaires de G.________, en constituant avec lui une nouvelle société dont la raison sociale était, en dernier lieu, I._________ Limited; G.________ et les investisseurs genevois, tous actionnaires de la société, étaient liés par une convention de société simple.
+Un litige survenu entre G.________ et les investisseurs genevois a donné lieu à une plainte pénale de ceux-ci, représentés par Me J.________, contre celui-là, représenté par Me E.________; des pourparlers ont abouti le 13 septembre 2005 à la signature d'un accord aux termes duquel G.________ s'est engagé à verser à ses trois associés la somme de 950'000 USD, moyennant le retrait de la plainte pénale.
+Une somme de 960'000 USD a été virée le 26 octobre 2005 du compte bancaire de F.________ SA sur un compte «Avoirs de clients» de Me E.________; la cause de ce versement était «I.________». Le surlendemain, cet avocat a viré la somme de 950'000 USD sur un compte de l'Etude de Mes K.________, L.________ et J.________, en indiquant la même cause de paiement.
+ 
+B.
+Dans le cadre de la faillite de F.________ SA, l'Office des faillites de Genève a colloqué en 3e classe une créance de A.________ à hauteur de 1'519'347 fr.98 et inventorié une prétention révocatoire, à concurrence de 960'000 USD, à l'encontre de Me E.________, B.________, C.________ et D.________, dont il a offert la cession aux créanciers de la faillite. Selon l'estimation de l'office des faillites, aucun dividende n'était escompté pour les créanciers chirographaires.
+Agissant en qualité de cessionnaire des droits de la masse en faillite, A.________ a assigné, le 3 octobre 2008, Me E.________, B.________, C.________ et D.________, en paiement de la somme de 960'000 USD avec intérêts à 5% dès le 26 octobre 2005.
+Statuant le 24 juin 2010, le Tribunal de première instance de Genève a notamment déclaré recevable l'action révocatoire (ch. 1), révoqué le paiement de 960'000 USD opéré le 26 octobre 2005 (ch. 2), condamné le défendeur E.________ à payer à A.________ la somme de 10'000 USD (ch. 3), condamné les défendeurs B.________, C.________ et D.________, conjointement et solidairement, à payer à A.________ la somme de 950'000 USD (ch. 4) et mis tous les dépens à la charge des défendeurs (ch. 5).
+Par arrêt du 26 août 2011, la Chambre civile de la Cour de justice du canton de Genève a annulé les chiffres 2, 4 et 5 du dispositif de cette décision et statué à nouveau sur les frais et dépens du procès.
+ 
+C.
+Par arrêt du 29 mai 2012, la IIe Cour de droit civil du Tribunal fédéral a partiellement admis le recours en matière civile interjeté par la demanderesse, annulé l'arrêt cantonal et renvoyé l'affaire à la Cour de justice pour nouvelle décision dans le sens des considérants (5A_682/2011). Il ressort des motifs de cet arrêt que la Cour de céans a admis, quant au principe, l'action révocatoire (consid. 4), le renvoi ne concernant que le point de départ de l'intérêt moratoire (consid. 5) et les dépens de la procédure d'appel (consid. 6.2).
+ 
+D.
+Par acte du 9 juillet 2012, B.________, C.________ et D.________ forment une demande de révision au Tribunal fédéral; ils concluent à l'annulation de l'arrêt fédéral précité et au rejet du recours en matière civile de A.________ contre l'arrêt de la Cour de justice.
+ 
+Des observations n'ont pas été requises.
+ 
+Considérant en droit:
+ 
+1.
+En l'espèce, les requérants se fondent sur l'art. 121 let. d LTF, en vertu duquel la révision d'un arrêt du Tribunal fédéral peut être demandée si, par inadvertance, le tribunal n'a pas pris en considération des faits pertinents qui ressortent du dossier. Cette disposition reprend le motif de révision prévu par l'art. 136 let. d OJ, de sorte que la jurisprudence rendue sous l'empire de l'ancien droit reste valable (arrêt 4F_1/2007 du 13 mars 2007 consid. 6.1).
+On est en présence d'une "inadvertance" lorsque le tribunal a omis de prendre en considération une pièce déterminée, versée au dossier, ou l'a mal lue, s'écartant par mégarde de sa teneur exacte, en particulier de son vrai sens littéral; cette notion se rapporte au contenu même du fait, et non à son appréciation juridique; enfin, ce motif de révision n'est réalisé que si les faits en cause sont "pertinents", à savoir susceptibles de conduire à une solution différente de celle qui a été retenue, et plus favorable au requérant (ATF 122 II 17 consid. 3 et les références; arrêt 1F_5/2012 du 19 avril 2012 consid. 2.1, avec d'autres citations).
+ 
+2.
+2.1  A l'appui de leur demande, les requérants exposent que, par suite d'une inadvertance, le Tribunal fédéral n'a pas pris en considération les faits suivants: il n'y a pas eu un paiement de F.________ SA, mais bien deux versements distincts: le premier de cette société à G.________, le second de celui-ci aux intimés nos 1 à 3 (de la précédente procédure); F.________ SA n'était pas débitrice de ces derniers; le montant perçu par les intimés nos 1 à 3 n'a pas été acquitté par ladite société, mais par G.________, par le truchement de son mandataire, Me E.________, qui n'a jamais été l'avocat de F.________ SA; l'accord du 13 septembre 2005 a été passé entre les intimés nos 1 à 3 et G.________, non pas avec F.________ SA, qui n'était pas partie à cette convention.
+ 
+2.2  Dans l'arrêt attaqué, la Cour de céans a retenu que Me E.________ était l'avocat de G.________ et qu'il était le premier récipiendaire du versement effectué par F.________ SA; elle n'a nullement constaté que cette société était la débitrice des intimés nos 1 à 3 ou était partie à l'accord du 13 septembre 2005. Le Tribunal fédéral a ainsi retenu l'existence de deux paiements successifs, le premier du compte de F.________ SA sur celui de Me E.________, le second de ce dernier sur le compte de l'Etude du mandataire des intimés nos 1 à 3, étant précisé que la cause des deux versements était la même, à savoir "I.________" (arrêt 5A_682/2011 let. A, p. 2 al. 2 et 3). Cette conclusion ressort en outre des motifs qui touchent à la question de savoir si l'"intimé n° 4" (i.e. Me E.________) et le "conseil des intimés nos 1 à 3" (i.e. Me J.________) pouvaient être recherchés en révocation (ibid., consid. 4.2.2); de telles considérations eussent été dénuées de pertinence si la Cour de céans n'avait reconnu l'existence que d'un unique paiement.
+ 
+En droit, le Tribunal fédéral a considéré que, si le versement opéré par la société (une fois parvenu en mains des intéressés) avait libéré G.________ de sa dette envers les intimés nos 1 à 3, ceux-ci n'étaient pas moins des bénéficiaires au sens de l'art. 290 LP, dès lors qu'ils avaient acquis des valeurs sorties du patrimoine de la débitrice par l'effet d'un acte révocable et étaient les destinataires de cette attribution à teneur de l'accord du 13 septembre 2005 (arrêt 5A_682/2011 consid. 4.2.2); le fait qu'ils n'aient pas collaboré à l'opération litigieuse, ou ne soient pas les cocontractants de la débitrice (ATF 135 III 265 consid. 3 p. 268), est sans pertinence.
+ 
+La demande apparaît, en conséquence, mal fondée.
+ 
+2.3  Sous le couvert d'une "inadvertance", les requérants s'en prennent en réalité aux motifs de l'arrêt attaqué, dont ils contestent l'application au cas particulier de la notion de "bénéficiaire indirect". Cette démarche est cependant vaine; la voie de la révision ne saurait être utilisée aux fins de remettre en question la solution juridique adoptée par le Tribunal fédéral (ATF 96 I 279 consid. 3; ESCHER, in: Basler Kommentar, BGG, 2e éd., 2010, n° 9 ad art. 121 LTF).
+ 
+Au demeurant, l'affirmation d'après laquelle le second versement a été effectué à la suite d'une "instruction" que G.________ a donnée "en son nom propre", et "non comme représentant" de F.________ SA, n'est pas corroborée par les constatations de la Cour de justice. Elle apparaît d'ailleurs douteuse, puisqu'il est constant que le prénommé - en plus d'être actionnaire - était "administrateur unique" de la société débitrice, partant son organe, qualité que les requérants ne prétendent pas avoir ignorée. Du reste, la Cour de justice avait considéré que "la situation d'un organe (i.e. G.________) faisant payer sa dette privée par la société anonyme qu'il dirige (i.e. F.________ SA), par virement bancaire, est comparable à celle d'un organe prélevant dans la caisse de la société les espèces qui s'y trouvent, puis éteignant sa dette personnelle (i.e. à l'égard des intimés nos 1 à 3) par remise physique de ces espèces à son créancier".
+ 
+L'argumentation des requérants aboutit, dans son résultat, à soustraire à la révocation les créanciers personnels de l'administrateur unique d'une société anonyme - lequel forme la volonté même de la personne morale (ATF 111 II 284 consid. 3b) et la représente nécessairement de par la loi (ATF 133 III 77 consid. 6) - en faveur desquels cet organe a disposé de la fortune sociale. Le Tribunal fédéral n'a pas souscrit à cet avis; la révision ne permet pas d'y remédier.
+ 
+3.
+Vu l'issue de la procédure, les frais judiciaires incombent solidairement aux requérants (art. 66 al. 1 et 5 LTF).
+ 
+Par ces motifs, le Tribunal fédéral prononce:
+ 
+1.
+La demande de révision est rejetée.
+ 
+2.
+Les frais judiciaires, arrêtés à 12'000 fr., sont mis solidairement à la charge des requérants.
+ 
+3.
+Le présent arrêt est communiqué aux parties et à la Chambre civile de la Cour de justice du canton de Genève.
+ 
+Lausanne, le 7 septembre 2012
+Au nom de la IIe Cour de droit civil
+du Tribunal fédéral suisse
+ 
+La Juge présidant:    Escher
+ 
+Le Greffier:    Braconi
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                            2
+3
+4
+5
+Vorwärts
+
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

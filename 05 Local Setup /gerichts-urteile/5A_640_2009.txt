@@ -1,0 +1,186 @@
+
+
+5A_640/2009 (11.11.2009)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Bundesgericht
+Tribunal fédéral
+Tribunale federale
+Tribunal federal
+ 
+{T 0/2}
+5A_640/2009
+ 
+Arrêt du 11 novembre 2009
+IIe Cour de droit civil
+ 
+Composition
+Mmes et M. les Juges Hohl, Présidente,
+Escher et Marazzi.
+Greffière: Mme Aguet.
+ 
+Parties
+X.________ SA,
+recourante,
+ 
+contre
+ 
+Masse en faillite de la SI Y.________, p.a. Office des faillites, chemin de la Marbrerie 13, 1227 Carouge GE,
+intimée.
+ 
+Objet
+bordereau définitif de vente,
+ 
+recours contre la décision de la Commission de surveillance des offices des poursuites et des faillites
+du canton de Genève du 3 septembre 2009.
+ 
+Faits:
+ 
+A.
+A.a La SI Y.________ est une société anonyme dont le seul actif est un immeuble sis sur la parcelle n° xxx, plan yy de la commune de A.________.
+La faillite de la SI Y.________ a été déclarée le 12 juin 2001; elle est liquidée selon le mode sommaire, en vertu d'un jugement du Tribunal de première instance de Genève du 19 janvier 2004.
+A.b Selon l'état de collocation déposé le 9 novembre 2005, repris dans l'état des charges, la Fondation Z.________ a produit trois créances de 1'338'000 fr., 392'456 fr. et 2'536'000 fr., garanties par trois cédules hypothécaires au porteur respectivement en 1er, 2ème et 4ème rangs, ainsi qu'une créance de 216'753 fr. relative aux intérêts (art. 818 CC). Les consorts B.________, dont la créance a été reprise par X.________ SA, sont pour leur part créanciers hypothécaires en 5ème rang pour 5'680'000 fr., avec une production de 1'704'000 fr. pour les intérêts hypothécaires arriérés.
+A.c Plusieurs plaintes et actions en contestation de l'état de collocation ont émaillé la liquidation de cette faillite. La dernière procédure en cours, à savoir l'action en contestation de l'état de collocation des consorts B.________, ayant été définitivement tranchée, l'Office des faillites de Genève a fixé la date de la vente aux enchères au 24 avril 2008, les conditions de vente étant déposées le 5 mars 2008.
+L'immeuble a été acquis pour un montant de 4'920'000 fr. par X.________ SA, représentée par la Régie C.________ SA.
+A.d Une fois la vente effectuée, l'Office des faillites de Genève a adressé le 30 avril 2008 un courrier recommandé à l'Administration cantonale des finances, division des personnes morales, accompagné du procès-verbal de vente, afin de permettre de procéder à l'enregistrement de celle-ci. Le 5 mai 2009, cette administration a indiqué à l'office qu'elle entendait faire valoir ses droits à l'encontre de la masse en faillite de la SI Y.________, en imposant le bénéfice fiscal et en le priant de consigner 466'290 fr. au titre des impôts cantonaux et communaux et 166'182 fr. au titre de l'impôt fédéral direct, sous réserve de l'impôt immobilier complémentaire.
+ 
+B.
+B.a Le 19 mai 2009, l'Office des faillites a fait parvenir à C.________ un bordereau définitif de vente laissant apparaître un solde de 642'709 fr. 10 en faveur de la masse. Ce bordereau et le décompte immobilier du même jour annexé mentionnent comme dette de la masse un montant de 166'182 fr. à titre d'impôt fédéral direct sur les bénéfices et prévoient notamment le versement à l'Administration fiscale cantonale de 536 fr. à titre d'intérêt sur le prix de vente.
+B.b Par acte du 4 juin 2009, X.________ SA a déposé une plainte auprès de la Commission de surveillance des offices des poursuites et des faillites du canton de Genève contre ce bordereau. La plainte a été rejetée par arrêt du 3 septembre 2009.
+ 
+C.
+X.________ SA interjette le 18 septembre 2009 un recours en matière civile au Tribunal fédéral contre cet arrêt, concluant à son annulation ainsi qu'à celle du bordereau de vente immobilière définitif de l'Office des faillites de Genève du 19 mai 2009 et du décompte immobilier du même jour, "en tant que la plaignante se verrait opposer le règlement d'une somme de CHF 166'182.- au titre de l'IFD" et "que les intérêts sont comptés sur les créances garanties par gage des créanciers gagistes de rang antérieur pour la période postérieure à l'ouverture de la faillite, compte tenu du découvert laissé par le produit de la réalisation". Subsidiairement, elle conclut à l'annulation de ces décisions et au renvoi de la cause à l'Office des faillites de Genève pour nouvelle décision dans le sens des considérants. Elle se plaint d'une violation des art. 209 al. 1 et 262 al. 2 LP.
+ 
+L'intimée n'a pas été invitée à se déterminer.
+ 
+Considérant en droit:
+ 
+1.
+1.1 La décision attaquée est une décision en matière de poursuite pour dettes et de faillite rendue par une autorité cantonale de surveillance, sujette au recours en matière civile (art. 72 al. 2 let. a LTF), indépendamment de la valeur litigieuse (art. 74 al. 2 let. c LTF). Prise par une autorité cantonale de dernière instance (art. 75 al. 1 LTF), elle est aussi finale au sens de l'art. 90 LTF, dans la mesure où elle statue sur la distribution du produit de la vente de l'immeuble (ATF 133 III 350 consid. 1.2 p. 351). La recourante, qui a pris part à la procédure devant l'autorité précédente, a un intérêt juridique à la modification de la décision attaquée (art. 76 al. 1 LTF). Interjeté en temps utile (art. 100 al. 2 let. a LTF), le présent recours est en principe recevable.
+ 
+1.2 Le recours en matière civile peut être formé pour violation du droit, tel qu'il est délimité par les art. 95 et 96 LTF. Le Tribunal fédéral applique le droit d'office (art. 106 al. 1 LTF), sans être lié ni par les motifs de l'autorité précédente, ni par les moyens des parties; il peut donc admettre le recours en se fondant sur d'autres arguments que ceux invoqués par le recourant, comme il peut le rejeter en opérant une substitution de motifs (ATF 133 III 545 consid. 2.2 p. 550). Compte tenu des exigences de motivation posées, sous peine d'irrecevabilité (art. 108 al. 1 let. b LTF), à l'art. 42 al. 2 LTF, le Tribunal fédéral n'examine en principe que les griefs soulevés; il n'est pas tenu de traiter, à l'instar d'une juridiction de première instance, toutes les questions juridiques pouvant se poser lorsqu'elles ne sont plus discutées devant lui (ATF 133 IV 150 consid. 1.2 p. 152).
+ 
+2.
+Demeurent litigieuses les questions relatives à la mise à charge de la masse en faillite, c'est-à-dire la prise en compte comme dette de la masse, de l'impôt fédéral direct sur le bénéfice en capital, par 166'182 fr., et au versement d'un intérêt sur le prix de vente aux créanciers gagistes de rang antérieur. Il convient d'examiner successivement ces deux questions (cf. infra, consid. 3 et 4).
+ 
+3.
+3.1 L'autorité cantonale a considéré que l'impôt fédéral direct litigieux, qui est un impôt sur le bénéfice au sens de l'art. 58 al. 1 let. c de la Loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct (LIFD; RS 642.11), est lié à la réalisation d'une plus-value lors de la vente aux enchères durant la procédure de liquidation de la faillite; il fait ainsi partie des frais de liquidation visés par l'art. 262 al. 1 LP et constitue une dette de la masse puisqu'il tire son origine de l'adjudication.
+ 
+3.2 La recourante reproche à l'autorité cantonale d'avoir admis que l'impôt fédéral direct sur le bénéfice en capital soit mis à la charge de la masse et, partant, payable intégralement sur le produit de la vente de l'immeuble avant la distribution des deniers aux créanciers gagistes. Selon elle, il s'agit d'une créance ordinaire qui est opposable aux créanciers ordinaires, admis à l'état de collocation, mais pas aux créanciers dont la créance est garantie par des gages immobiliers sur les actifs de la masse en faillite. Elle se plaint d'une violation de l'art. 262 al. 2 LP, faisant valoir qu'on ne peut assimiler les dettes d'impôt de la masse ni aux frais d'inventaire, ni aux frais d'administration, ni aux frais de réalisation de gage.
+ 
+3.3 Ni l'existence, ni le montant de l'impôt fédéral direct sur le bénéfice en capital ne sont contestés en l'espèce, où seule est litigieuse la question de la qualification de cette dette comme dette de la masse, à payer en plein par prélèvement avant toute distribution, ou comme dette ordinaire. Or, selon la jurisprudence, il n'appartient pas aux autorités de surveillance de la poursuite et de la faillite de trancher les litiges portant sur une telle question, mais à l'autorité compétente pour statuer sur le fond de la prétention en cause, c'est-à-dire en l'occurrence l'autorité fiscale (ATF 125 III 293 consid. 2; 120 III 153 consid. 2 p. 155). Pour vider sa contestation, la recourante doit donc être renvoyée à ouvrir action ou action subséquente (Nachklage) contre la masse. En l'espèce, dans la mesure où il ne résulte pas de la décision attaquée que le bordereau définitif relatif à l'impôt fédéral direct ait été déjà notifié à la masse, un délai convenable devra être fixé à la recourante par l'administration de la faillite pour agir contre la masse aussitôt cette notification intervenue. Si ce délai n'est pas respecté, l'administration de la faillite a le droit de procéder à la distribution sans tenir compte de la prétention contestée (arrêt 7B.73/2005 du 12 août 2005 consid. 2 et les références; ATF 125 III 293 consid. 2 p. 294; 75 III 57).
+ 
+3.4 Enfin, en tant que la recourante soutient que la retenue de cet impôt fédéral direct violerait les conditions de vente, qui sont entrées en force à l'égard de tous les intéressés à défaut de plainte déposée en temps utile, et dans lesquelles elle ne figurait pas, son grief est infondé. En effet, les dettes de la masse n'ont pas à figurer dans l'état de collocation ou dans l'état des charges qui en fait partie (ATF 106 III 118 consid. 3 p. 123). En outre, le paiement de l'impôt fédéral direct sur le bénéfice en capital par prélèvement sur le prix de vente n'a pas pour conséquence d'instaurer pour l'adjudicataire un devoir de paiement en sus du prix d'adjudication qui pourrait, le cas échéant, être contraire aux conditions de vente.
+ 
+4.
+4.1 Dans un second moyen, la recourante fait grief à l'autorité cantonale d'avoir violé l'art. 209 LP en allouant aux créanciers gagistes de rang antérieur au sien des intérêts sur le produit de la vente. Compte tenu du découvert laissé par la vente de l'immeuble, le calcul des intérêts sur leurs créances aurait dû s'interrompre au jour de la faillite.
+ 
+4.2 L'autorité cantonale a considéré que, le produit de réalisation de l'immeuble étant inférieur au montant des hypothèques et intérêts échus, l'art. 209 al. 2 LP ne peut trouver application en l'espèce. En revanche, elle a estimé que les intérêts issus de la consignation devaient être répartis entre les créanciers hypothécaires, à savoir en l'espèce la Fondation Z.________ et la recourante. En ce qui concerne l'impôt immobilier réclamé par l'Administration fiscale pour les années 1998 à 2007, son droit à un intérêt est identique à celui des créanciers hypothécaires, s'agissant d'une dette privilégiée, soumise à intérêts (art. 364 de la Loi de procédure civile du 10 avril 1987; RSG E 3 05) dans l'hypothèse non réalisée en l'espèce de l'art. 209 al. 2 LP.
+ 
+4.3 Par sa critique, la recourante ne s'en prend pas aux considérants des juges précédents, lesquels ont expressément admis que l'art. 209 LP ne trouve pas application en l'espèce. A défaut d'argumentation dirigée contre la motivation de l'autorité cantonale, le grief est irrecevable (cf. supra, consid. 1.2).
+ 
+4.4 Enfin, dans un grief intitulé "contrariété au tableau de distribution définitif du 15 mai 2009", la recourante fait valoir que "l'administration ne saurait revenir sur une décision dûment notifiée aux parties et entrée en force, pour favoriser certaines d'entre elles au détriment des autres". Elle n'expose toutefois pas à quelle décision contraire elle fait référence, étant précisé que la décision attaquée ne mentionne pas l'existence d'un tableau de distribution daté du 15 mai 2009, de sorte qu'on peine à comprendre sa critique. Insuffisamment motivée, celle-ci est irrecevable (cf. supra, consid. 1.2).
+ 
+5.
+Vu ce qui précède, le recours doit être rejeté dans la mesure où il est recevable. La recourante, qui succombe, supportera les frais judiciaires (art. 66 al. 1 LTF). Il n'y a pas lieu d'allouer des dépens à l'intimée, qui n'a pas été invitée à répondre.
+ 
+Par ces motifs, le Tribunal fédéral prononce:
+ 
+1.
+Le recours est rejeté dans la mesure où il est recevable.
+ 
+2.
+L'administration de la masse en faillite est invitée à impartir à la recourante un délai convenable pour soumettre aux autorités administratives compétentes sa contestation relative à la qualification de l'impôt fédéral direct sur le bénéfice en capital litigieux comme dette de la masse, une fois le bordereau d'impôt définitif notifié à la masse.
+ 
+3.
+Les frais judiciaires, arrêtés à 2'500 fr., sont mis à la charge de la recourante.
+ 
+4.
+Le présent arrêt est communiqué aux parties et à la Commission de surveillance des offices des poursuites et des faillites du canton de Genève.
+ 
+Lausanne, le 11 novembre 2009
+Au nom de la IIe Cour de droit civil
+du Tribunal fédéral suisse
+La Présidente:  La Greffière:
+ 
+Hohl    Aguet
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+
