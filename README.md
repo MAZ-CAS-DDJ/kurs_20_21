@@ -22,8 +22,8 @@ Anmeldeschluss	Mo, 10.08.2019
 5. [Spreadsheets und sind Dein bester Freund (SORT; SPLIT; VLOOKUP)](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/05%C2%A0Spreadsheets%20und%20Grenzen.md) (bsk), 60'
 
 - [Übung 1](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/%C3%9Cbung1.md)
+6. [Github-Setup](https://docs.google.com/document/d/1rT4BOjThdYkHZLEp1Gsh7f45AXM6s20-UrZNCFVHmMQ/edit?ts=5d61764a#)
 
-6. [Setup-Beginn](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/06%20Setup.md), (bsk), 120'
 7. [Feedback](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/07%20Feedback.md)
 
 ## Python: Grundbegriffe
