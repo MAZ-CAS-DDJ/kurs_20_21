@@ -35,7 +35,7 @@ Anmeldeschluss	Mo, 10.08.2019
 1. [Anaconda-Setup](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/01%20install%20anaconda.md)
 2. [Jupyter Notebook](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/02%20Jupyter.md) (Unterschiede und die Ähnlichkeiten zu Google Colab)
 3. [Bedienungsprozess des eigenen Computers](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/03%20Work-Flow.md)
-4. Python Libraries und Module
+4. [Python Libraries und Module](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/04%20Modules%20%26%20Libraries.ipynb)
 5. Module os und eingelesen oder auslesen grosser Dateimengen
 6. Ausblick auf Requests und die Arbeit mit APIs
 7. Github-Kenntnisse vertiefen
