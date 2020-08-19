@@ -23,8 +23,8 @@ Anmeldeschluss	Mo, 10.08.2019
 
 - [Übung 1](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/%C3%9Cbung1.md)
 6. [Github-Setup](https://docs.google.com/document/d/1rT4BOjThdYkHZLEp1Gsh7f45AXM6s20-UrZNCFVHmMQ/edit?ts=5d61764a#)
-
-7. [Feedback](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/07%20Feedback.md)
+7. [Einführung Google Colab]
+8. [Feedback](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/07%20Feedback.md)
 
 ## Python: Grundbegriffe
 **22., 23. und 24. September 2020**
