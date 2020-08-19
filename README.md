@@ -29,19 +29,17 @@ Anmeldeschluss	Mo, 10.08.2019
 ## Python: Grundbegriffe
 **22., 23. und 24. September 2020**
 
-## Einstieg ins Programmieren: Setup, Github, Jupyter Notebook
+## Von der Cloud zur lokalen Installation
 **25. September 2020**
 
-1. [Github Einführung](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/01%20Github.md) (bsk), 30'
-2. [Einstieg in Computational Journalism: Rückblick Commandline, Navigation, talk, cron, grep and piping](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/02%20Commandline.md) (bsk), 60' + 60'
-- [Übung 1](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/%C3%9Cbung1.md)
-- [Übung 2](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/%C3%9Cbung2.md)
-- [Übung 3](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/%C3%9Cbung3.md)
-3. [Zusatz-Packages auf der Commandline: wget, csvkit, Documentation](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/03%20Weitere%20Zusatz-Packages.md) (bsk), 30' + 60'
-- [Übung 4](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/%C3%9Cbung4.md)
-4. [Erste Bekanntschaft mit Jupyter Notebook, und erstes Programm (print, input)](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/04%20Jupyter.md) (bsk), 100'
-5. [Arbeitsfluss und Lektüre](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/02%20Einstieg%20ins%20Programmieren/05%20Arbeitsfluss.md) (bsk), 20'
-- [Hausaufgabe](XXXXXXXX)
+1. Anaconda-Setup
+2. Jupyter Notebook (Unterschiede und die Ähnlichkeiten zu Google Colab)
+3. Bedienungsprozess des eigenen Computers
+4. Python Libraries und Module
+5. Module os und eingelesen oder auslesen grosser Dateimengen
+6. Ausblick auf Requests und die Arbeit mit APIs
+7. Github-Kenntnisse vertiefen
+
 
 
 
