@@ -1,0 +1,183 @@
+
+
+4F_8/2007 (26.02.2008)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Tribunale federale
+Tribunal federal
+ 
+{T 0/2}
+4F_8/2007
+ 
+Arrêt du 26 février 2008
+Ire Cour de droit civil
+ 
+Composition
+MM. et Mme les Juges Corboz, Président,
+Kolly et Kiss.
+Greffier: M. Abrecht.
+ 
+Parties
+X.________ SA,
+requérante, représentée par Me Tony Reynard,
+ 
+contre
+ 
+Banque Y.________,
+opposante, représentée par Me Serge Fasel.
+ 
+Objet
+révision,
+ 
+demande de révision de l'arrêt rendu le 31 octobre 2007 par la Ire Cour de droit civil du Tribunal fédéral dans la cause 4A_301/2007.
+ 
+Faits:
+A.
+A.a  X.________ SA a ouvert en 1995 un compte courant auprès de la Banque Y.________ (ci-après: la Banque). Elle a signé des conditions générales selon lesquelles le dommage provenant de l'utilisation de la poste, de même que les dommages résultant de défaut de légitimation ou de faux non décelés, étaient à la charge du client, sauf en cas de faute grave de la banque.
+A.b  En 2001, la Banque a proposé à l'ensemble de sa clientèle un formulaire intitulé « ... », destiné aux ordres de paiement, qui est venu remplacer l'ancien formulaire d'ordre de paiement. Alors que le précédent formulaire était conçu de telle manière que le donneur d'ordre devait procéder au descriptif de chaque ordre (en indiquant à chaque fois le nom du bénéficiaire, le numéro de son compte bancaire ou postal et le montant à payer) sur le formulaire même qu'il devait dater et signer, le formulaire « ... » est conçu de telle manière que le donneur d'ordre doit seulement inscrire le montant total des paiements qu'il demande à la banque d'effectuer, le nombre d'annexes (soit le nombre de bulletins de versements joints à l'ordre), la date de l'ordre et la date d'exécution, puis apposer sa signature.
+A.c  X.________ SA a ainsi commencé à utiliser le formulaire « ... » en lieu et place de la précédente formule. Le 9 juin 2004, elle a rempli un ordre de paiement au moyen d'un formulaire « ... » pour un montant de 300'000 fr. Elle indique qu'à cet ordre était joint un unique bulletin de versement, concernant un virement qu'elle faisait sur son propre compte auprès de la Banque A.________ SA. Elle explique encore avoir inséré le formulaire « ... » et son annexe dans une enveloppe, puis déposé le tout dans la boîte aux lettres de la Poste qui est située à l'entrée de l'immeuble dans lequel elle a ses ateliers et ses bureaux.
+Le 16 juin 2004, la Banque a bien exécuté un ordre de paiement de X.________ SA du 9 juin 2004 pour un montant de 300'000 fr., mais en faveur d'un compte postal au nom de B.________, FR-94130 Nogent-sur-Marne, ce dont elle a informé la cliente par l'envoi, le 18 juin 2004, de l'avis de débit. Ayant déposé plainte pénale auprès du Procureur général de Genève, X.________ SA a appris le 2 juillet 2004 de la part de ce magistrat que la somme de 299'100 fr. avait été retirée du compte postal de B.________ le 18 juin 2004. Il a été admis que l'ordre de paiement établi par X.________ SA avait selon toute vraisemblance été illicitement intercepté et modifié par des malfaiteurs demeurés inconnus, après son dépôt dans une boîte aux lettres de la Poste.
+A.d  En juin 2005, la Banque a adressé à sa clientèle un lettre circulaire relative à la sécurité de la transmission des ordres de paiement. Elle y émettait des recommandations destinées à permettre aux clients de se prémunir contre d'éventuelles escroqueries, en rappelant que les médias s'étaient récemment fait l'écho de fraudes qui se déroulaient de la manière suivante: les ordres de paiement écrits étaient dérobés dans les boîtes aux lettres postales, après quoi les bulletins de versement étaient échangés ou les montants à payer falsifiés, et l'ordre de paiement modifié était remis dans la boîte aux lettres.
+B.
+Le 10 février 2006, X.________ SA a assigné la Banque en paiement de 300'000 fr. plus intérêts à 5% l'an dès le 16 juin 2004, conclusion qu'elle a réduite par la suite, sans explication, à 50'000 fr. La Banque s'est opposée à la demande.
+ 
+Par jugement du 2 novembre 2006, le Tribunal de première instance du canton de Genève a débouté la demanderesse.
+ 
+Par arrêt du 22 juin 2007, la Chambre civile de la Cour de justice du canton de Genève a rejeté l'appel formé par la demanderesse contre ce jugement, qu'elle a confirmé.
+ 
+Par arrêt du 31 octobre 2007, le Tribunal fédéral a rejeté le recours en matière civile (4A_301/2007) interjeté par la demanderesse contre l'arrêt de la Cour de justice.
+C.
+Par demande de révision du 17 décembre 2007, X.________ SA conclut avec dépens à l'annulation de l'arrêt 4A_301/2007 du 31 octobre 2007 et à l'admission du recours en matière civile. L'opposante conclut avec dépens au rejet de la demande de révision.
+ 
+Considérant en droit:
+1.
+La demande de révision, fondée sur le motif de révision de l'art. 121 let. d LTF, a été déposée en temps utile (art. 124 al. 1 let. b LTF), si bien qu'elle est recevable.
+2.
+2.1  Au considérant 2.5 de son arrêt du 31 octobre 2007, le Tribunal fédéral a exposé que les risques liés à la possible interception par un tiers non autorisé du courrier déposé dans une boîte aux lettres de la Poste étaient connus de tout un chacun depuis longtemps et que la Banque n'avait pas l'obligation de signaler un risque dont chacun pouvait reconnaître l'existence. Il a poursuivi en indiquant ce qui suit :
+« Tout au plus pourrait-on admettre que la défenderesse aurait dû informer sa clientèle et en particulier la demanderesse, ainsi qu'elle l'a fait en juin 2005 par une lettre circulaire (cf. lettre A.d supra), du risque de fraude du genre de celle dont a été victime la demanderesse - consistant en la substitution par des malfaiteurs, dans des enveloppes contenant des ordres de paiement du type « ... » dérobés dans les boîtes aux lettres postales, de bulletins de paiement par d'autres bulletins en faveur des malfaiteurs, sans que la banque puisse déceler la supercherie dès lors que l'ordre contenant la signature originale du client n'est pas altéré et que le nombre de bulletins annexés reste identique - s'il était établi qu'elle avait concrètement connaissance de la commission de telles infractions et que tel n'était pas le cas du public en général.
+ 
+À cet égard, la cour cantonale a constaté en fait que les agissements de malfaiteurs qui dérobaient le courrier bancaire dans des boîtes aux lettres de la Poste pour le modifier et l'utiliser à leur profit avaient commencé à Genève bien avant les faits de la présente cause, qu'ils s'étaient répétés de manière périodique et qu'ils avaient été relatés par la presse locale, de sorte qu'ils devaient être considérés comme notoires. La demanderesse soutient que cette constatation serait arbitraire, dès lors que la défenderesse n'a produit aucune pièce susceptible de fonder cette constatation de notoriété et que les seuls articles de presse au dossier datent de 2005 et sont donc clairement postérieurs aux faits de la cause. Ce grief, même s'il était fondé, ne serait toutefois pas propre à influer sur le sort de la cause. En effet, quand bien même il s'avérerait que la commission d'infractions du type de celle dont la demanderesse a été victime en juin 2004 n'était pas connue du public à ce moment-là, il ne serait pas non plus établi qu'elle l'était de la défenderesse, de sorte que l'on ne saurait retenir que celle-ci avait un devoir d'information à cet égard. »
+2.2  Invoquant le motif de révision de l'art. 121 let. d LTF, la requérante soutient que la constatation du Tribunal fédéral selon laquelle « quand bien même il s'avérerait que la commission d'infractions du type de celle dont la demanderesse a été victime en juin 2004 n'était pas connue du public à ce moment-là, il ne serait pas non plus établi qu'elle l'était de la défenderesse » serait erronée. Selon la requérante, le Tribunal fédéral aurait par inadvertance omis de prendre en considération des faits pertinents qui ressortaient du dossier, à savoir que l'opposante avait expressément admis en première instance cantonale connaître, avant le mois de juin 2004, l'existence de telles infractions (consid. 2.2.1 infra), que cette connaissance par l'opposante avait été constatée dans les deux décisions cantonales (consid. 2.2.2 infra), et que l'opposante n'avait, suite à son aveu judiciaire, jamais contesté avoir connu, avant le mois de juin 2004, l'existence de telles infractions (consid. 2.2.3 infra).
+2.2.1  La requérante se réfère d'abord à l'allégué 18 de sa demande du 10 février 2006, qui avait la teneur suivante :
+« D'après des articles parus dans l'Illustré et la Tribune de Genève, respectivement au mois de mars et de mai 2005, le procédé brièvement décrit ci-dessus [réd.: consistant à voler l'enveloppe contenant l'ordre de paiement et à remplacer un bulletin de versement par un autre] était bien connu des polices cantonales suisses et des instituts financiers.
+ 
+En effet, le journaliste de l'Illustré relevait que « [d]u côté de la police, on comprend d'autant l'amertume des victimes que les incessantes mises en garde des services de sûreté semblent ne susciter aucune réaction sérieuse de la part des instituts financiers (...) ». Il notait aussi que ce type d'infraction aurait débuté il y a quelque 20 ans, en 1985 et aurait causé en Suisse un préjudice global de l'ordre de CHF 100'000'000 (cent millions de francs suisses).
+(Pièces 7 et 8, MB) »
+Se déterminant dans sa réponse du 21 septembre 2006 sur les allégués de la demande, l'opposante avait répondu « Dont acte » à cet allégué 18. Selon la requérante, l'opposante avait par là admis avoir eu connaissance, avant le mois de juin 2004, de l'existence des infractions.
+2.2.2  La requérante affirme ensuite que tant le Tribunal de première instance que la Cour de justice ont constaté que l'opposante connaissait l'existence de ces infractions : en effet, ces deux instances ont retenu que cette connaissance était notoire, c'est-à-dire que tant l'opposante que la requérante avaient connaissance de l'existence de ces infractions.
+2.2.3  La requérante expose enfin que tant devant la Cour de justice que devant le Tribunal fédéral, elle a contesté que l'existence de ces infractions fût notoire et a soutenu que seule l'opposante en avait connaissance. Or dans ses mémoires de réponse à l'appel et au recours en matière civile, l'opposante s'était contentée de défendre la thèse de la notoriété de l'existence de telles infractions, à savoir que celles-ci étaient connues des deux parties; ce faisant, l'opposante aurait donc admis une fois encore sa connaissance de ces infractions.
+2.3
+2.3.1  Aux termes de l'art. 121 let. d LTF, la révision d'un arrêt du Tribunal fédéral peut être demandée si, par inadvertance, le tribunal n'a pas pris en considération des faits pertinents qui ressortent du dossier. Ce motif de révision correspond à celui que prévoyait l'art. 136 let. d OJ, si bien que l'on peut se référer à la jurisprudence rendue sous l'empire de cette disposition. Selon cette jurisprudence, l'inadvertance suppose que le juge ait omis de prendre en considération une pièce déterminée, versée au dossier, ou l'ait mal lue, s'écartant par mégarde de sa teneur exacte; elle se distingue de la fausse appréciation soit des preuves administrées devant le Tribunal fédéral, soit de la portée juridique des faits établis (ATF 122 II 17 consid. 3; 115 II 399 consid. 2a; 96 I 279 consid. 3). Il faut en outre que les faits qui n'ont pas été pris en considération soient des faits pertinents, susceptibles d'entraîner une décision différente de celle qui a été prise et plus favorable au requérant (ATF 122 II 17 consid. 3; 101 Ib 220 consid. 1; 96 I 279 consid. 3). Enfin, pour que l'on puisse parler d'inadvertance, il faut encore que le Tribunal fédéral ait dû prendre en considération les faits importants dont on lui reproche de ne pas avoir tenu compte (ATF 115 II 399 consid. 2a; cf. Poudret/Sandoz-Monod, Commentaire de la loi fédérale d'organisation judiciaire, vol. V, 1992, n. 5.2 ad art. 136 OJ).
+2.3.2  Ainsi qu'il l'avait rappelé au considérant 2.5 de son arrêt du 31 octobre 2007, le Tribunal fédéral conduit son raisonnement juridique sur la base des faits établis par l'autorité précédente (art. 105 al. 1 LTF). Il ne peut s'en écarter que si les faits ont été établis de façon manifestement inexacte ou en violation du droit au sens de l'art. 95 LTF (art. 105 al. 2 LTF). La partie recourante qui entend s'écarter des constatations de l'autorité précédente doit expliquer de manière circonstanciée en quoi les conditions d'une exception prévue par l'art. 105 al. 2 LTF seraient réalisées, faute de quoi il n'est pas possible de tenir compte d'un état de fait qui diverge de celui de la décision attaquée (ATF 133 II 249 consid. 1.4.3; 133 IV 150 consid. 1.3).
+2.3.3  En l'espèce, la Cour de justice avait retenu en fait, dans son arrêt du 22 juin 2007, que les agissements de malfaiteurs qui dérobaient le courrier bancaire dans des boîtes aux lettres de la Poste pour le modifier et l'utiliser à leur profit avaient commencé à Genève bien avant les faits de la présente cause, qu'ils s'étaient répétés de manière périodique et qu'ils avaient été relatés par la presse locale, de sorte qu'ils devaient être considérés comme notoires.
+ 
+Dans son recours en matière civile, la requérante a critiqué cette constatation comme étant arbitraire, en arguant que l'opposante n'avait produit aucune pièce susceptible de fonder cette constatation de notoriété et que les seuls articles de presse au dossier dataient de 2005 et étaient donc clairement postérieurs aux faits de la cause. La requérante soutenait ainsi qu'il n'était pas possible de retenir que l'existence de la commission d'infractions du type de celle dont elle avait été victime en juin 2004 était connue du public à ce moment-là, tout en affirmant péremptoirement que l'opposante avait quant à elle connaissance de tels agissements.
+2.3.4  Si la connaissance en juin 2004 de l'existence de telles infractions par l'opposante, au même titre que par le public en général, ne pouvait pas être considérée comme notoire sur la base des pièces du dossier, il incombait à la requérante de démontrer que la Cour de justice avait établi les faits de façon manifestement inexacte ou en violation du droit au sens de l'art. 95 LTF en ne retenant pas que l'opposante avait de l'existence de ces infractions une connaissance particulière, qui n'était pas celle du public en général. Ce n'est qu'à cette condition que la Cour de céans aurait pu tenir compte d'un tel fait, qui ne ressortait pas des constatations de l'autorité précédente.
+ 
+Or dans son recours en matière civile, la requérante n'a nullement fait une telle démonstration. Elle n'a pas, comme elle le fait aujourd'hui dans sa demande de révision (cf. consid. 2.2.1 supra), invoqué le fait que l'opposante aurait passé un aveu judiciaire devant le Tribunal de première instance en répondant « Dont acte » à l'allégué 18 de la demande. Quoi qu'il en soit, force est de constater que par cette détermination, l'opposante a simplement donné acte à la requérante de l'existence des articles de presse tels qu'invoqués à l'allégué 18, étant précisé qu'elle n'était pas tenue de se déterminer par un aveu ou par une négation sur des faits qui ne lui étaient pas personnels et qui résultaient de pièces émanant de tiers, mais pouvait se borner à se référer aux pièces invoquées. On ne saurait prétendre que, ce faisant, l'opposante a admis avoir eu de l'existence de ce type d'infractions une connaissance particulière, qui n'était pas celle que le public en général en avait à travers la presse.
+ 
+Par ailleurs, les juges cantonaux n'ont pas retenu que l'opposante connaissait l'existence de telles infractions autrement que le public en général, s'agissant selon eux d'un fait notoire. De même, en se référant à la constatation des juges cantonaux selon laquelle ce type d'infractions devait être considéré comme notoire, l'opposante n'a pas reconnu avoir eu de l'existence de telles infractions une connaissance particulière par rapport au public en général.
+3.
+Il résulte de ce qui précède que le Tribunal fédéral n'a pas omis, par inadvertance, de prendre en considération des faits pertinents qui ressortaient du dossier et dont il aurait dû tenir compte. Partant, la demande de révision doit être rejetée. La requérante, qui succombe, supportera les frais judiciaires et versera à l'opposante une indemnité pour ses dépens (art. 66 al. 1 et 68 al. 1 et 2 LTF).
+ 
+Par ces motifs, le Tribunal fédéral prononce:
+1.
+La demande de révision est rejetée.
+2.
+Les frais judiciaires, arrêtés à 2'500 fr., sont mis à la charge de la requérante.
+3.
+Une indemnité de 3'000 fr., à payer à l'opposante à titre de dépens, est mise à la charge de la requérante.
+4.
+Le présent arrêt est communiqué aux mandataires des parties et à la Chambre civile de la Cour de justice du canton de Genève.
+Lausanne, le 26 février 2008
+Au nom de la Ire Cour de droit civil
+du Tribunal fédéral suisse
+Le Président:        Le Greffier:
+ 
+Corboz        Abrecht
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                            2
+3
+4
+5
+Vorwärts
+
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

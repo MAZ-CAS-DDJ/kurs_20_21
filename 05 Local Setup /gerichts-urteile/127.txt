@@ -1,0 +1,407 @@
+
+
+08.12.2016 2C 904/2015
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+
+ 
+Bundesgericht
+Tribunal fédéral
+Tribunale federale
+Tribunal federal
+ 
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+2C_904/2015 
+ 
+{T 0/2} 
+
+
+  
+
+
+  
+
+
+
+
+ 
+ 
+
+Arrêt du 8 décembre 2016
+
+ 
+
+IIe Cour de droit public
+
+ 
+Composition
+MM. et Mme les Juges fédéraux Seiler, Président,
+Zünd, Aubry Girardin, Donzallaz et Stadelmann.
+Greffière : Mme Vuadens.
+ 
+Participants à la procédure
+Administration fédérale des contributions, Service d'échange d'informations en matière fiscale SEI,
+recourante,
+ 
+
+contre
+
+ 
+1. B.X.________,
+2. C.Y.________,
+tous les deux représentés par Me Nicolas Hoffmann, avocat,
+intimés.
+ 
+Objet
+Assistance administrative (CDI CH-FR),
+ 
+recours contre l'arrêt du Tribunal administratif fédéral, Cour I, du 24 septembre 2015.
+
+ 
+ 
+
+Faits :
+
+ 
+
+A.
+
+ 
+
+A.a. Le 13 juin 2014, la Direction générale des finances publiques françaises (ci-après: l'autorité requérante) a adressé trois demandes d'assistance administrative à l'Administration fédérale des contributions (ci-après: l'Administration fédérale). La première demande visait les sociétés françaises E.________ et F.________ et concernait l'impôt sur les bénéfices 2011 et 2012. Les deuxième et troisième demandes visaient les époux A.X.________ et B.X.________, résidents français, et concernaient l'impôt sur le revenu 2010 à 2012, ainsi que l'impôt sur la fortune 2010 à 2013.
+
+L'autorité requérante exposait que E.________, détenue en partie par A.X.________, et F.________, détenue à raison de 10% par A.X.________ et de 90% par une société dont la raison sociale indiquée était Y.________ (cette entité apparaissant aussi sous le nom "D.Y.________", "E.Y.________ 1" ou "E.Y.________ 2"), ci-après: Y.________), faisaient l'objet d'un contrôle de l'administration fiscale française. Il en ressortait que E.________ avait procédé à un versement de 600'000 EUR sur un compte ouvert en Suisse auprès de la banque G.________ (ci-après: la Banque). Or, les explications que A.X.________ avait fournies pour justifier ce versement (à savoir qu'il correspondait au remboursement d'un apport que Y.________, une société suisse titulaire du compte ouvert auprès de la Banque, aurait effectué au profit de F.________ et que cette dernière utilisait le compte bancaire de E.________ pour ses propres opérations) n'étaient confirmées par aucun document justificatif. L'autorité requérante exposait par ailleurs qu'au cours du contrôle de la situation fiscale dont avaient fait également l'objet A.X.________et B.X.________, l'administration fiscale française avait constaté que ces personnes avaient effectué, à partir de leur compte bancaire personnel ouvert en France, deux virements sur deux comptes bancaires ouverts auprès de la Banque au profit d'une entité dénommée Y.________. Interrogé, B.X.________ avait expliqué à ce sujet que F.________ avait réalisé une plus-value en 2010 et que ces deux versements correspondaient à la part de cette plus-value revenant à Y.________. Or, il s'était avéré que ces transferts n'avaient pas été effectués au nom de Y.________, et A.X.________ n'avait fourni aucun élément susceptible d'établir l'existence réelle de cette associée suisse dénommée Y.________. En outre, l'administration fiscale suisse avait déjà indiqué à l'autorité requérante, en réponse à une demande d'assistance administrative antérieure, datant du 17 décembre 2012 (art. 105 al. 2 LTF) que Y.________ n'était pas connue à l'adresse suisse indiquée et qu'elle n'était pas non plus inscrite au registre du commerce genevois.
+L'autorité requérante soupçonnait ainsi A.X.________ d'avoir créé un montage, afin de dissimuler des flux financiers imposables en France. En effet, en droit français, les bénéfices réalisés par les sociétés civiles immobilières et les bénéfices réalisés par les sociétés en participation étaient imposables directement au nom des associés à raison de leur quote-part dans le capital. A.X.________ était aussi soupçonné d'être le véritable bénéficiaire économique des comptes bancaires ouverts auprès de la Banque. Cette dernière pourrait être la gestionnaire de Y.________, dont A.X.________ serait le bénéficiaire économique. A.X.________ disposerait, dans ce cas, d'avoirs et de revenus non déclarés en France. Or, en tant que résident fiscal français, il avait l'obligation de déclarer les comptes bancaires ouverts à l'étranger et ceux sur lesquels il détenait une procuration; de même, il avait l'obligation de déclarer les revenus de source française et étrangère et son patrimoine, que celui-ci soit situé en France ou à l'étranger.
+Les renseignements requis, dont l'autorité requérante soulignait qu'ils étaient nécessaires pour identifier le bénéficiaire réel des virements susmentionnés et établir le montant des impôts éludés en France, étaient les suivants:
+ 
+- Y.________ est-elle connue de l'administration fiscale suisse? Est-elle connue à l'adresse rue de I.________ à Genève? Sinon à quelle autre adresse?
+- Veuillez indiquer les noms et adresses des associés et/ou ayants droit économiques et des dirigeants de Y.________, ainsi qu'une copie des statuts.
+- Quelle est l'activité exercée par Y.________ au titre des années 2010 à 2012? Quelle est la consistance des locaux occupés? L'adresse à la rue de I.________ à Genève est-elle une adresse de domiciliation?
+- Quels sont les montants des revenus ou bénéfices déclarés par Y.________ auprès des autorités fiscales suisses? Quel est le montant du chiffre d'affaires déclaré? Veuillez produire une copie des bilans et comptes de résultat au titre des années 2010 à 2012.
+- Y.________ a-t'elle été soumise à l'impôt en Suisse pour les années visées? Le cas échéant, veuillez fournir une copie des déclarations fiscales 2010 à 2012 et des justificatifs d'imposition correspondants.
+- la Banque est-elle chargée de la gestion de Y.________? Dans l'affirmative, veuillez indiquer les noms et adresses des associés et/ou ayants droit économiques et des dirigeants.
+- Quels sont les avoirs détenus par Y.________ et gérés par la Banque?
+- Veuillez indiquer l'identité du titulaire, de l'ayant droit économique (et/ou de toute personne ayant pouvoir ou mandat de représentation) des comptes bancaires portant les numéros IBAN xxx et xxy (numéros non reproduits dans l'arrêt attaqué) ouvert en Suisse à la Banque. Veuillez fournir le formulaire A concernant ces comptes.
+- Veuillez communiquer les états de fortune aux 1er janvier 2010 à 2013, ainsi que les relevés de compte sur la période du 1er janvier 2010 au 31 décembre 2012, précisant les apports et les prélèvements enregistrés ainsi que les gains financiers générés. Veuillez indiquer la date, le montant et la nature des revenus perçus (intérêts, dividendes, plus-values...). Les mêmes informations étaient requises au sujet des autres comptes bancaires dont les époux X.________ étaient directement ou indirectement titulaires ou ayants-droit économiques au sein de la Banque, quelles que soient les structures interposées, ainsi que ceux pour lesquels ils disposaient d'une procuration.
+ 
+ 
+
+A.b. Déférant à des ordonnances de production de l'Administration fédérale, l'Administration fiscale cantonale genevoise et la Banque ont communiqué les renseignements requis les 9, 16 et 25 juillet 2014.
+
+Le 5 septembre 2014, A.X.________ et Y.________ ont indiqué à l'Administration fédérale qu'ils s'opposaient à la transmission de la documentation bancaire relative à Y.________. A.X.________ a en revanche indiqué qu'il ne s'opposait pas à la transmission des informations selon lesquelles il était seul actionnaire de Y.________ durant la période visée par la demande, au travers d'une fondation dénommée H.________, et qu'il n'avait jamais perçu de revenus ni de Y.________, ni de la fondation H.________ durant cette période.
+ 
+
+B.
+
+ 
+
+B.a. Par décision finale du 17 octobre 2014, l'Administration fédérale a accordé l'assistance administrative à la France (chiffre 1 de la décision) et accepté de transmettre à l'autorité requérante les informations suivantes (cf. chiffre 2 de la décision reproduit ci-après) :
+
+ 
+- Les sociétés D.Y.________ SA, E.Y.________ 1) ou E.Y.________ 2) ne sont pas connues des autorités fiscales suisses. Ces sociétés ne sont pas domiciliées en Suisse.
+- A ce titre, ces sociétés n'ont jamais déposé d'états financiers auprès de l'administration fiscale suisse et n'ont jamais été imposées en Suisse.
+- Monsieur A.X.________ était l'ayant droit économique de la relation bancaire n° xxx détenue auprès de la Banque G.________ par la société D.Y.________, société établie dans la République du Panama.
+- S'agissant d'une même relation bancaire, les deux numéros IBAN mentionnés font référence aux rubriques distinctes devises en EUR, respectivement en CHF.
+- Une copie du formulaire A relatif à la relation bancaire n° xxx.
+- Une copie des relevés de fortune s'agissant de la relation bancaire n° xxx pour les années 2010 à 2013 ainsi que des relevés de compte pour la période du 1
+  er janvier 2010 au 31 décembre 2012.
+
+- La Banque G.________ n'a jamais été chargée de la gestion de la société D.Y.________.
+- La Banque G.________ n'était pas au bénéfice d'un mandat de gestion octroyé par D.Y.________ sur la relation bancaire n° xxx.
+- Une copie des statuts relatifs à la société D.Y.________.
+ 
+ 
+
+B.b. Le 17 novembre 2014, A.X.________ et Y.________ ont recouru contre la décision du 17 octobre 2014 de l'Administration fédérale auprès du Tribunal administratif fédéral, en demandant le rejet de la demande d'assistance administrative de la France.
+
+ 
+
+B.c. Par arrêt du 24 septembre 2015, le Tribunal administratif fédéral a partiellement admis le recours (chiffre 1 du dispositif). Le chiffre 2 du dispositif de l'arrêt est libellé comme suit: "Les premier et deuxième tirets du chiffre 2 du dispositif de la décision attaquée sont confirmés. Les autres tirets du chiffre 2 du dispositif de ladite décision sont annulés. Pour le surplus, la décision attaquée est confirmée". En d'autres termes, le Tribunal administratif fédéral a jugé que seules les informations selon lesquelles Y.________ n'était pas connue des autorités fiscales suisses, qu'elle n'était pas domiciliée en Suisse, qu'elle n'avait dès lors pas déposé d'états financiers auprès de l'administration fiscale et qu'elle n'y avait pas été imposée pouvaient être transmises à l'autorité requérante.
+
+Les frais de procédure ont été partiellement mis à la charge de A.X.________ et de Y.________ (chiffre 3 du dispositif), qui se sont vu allouer des dépens à charge de l'Administration fédérale (chiffre 4 du dispositif).
+ 
+
+C. 
+
+L'Administration fédérale forme un recours en matière de droit public au Tribunal fédéral à l'encontre de l'arrêt du 24 septembre 2015. Elle conclut principalement, sous suite de frais, à l'annulation du chiffre 2, 2
+  e phrase de l'arrêt attaqué (soit: "Les autres tirets du chiffre 2 du dispositif de ladite décision sont annulés"); subsidiairement, à l'annulation du chiffre 2, 2
+  e phrase du dispositif de l'arrêt attaqué et au renvoi de la cause au Tribunal administratif fédéral pour nouvel arrêt dans le sens des considérants. Elle demande aussi que tous les frais de procédure devant le Tribunal administratif fédéral soient mis à la charge des intimés et qu'il ne leur pas alloué de dépens.
+
+Le Tribunal administratif fédéral a renoncé à prendre position. Les intimés ont déposé une réponse et conclu à la confirmation de l'arrêt attaqué. La recourante a déposé une réplique.
+
+ 
+ 
+
+Considérant en droit :
+
+ 
+
+1.
+
+ 
+
+1.1. L'arrêt attaqué est une décision finale (art. 90 LTF), rendue dans une cause de droit public (art. 82 let. a LTF) émanant du Tribunal administratif fédéral (art. 86 al. 1 let. a LTF). Seul un recours en matière de droit public est donc envisageable (cf. art. 113 LTF a contrario).
+
+ 
+
+1.2. Contre les décisions en matière d'assistance administrative en matière fiscale, le recours en matière de droit public n'est recevable que lorsqu'une question juridique de principe se pose ou lorsqu'il s'agit pour d'autres motifs d'un cas particulièrement important au sens de l'art. 84 al. 2 LTF (cf. art. 83 let. h et 84a LTF; ATF 139 II 404 consid. 1.3 p. 410; arrêts 2C_1174/2014 du 24 septembre 2015 consid. 1.2 non publié in ATF 142 II 161, mais in RDAF 2016 II 28; 2C_963/2014 du même jour consid. 1.3 non publié in ATF 141 II 436, mais traduit in RDAF 2016 II 374).
+
+Selon l'Administration fédérale, l'arrêt attaqué soulève une question juridique de principe qui consiste à déterminer le type et l'étendue des renseignements qu'elle peut requérir auprès d'une banque, en particulier s'agissant de l'identification des bénéficiaires économiques effectifs d'avoirs bancaires.
+Ces points ont été tranchés dans les arrêts publiés aux ATF 141 II 436 et 142 II 161. Ces deux arrêts sont datés du 24 septembre 2015, ce qui correspond à la date d'expédition de l'arrêt attaqué. Or, les considérants de ces arrêts ont été communiqués postérieurement. Le Tribunal administratif fédéral ne pouvait donc pas en avoir connaissance au moment de la notification de l'arrêt entrepris, ni la recourante au moment où elle a formé recours. Il faut dès lors admettre que cette dernière était légitimée à porter à soulever ladite question de principe devant la Cour de c éans.
+ 
+
+1.3. L'Administration fédérale, qui a qualité pour recourir au sens de l'art. 89 al. 2 let. a LTF (cf. arrêt 2C_1174/2014 précité consid. 1.3 non publié), a formé recours en temps utile (art. 100 al. 2 let. b LTF) et dans les formes prévues (art. 42 LTF). Il convient donc d'entrer en matière.
+
+ 
+
+2.
+
+ 
+
+2.1. Lorsqu'il entre en matière en raison de l'existence d'une question juridique de principe, le Tribunal fédéral examine l'affaire en application des art. 95 ss et 105 ss LTF dans leur ensemble, sans se limiter aux seules questions justifiant l'entrée en matière selon l'art. 84a LTF (cf. ATF 141 II 14 consid. 1.2.2.4 p. 22 et les références citées; arrêt 2C_216/2015 du 8 novembre 2015 consid. 1.3.2).
+
+ 
+
+2.2. Le Tribunal fédéral se fonde sur les faits constatés par l'autorité précédente (art. 105 al. 1 LTF), à moins que ceux-ci n'aient été établis de façon manifestement inexacte - notion qui correspond à celle d'arbitraire (ATF 140 III 115 consid. 2 p. 117; 135 III 397 consid. 1.5 p. 401) - ou en violation du droit au sens de l'art. 95 LTF (art. 105 al. 2 LTF), et pour autant que la correction du vice soit susceptible d'influer sur le sort de la cause (cf. art. 97 al. 1 LTF), ce qu'il incombe à la partie qui conteste les faits constatés de démontrer d'une manière circonstanciée, conformément aux exigences de motivation des art. 42 al. 2 et 106 al. 2 LTF (cf. ATF 141 I 36 consid. 1.3 p. 41; 139 I 229 consid. 2.2 p. 232; 138 I 232 consid. 3 p. 237). Par ailleurs, en vertu de l'art. 99 LTF, aucun fait nouveau ni preuve nouvelle ne peut être présenté à moins de résulter de la décision de l'autorité précédente. Partant, il ne sera pas tenu compte des faits présentés de manière appellatoire par les intimés en lien avec la manière dont s'est déroulée la procédure en France.
+
+ 
+
+3. 
+
+Les demandes d'assistance administrative datent du 13 juin 2014 et l'Administration fédérale y a donné suite le 17 octobre 2014. L'échange de renseignements est réglé à l'art. 28 CDI CH-FR dans sa version actuelle, qui résulte de l'art. 7 de l'Avenant à la Convention conclu le 27 août 2009 (RO 2010 5683; ci-après: l'Avenant), ainsi que par le chiffre XI du Protocole additionnel, introduit par l'art. 10 de l'Avenant.
+ 
+
+3.1. Le chiffre XI du Protocole additionnel a été modifié le 25 juin 2014 par l'Accord modifiant le protocole additionnel à la Convention entre la Suisse et la France du 9 septembre 1966 modifiée, en vue d'éliminer les doubles impositions en matière d'impôts sur le revenu et sur la fortune et de prévenir la fraude et l'évasion fiscales, entré en vigueur le 30 mars 2016 (RO 2016 1195; ci-après: l'Accord 2014). L'Accord 2014 vise à assouplir les règles relatives à l'identification du contribuable et du détenteur d'informations (cf. le Message du 6 avril 2011 sur le complément aux conventions en vue d'éviter les doubles impositions approuvées par l'Assemblée fédérale le 18 juin 2010, in FF 2011 3519 ch. 2.2 et, en lien avec la CDI CH-FR, ch. 4.2; cf. aussi XAVIER OBERSON, Précis de droit fiscal international, 4
+  e éd. 2014 p. 351 s. § 1193 s.).
+
+Selon son art. 2 par. 2 (et sous réserve des situations visées à l'art. 2 par. 3), l'Accord 2014 est applicable aux demandes d'échange de renseignements concernant toute année civile ou tout exercice commençant à compter du 1er janvier 2010.
+ 
+
+3.2. En l'espèce, la demande d'assistance litigieuse a été formée avant l'entrée en vigueur de l'Accord 2014, mais concerne les périodes fiscales 2010 à 2013. La question de savoir si cette demande doit être examinée, en vertu de l'art. 2 par. 2 de l'Accord 2014, à la lumière des dispositions modifiées du Protocole additionnel peut rester indécise, puisque ces modifications concernent des points qui n'ont pas de lien avec les aspects litigieux du cas d'espèce.
+
+ 
+
+3.3. Au plan interne, la LAAF est applicable (cf. art. 24 LAAF; ATF 139 II 404 consid. 1.1 p. 408).
+
+ 
+
+4.
+
+En l'espèce, les juges précédents ont souligné que les demandes d'assistance administrative remplissaient les exigences formelles requises et le principe de la subsidiarité, ce qu'avaient contesté les intimés. Sur le fond, ils ont jugé que les renseignements relatifs au fait que Y.________ n'était pas connue des services fiscaux et qu'elle n'était pas inscrite au registre du commerce pouvaient être transmis à l'autorité requérante: ils remplissaient la condition de la pertinence vraisemblable (art. 28 par. 1 CDI CH-FR) et émanaient de l'Administration fiscale cantonale genevoise, de sorte que l'Administration fédérale y avait accès en vertu de l'art. 111 de la loi sur l'impôt fédéral direct (LIFD; RS 642.11) (consid. 5 et 9.2). En revanche, l'art. 127 LIFD et le principe de la proportionnalité s'opposaient à la transmission des autres renseignements requis, tous fournis par la Banque (consid. 9.3), quand bien même ils rempliraient la condition de la pertinence vraisemblable (consid. 5). Dans ces circonstances, le point de savoir si les informations concernant l'existence de mandats de gestion de la Banque respectait aussi l'exigence de la pertinence vraisemblable, ce qui n'était a priori pas le cas, pouvait rester ouvert (consid. 5 et 7).
+ 
+
+4.1. La recourante conteste l'applicabilité de l'art. 127 LIFD en l'espèce et soutient qu'elle peut obtenir les renseignements détenus par la Banque en vertu de l'art. 28 par. 5 CDI CH-FR. Elle soutient par ailleurs que tous les renseignements requis remplissent la condition de la pertinence vraisemblable, y compris ceux qui portent sur le point de savoir si la Banque était au bénéfice de mandats de gestion de Y.________ et d'avoirs détenus par Y.________.
+
+ 
+
+4.2. Les intimés concluent à la confirmation de l'arrêt attaqué. Ils relèvent toutefois qu'ils maintiennent que, contrairement à ce qu'a retenu le Tribunal administratif fédéral, l'autorité requérante n'a pas respecté le principe de la subsidiarité.
+
+ 
+
+5. 
+
+L'objet principal du litige a trait au point de savoir si, comme l'a retenu le Tribunal administratif fédéral, l'art. 127 LIFD permet à la Suisse de s'opposer à la transmission des renseignements détenus par la Banque.
+ 
+
+5.1. L'assistance administrative en matière fiscale entre la Suisse et la France est régie par l'art. 28 CDI CH-FR dont le par. 5 est libellé comme suit:
+
+En aucun cas les dispositions du par. 3 ne peuvent être interprétées comme permettant à un Etat contractant de refuser de communiquer des renseignements uniquement parce que ceux-ci sont détenus par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu'agent ou fiduciaire ou parce que ces renseignements se rattachent aux droits de propriété d'une personne. Aux fins de l'obtention des renseignements mentionnés dans le présent paragraphe, nonobstant le par. 3 ou toute disposition contraire du droit interne, les autorités fiscales de l'Etat contractant requis disposent ainsi des pouvoirs de procédure qui leur permettent d'obtenir les renseignements visés par le présent paragraphe.
+ 
+ 
+
+5.2. Dans l'arrêt publié à l'ATF 142 II 161, la Cour de céans a jugé que le libellé de l'art. 28 par. 5 2
+e phrase CDI CH-FR qui exclut, par une double formulation ("nonobstant le par. 3 ou toute disposition contraire du droit interne"), que le droit interne puisse s'opposer à la transmission d'informations visées à ce paragraphe, était suffisamment clair pour être directement applicable. L'applicabilité directe de cette norme impliquait non seulement que le secret bancaire protégé aux art. 127 al. 2 LIFD et 47 de la loi fédérale du 8 novembre 1934 sur les banques (LB; RS 952.0) ne pouvait pas être opposé par la Suisse pour refuser la transmission de documents détenus par une banque, mais également que l'Administration fédérale disposait par là des pouvoirs de procédure nécessaires pour obtenir les renseignements bancaires vraisemblablement pertinents, nonobstant toute disposition de droit interne (cf. consid 4.5.1 et 4.5.2 p. 178; cf. aussi arrêts 2C_527/2015 du 3 juin 2016 consid. 4.1, résumé in Archives 85 p. 86; 2C_490/2015 du 14 mars 2016 consid. 3.2.1, résumé in Archives 84 p. 843; 2C_216/2015 précité consid. 3.3).
+
+ 
+
+5.3. Ainsi, contrairement à ce qu'a retenu le Tribunal administratif fédéral, l'art. 127 LIFD ne peut être invoqué par la Suisse lorsque les renseignements demandés sont couverts par le secret bancaire, puisque l'art. 28 par. 5 CDI CH-FR prévoit expressément que le droit interne ne peut s'opposer aux renseignements visés par ce paragraphe. Dans ces circonstances, il n'est pas nécessaire de trancher le point de savoir si, comme le soutient également l'Administration fédérale dans une motivation alternative, le même résultat s'imposerait si l'on examinait le cas d'espèce sous l'angle de la règle relative aux renseignements se rattachant aux "droits de propriété d'une personne" (cf. art. 28 par. 5 1
+e phrase 2
+  e partie CDI CH-FR).
+
+ 
+
+6. 
+
+Au plan matériel, la transmission de renseignements à l'autorité requérante dépend en premier lieu du point de savoir si ceux-ci remplissent la condition de la pertinence vraisemblable (cf. art. 28 par. 1 CDI CH-FR). En l'occurrence, les juges précédents ont admis que cette condition était réalisée pour l'ensemble des renseignements dont l'Administration fédérale envisageait la transmission, à l'exception de ceux concernant l'existence de mandats de gestion confiés à la Banque, qui ne paraissaient a priori pas vraisemblablement pertinents.
+ 
+
+6.1. L'Administration fédérale soutient au contraire que ces renseignements remplissent aussi la condition de la pertinence vraisemblable.
+
+ 
+
+6.2. L'art. 28 par. 1 1
+e phrase CDI-CH-FR a la teneur suivante:
+
+ 
+"Les autorités compétentes des Etats contractants échangent les renseignements vraisemblablement pertinents pour appliquer les dispositions de la présente Convention ou pour l'administration ou l'application de la législation interne relative aux impôts de toute nature ou dénomination perçus pour le compte des Etats contractants, de leurs subdivisions politiques ou de leurs collectivités locales dans la mesure où l'imposition qu'elle prévoit n'est pas contraire à la Convention."
+ 
+La condition de la pertinence vraisemblableest réputée réalisée si, au moment où la demande est formulée, il existe une possibilité raisonnable que les renseignements requis se révéleront pertinents. Le rôle de l'Etat requis se limite à examiner si les documents demandés ont un rapport avec l'état de fait présenté dans la demande et s'ils sont potentiellement propres à être utilisés dans la procédure étrangère (cf. ATF 142 II 161 précité, qui examine en détail cette condition aux consid. 2.1.1 à 2.1.4 p. 165 ss; cf. aussi arrêt 2C_289/2015 du 5 avril 2016 consid. 4.1 non publié in ATF 142 II 218; arrêt 2C_690/2015 du 15 mars 2016 consid. 3.2). La Cour de céans a déjà jugé que les informations concernant des comptes détenus de manière indirecte remplissaient la condition de la pertinence vraisemblable (ATF 141 II 436 consid. 4.6 p. 446, ainsi que les consid. 6.1 à 6.3 non publiés, traduits in RDAF 2016 II 374; cf. aussi arrêts précités 2C_527/2015 consid. 5.2 in fine; 2C_216/2015 co nsid. 4.2). Elle a par ailleurs aussi jugé que les informations propres à déterminer si une société, en l'occurrence détenue par un actionnaire unique visé par une demande d'assistance administrative, disposait ou non d'une existence réelle, remplissaient la condition de la pertinence vraisemblable (ATF 142 II 69 consid. 3.1 et 3.2 p. 75).
+ 
+
+6.3. La bonne foi d'un Etat est par ailleurs présumée. Dans le contexte de l'assistance administrative en matière fiscale, cette présomption implique que l'Etat requis ne saurait en principe mettre en doute les allégations de l'Etat requérant. Ainsi, s'il ne fait pas obstacle au droit de l'Etat requis de vérifier que les renseignements demandés sont bien vraisemblablement pertinents pour servir le but fiscal recherché par l'Etat requérant, il lui impose néanmoins de se fier en principe aux indications que lui fournit celui-ci (cf. ATF 142 II 161 consid. 2.1.3 p. 167 s.; 142 II 218 consid. 3.3 p. 228 s.).
+
+ 
+
+6.4. En l'occurrence, l'autorité requérante a indiqué que les demandes d'assistance administrative concernaient l'impôt sur le bénéfice ainsi que l'impôt sur le revenu des personnes visées par les demandes (à savoir les époux X.________, E.________ et F.________) et elle a précisé que les renseignements requis étaient nécessaires pour identifier le bénéficiaire réel des virements bancaires effectués sur le compte dont Y.________ était titulaire auprès de la Banque, pour établir le montant des impôts éludés en France et pour assurer la correcte imposition des bénéfices de E.________ et de F.________ en France. Dans ces circonstances, tous les renseignements requis remplissent la condition de la pertinence vraisemblable au vu de la jurisprudence déjà rendue en matière de détention indirecte de comptes bancaires (cf. supra consid. 6.3). Certes, l'autorité requérante n'a pas expliqué en quoi les renseignements concernant l'existence de mandats de gestion de Y.________ ou d'avoirs détenus par Y.________ qui auraient été confiés à la Banque serviraient le but fiscal annoncé dans les demandes. Le principe de la confiance commande toutefois en l'espèce d'admettre qu'il n'est pas exclu que ces renseignements remplissent aussi la condition de la pertinence vraisemblable. En effet, la question de savoir qui gérait Y.________ et ses avoirs présente un lien avec le point de savoir si cette entité existait réellement ou si, comme le soupçonne l'autorité requérante, elle n'a été constituée que pour former un écran destiné à dissimuler l'identité du véritable détenteur des avoirs placés au sein de la Banque.
+
+ 
+
+7. 
+
+Les autres conditions de l'assistance administrative sont réunies en l'espèce. On peut à cet égard souligner deux points.
+ 
+
+7.1. Premièrement, c'est à bon droit que les juges précédents ont estimé que le droit interne, en l'occurrence l'art. 111 LIFD, permettait à l'Administration fédérale d'obtenir des renseignements de l'Administration fiscale cantonale genevoise. Sur le principe, la réserve en faveur du droit interne prévue à l'art. 28 par. 3 let. b CDI CH-FR a vocation à s'appliquer s'agissant des renseignements détenus par une administration fiscale cantonale, puisque ces renseignements ne relèvent pas de l'art. 28 par. 5 CDI CH-FR (qui exclut l'application du par. 3). S'agissant de l'art. 28 par. 3 let. b CDI CH-FR, la Cour de céans a déjà eu l'occasion de préciser que les renseignements qui peuvent être obtenus selon le droit et la pratique internes au sens de cette disposition sont ceux dont disposent les autorités fiscales ou que celles-ci peuvent obtenir par application de la procédure normale d'établissement de l'impôt en vertu de la LIFD (ATF 142 II 69 consid. 4 p. 75 s.; arrêt précité 2C_690/2015 consid. 4.2). En l'occurrence, l'art. 111 al. 1 LIFD, qui règle la collaboration entre autorités fiscales fédérales et cantonales, prévoit une obligation de communiquer "toute information utile" aux autorités fiscales de la Confédération (ANDREA PEDROLI, in Commentaire romand de la LIFD; n° 4 ad art. 111 LIFD; cf. aussi, dans le contexte de l'assistance administrative, DONATSCH/ HEIMGARTNER/MEYER/SIMONEK, Internationale Rechtshilfe, unter Einbezug der Amtshilfe im Steuerrecht, 2
+  e éd. 2015, p. 251 s). Or, il faut admettre que si des informations remplissent la condition de la pertinence vraisemblable au sens de l'art. 28 par. 1 CDI CH-FR, ils constituent alors aussi des informations "utiles" au sens de l'art. 111 al. 1 LIFD, qui doivent partant être transmises par l'administration fiscale cantonale à l'Administration fédérale en vertu de cette disposition.
+
+ 
+
+7.2. Deuxièmement, c'est également à bon droit que les juges précédents ont retenu - ce que les intimés contestent dans leur mémoire de réponse en conduisant toutefois leur raisonnement sur des faits non constatés, cf. consid. 2.2 ci-dessus - que l'autorité requérante avait respecté le principe de la subsidiarité.
+
+Le ch. XI par. 1 du Protocole additionnel prévoit que l'autorité compétente de l'Etat requérant formule ses demandes de renseignements après avoir utilisé les sources habituelles de renseignements prévues par sa procédure fiscale interne. Le ch. XI par. 3 du Protocole additionnel contient la liste exhaustive des informations qui doivent figurer dans une demande d'assistance. Celle-ci ne prévoit pas que l'information selon laquelle l'Etat requérant a utilisé les sources habituelles de renseignements prévues par sa procédure fiscale interne doive y figurer. En réalité, la question du respect du principe de la subsidiarité est étroitement liée au principe de la confiance (cf. aussi ANDREA OPEL, Neuausrichtung der schweizerischen Abkommenspolitifk in Steuersachen: Amtshilfe nach dem OECD-Standard. Eine rechtliche Würdigung, 2015, p. 367). Celui-ci implique qu'à défaut d'élément concret, il n'y a pas de raison de remettre en cause la réalisation du principe de la subsidiarité lorsqu'un Etat forme une demande d'assistance administrative, en tous les cas lorsque celui-ci déclare avoir épuisé les sources habituelles de renseignements ou procédé de manière conforme à la convention. Si la Suisse conçoit des doutes sérieux quant au respect du principe de la subsidiarité, le principe de la confiance ne fait en revanche pas obstacle à la possibilité de demander un éclaircissement sur ce point à l'Etat requérant.
+En l'occurrence, les juges précédents ont relevé à juste titre que la déclaration de l'autorité requérante selon laquelle les demandes sont conformes aux termes de la convention impliquait, en vertu de la confiance mutuelle qui doit prévaloir entre les Etats, que celle-ci avait bien épuisé toutes les sources de renseignements dont elle pouvait disposer en vertu de son droit interne au sens du ch. XI par. 1 du Protocole additionnel. Il n'y a en effet aucun motif concret permettant de douter sérieusement du respect du principe de la subsidiarité en l'espèce. Il faut partant admettre que, contrairement à ce que soutiennent les intimés, ce principe a été respecté.
+ 
+
+8. 
+
+Il découle de ce qui précède que le recours doit être admis. L'arrêt attaqué est confirmé en tant qu'il approuve les premier et deuxième tirets du chiffre 2 de la décision du 17 octobre 2014 de l'Administration fédérale. Il est en revanche invalidé en tant qu'il annule les autres tirets du chiffre 2 de ladite décision. Ceux-ci sont confirmés.
+ 
+
+9. 
+
+Compte tenu de l'issue du litige, les frais, fixés à 5'000 fr., sont mis à la charge des intimés, solidairement entre eux (art. 66 al. 1 et 5 LTF). Il ne sera pas alloué de dépens (art. 68 al. 3 LTF). Le Tribunal fédéral ne fera pas usage de la faculté offerte par les art. 67 et 68 al. 5 LTF et renverra la cause au Tribunal administratif fédéral pour qu'il statue à nouveau sur les frais et dépens de la procédure antérieure.
+
+ 
+ 
+
+ Par ces motifs, le Tribunal fédéral prononce :
+
+ 
+
+1. 
+
+Le recours est admis. L'arrêt attaqué est confirmé en tant qu'il confirme les premier et deuxième tirets du chiffre 2 de la décision du 17 octobre 2014 de l'Administration fédérale. Il est en revanche invalidé en tant qu'il annule les autres tirets de ladite décision. Ceux-ci sont confirmés.
+ 
+
+2. 
+
+Les frais judiciaires, arrêtés à 5'000 fr., sont mis à la charge des intimés solidairement entre eux.
+ 
+
+3. 
+
+La cause est renvoyée au Tribunal administratif fédéral pour nouvelle décision sur les frais et dépens de la procédure antérieure.
+ 
+
+4. 
+
+Le présent arrêt est communiqué à la recourante, au mandataire des intimés et au Tribunal administratif fédéral, Cour I.
+ 
+ 
+Lausanne, le 8 décembre 2016
+Au nom de la IIe Cour de droit public
+du Tribunal fédéral suisse
+ 
+Le Président :    Seiler
+ 
+La Greffière :    Vuadens
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                          Zurück
+126
+127
+                                                            128
+                                                            129
+130
+Vorwärts
+
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

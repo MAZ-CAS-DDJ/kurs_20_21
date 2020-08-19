@@ -1,0 +1,220 @@
+
+
+2C_407/2009 (18.01.2010)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Bundesgericht
+Tribunal fédéral
+Tribunale federale
+Tribunal federal
+ 
+{T 0/2}
+2C_407/2009
+ 
+Urteil vom 18. Januar 2010
+II. öffentlich-rechtliche Abteilung
+ 
+Besetzung
+Bundesrichter Müller, Präsident,
+Bundesrichter Merkli, Karlen, Zünd, Donzallaz,
+Gerichtsschreiber Hugi Yar.
+ 
+Verfahrensbeteiligte
+X.________ AG,
+Beschwerdeführerin, vertreten durch Fürsprecherin Ursula Eggenberger Stöckli,
+ 
+gegen
+ 
+Swissmedic, Schweizerisches Heilmittelinstitut.
+ 
+Gegenstand
+Anpassung der Arzneimittelinformation für Spedifen® Granulat und  Filmtabletten.
+ 
+Beschwerde gegen das Urteil des Bundesverwaltungsgerichts, Abteilung III, vom 7. Mai 2009.
+ 
+Sachverhalt:
+ 
+A.
+A.a  Mit Verfügung vom 30. September 2003 genehmigte das Schweizerische Heilmittelinstitut Swissmedic (im Weitern auch: Swissmedic oder Heilmittelinstitut) der X.________ AG (früher: A.________ SA) eine Änderung der Fach- und Patienteninformation für die Arzneimittel Spedifen® Granulat und Filmtabletten. Am 13. Dezember 2004 erteilte es ihr in Ablösung der IKS-Registrierung für Spedifen® die Swissmedic-Zulassung (gültig bis 12. Dezember 2009). Es verband diese mit der Auflage, dass die Fachinformation gemäss seiner Textprüfung anzupassen sei; die am 30. September 2003 bewilligten Passagen beanstandete es hierbei nicht.
+A.b  Am 27. April 2005 teilte das Heilmittelinstitut der X.________ AG mit, dass zusätzliche Korrekturen am Text nötig seien; es habe sich gezeigt, dass das Gesuch, welches der Verfügung vom 30. September 2003 zugrunde gelegen habe, "ohne detaillierte Prüfung" der Daten genehmigt worden sei. Die X.________ AG widersetzte sich den vorgeschlagenen Anpassungen, soweit sie einen vergleichenden Hinweis auf die höhere Wirkgeschwindigkeit von Spedifen® als Ibuprofen in Form von Arginat-Salz gegenüber anderen ibuprofenhaltigen Arzneimitteln ausschlossen. Sie habe mit konsolidierten Ergebnissen aus einem anerkannten und allgemeingültigen Schmerzmodell gezeigt, "dass Ibuprofenarginat innert 30 Minuten (Median)" von Schmerzen befreie und damit "signifikant schneller" als Ibuprofen wirke.
+A.c  Am 6. Juli 2007 hielt die Swissmedic an ihrer Auffassung fest und forderte die X.________ AG auf, die umstrittene Arzneimittelfachinformation wie folgt zu ändern (die durchgestrichenen Texte entfielen bzw. seien durch die neu aufgeführten Texte zu ersetzen):
+ 
+"Eigenschaften/Wirkungen:
+...Pharmakodynamik
+Pharmakokinetische und klinische Studien zeigen, dass 15 - 30 Minuten nach Verabreichung von Spedifen (Ibuprofenarginat) maximale Plasmaspiegel an Ibuprofen erreicht werden (statt 60 -90 Minuten bei Ibuprofen aus anderen Arzneiformen).
+...Klinische Wirksamkeit
+Klinische Studien erfolgten bei Schmerzen nach Zahnextraktion. Hier zeigt sich, dass Schmerzbefreiung durch Ibuprofenarginat innert 30 Minuten und signifikant schneller als durch Ibuprofen erreicht wird.
+Spedifen eignet sich zur Behandlung akuter Schmerz- und Entzündungszustände wie auch von schubweise wiederkehrenden Schmerzzuständen rheumatischer Erkrankungen degenerativer und entzündlicher Natur.
+Placebo-kontrollierte, klinische Studien mit 200 mg und 400 mg (Film-)Tabletten zeigten eine Wirkung bei Schmerzen nach Zahnextraktion, Spannungskopfschmerzen und Dysmenorrhoe. Die Wirkung in Form einer eindeutig spürbaren Verminderung der Schmerzen war dosisabhängig und setzte im Mittel (Median) nach 57 bzw. 45 Minuten ein (Bereich 29-76 bzw. 24-76 Minuten).
+ 
+Oder alternativ zu diesem Absatz:
+ 
+Die Wirkung tritt etwa nach 30 Minuten ein.
+ 
+Pharmakokinetik:
+ 
+Absorption
+Durch die Salzbildung mit der Aminosäure Arginin wird die Löslichkeit von Ibuprofen erhöht, welches dadurch schneller absorbiert wird.
+Granulat: Maximale Wirkstoffkonzentration von durchschnittlich 25 bzw. 57 mg/l werden im Serum 15-30 Minuten nach oraler Zufuhr von 200 bzw. 400 mg Ibuprofen erreicht (statt 16 bzw. 43 mg/l nach 60-90 Minuten bei Ibuprofen aus anderen Arzneiformen).
+Filmtabletten: Maximale Wirkstoffkonzentrationen von durchschnittlich 40,1 µg/ml werden im Serum ca. 30 Minuten nach oraler Zufuhr von 400 mg Ibuprofen (1 Filmtablette) erreicht (statt 43 µg/ml nach 60-90 Minuten bei Ibuprofen aus anderen Arzneiformen.
+Der Wirkungseintritt erfolgt bei ca. 30 Minuten.
+Granulat: Maximale Wirkstoffkonzentrationen von durchschnittlich 25 bzw. 57 µg/ml Ibuprofen werden im Serum 17-24 Minuten nach oraler Zufuhr von 200 bzw. 400 mg Ibuprofen (als Ibuprofenarginat) erreicht.
+ 
+(Film-)Tabletten: Maximale Wirkstoffkonzentrationen von durchschnittlich 24 bzw. 40 µg/ml Ibuprofen werden im Serum 28-42 Minuten nach oraler Zufuhr von 200 bzw. 400 mg Ibuprofen (als Ibuprofenarginat) erreicht.
+Wird Spedifen nach Mahlzeiten eingenommen, erfolgt die Absorption langsamer und die maximalen Plasmakonzentrationen sind niedriger".
+In der Patienteninformation hielt Swissmedic die X.________ AG an, unter der Rubrik "Was ist Spedifen und wann wird es angewendet" folgende Korrektur vorzunehmen:
+Bei Schmerzen nach Zahnextraktion wird Schmerzbefreiung durch Spedifen innert 30 Minuten erreicht.
+Die Wirkung tritt etwa nach 30 Minuten ein.
+ 
+B.
+Mit Urteil vom 7. Mai 2009 wies das Bundesverwaltungsgericht die von der X.________ AG hiergegen eingereichte Beschwerde ab. Es begründete seinen Entscheid im Wesentlichen damit, dass das Institut nicht die Verfügung vom 30. September 2003 widerrufen habe, sondern wegen einer ursprünglichen Fehlerhaftigkeit auf seinen Zulassungsentscheid vom 13. Dezember 2004 zurückgekommen sei. Swissmedic sei es nicht verwehrt gewesen, "im Interesse einer richtigen und einheitlichen Rechtsanwendung" eine nachträgliche Anpassung der Arzneimittelinformation zu verlangen. Das Institut habe die ursprünglich genehmigte Fachinformation "zu Recht" als fehlerhaft qualifiziert und belegt, dass eine Neubeurteilung erforderlich gewesen sei; es obliege jeweils der Zulassungsinhaberin, "nachzuweisen, dass der von ihr beantragte Text den Anforderungen entspricht [...], mithin aufgrund der beigebrachten Unterlagen bewiesen wurde". Die Beurteilung, wonach die von der X.________ AG beantragten und ursprünglich bewilligten Änderungen der Fach- und Patienteninformation nicht hinreichend nachgewiesen seien, verletze kein Bundesrecht.
+ 
+C.
+Die X.________ AG beantragt vor Bundesgericht, den Entscheid des Bundesverwaltungsgerichts - eventuell unter Rückweisung der Sache zur Neubeurteilung im Sinne der Erwägungen - aufzuheben. Sie macht geltend, das Bundesverwaltungsgericht habe sich bei der Überprüfung der angefochtenen Verfügung eine "falsch verstandene Zurückhaltung" auferlegt, was dazu führte, dass es ihre Ausführungen in weiten Teilen nicht in seine Erwägungen miteinbezogen und damit ihren Anspruch auf rechtliches Gehör verletzt habe. Die Vorinstanz habe sich einseitig auf die Ausführungen von Swissmedic gestützt und - meist pauschal und teilweise mit blossem Hinweis auf die Fundstelle in den Akten - festgestellt, diese seien nachvollziehbar und nicht zu beanstanden. Ihre Entgegnungen seien keiner eigenständigen Würdigung unterzogen worden.
+ 
+Swissmedic beantragt, die Beschwerde abzuweisen. Das Eidgenössische Departement des Innern hat unter Hinweis auf die Ausführungen von Swissmedic darauf verzichtet, eine eigene Stellungnahme einzureichen.
+ 
+D.
+Der Abteilungspräsident hat der Eingabe am 31. Juli 2009 aufschiebende Wirkung beigelegt. Mit Verfügung vom 15. September 2009 (Zulassungsnummer 50'063) bzw. vom 6. November 2009 (Zulassungsnummer 50'677) verlängerte Swissmedic die am 12. Dezember 2009 ausgelaufene Zulassung von Spedifen®; sie wies dabei daraufhin, dass die Problematik der vor Bundesgericht strittigen Formulierungen der Arzneimittelinformation nach Rechtskraft des bundesverwaltungsgerichtlichen Entscheids wieder aufgenommen werde.
+ 
+Erwägungen:
+ 
+1.
+1.1  Gegen Entscheide des Bundesverwaltungsgerichts über Verfügungen der Swissmedic in Anwendung des Bundesgesetzes vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG; SR 812.21) bzw. der Ausführungserlasse dazu kann mit Beschwerde in öffentlich-rechtlichen Angelegenheiten an das Bundesgericht gelangt werden (vgl. Art. 82 ff. BGG). Die X.________ AG ist als Zulassungsinhaberin der Spedifen®-Produkte hierzu legitimiert (Art. 89 Abs. 1 BGG), soweit sie am Ausgang des vorliegenden Verfahrens noch ein aktuelles Interesse hat (vgl. BGE 123 II 285 E. 4): Die Swissmedic ordnete die umstrittenen Modifikationen der Arzneimittelinformation am 6. Juli 2007 in Abänderung zweier Genehmigungsentscheide vom 30. September 2003 und vom 13. Dezember 2004 an. In den vorinstanzlichen Verfahren war umstritten, ob der Widerruf dieser - angeblich ursprünglich fehlerhaften - Verfügungen zulässig sei. Nachdem die Zulassungsbewilligung der umstrittenen Produkte am 12. Dezember 2009 so oder anders ausgelaufen ist, hat die Beschwerdeführerin kein schutzwürdiges Interesse mehr daran, dass das Bundesgericht prüft, ob die Verfügung der Swissmedic in diesem Punkt Bundesrecht verletzt hat. Wegen der aufschiebenden Wirkung ihrer Rechtsmittel war sie bis zum Ablauf der Bewilligungsdauer nicht verpflichtet, ihre Produkteinformationen gemäss den Anordnungen der Swissmedic vom 6. Juli 2007 anzupassen, womit ihr aus deren Entscheid während der ganzen Bewilligungsdauer kein Nachteil erwachsen ist. Ihre Beschwerde ist in diesem Punkt (Widerrufsvoraussetzungen) durch den Fristablauf gegenstandslos geworden; anders verhält es sich hinsichtlich der Frage der inhaltlichen Rechtmässigkeit der angeordneten Abänderungen, da die Swissmedic diesbezüglich bei der Erneuerung der Bewilligung implizit an ihrem Standpunkt festgehalten und den Ausgang des vorliegenden Verfahrens vorbehalten hat.
+ 
+1.2  Das Bundesgericht legt seinem Urteil den Sachverhalt zugrunde, wie ihn die Vorinstanz festgestellt hat (Art. 105 Abs. 1 BGG). Es kann diesen bloss berichtigen oder ergänzen, wenn er offensichtlich unrichtig, unvollständig oder in Verletzung wesentlicher Verfahrensrechte ermittelt wurde (Art. 105 Abs. 2 BGG). Der Betroffene hat darzulegen, dass und inwiefern dies klar und eindeutig der Fall ist (Art. 42 Abs. 2 und Art. 106 Abs. 2 BGG; vgl. BGE 133 II 249 E. 1.4.3; 133 III 350 E. 1.3, 393 E. 7.1, 462 E. 2.4). Im Arzneimittelrecht bildet die Frage, welche Wirkungen Präparate haben und was die Studien dazu aussagen, Teil der Sachverhaltsfeststellung (Urteile 2A.526/2006 vom 6. März 2007 E. 6.2 und 2A.278/2005 vom 29. November 2005 E. 4.2, publ. in ZBl 107/2006 S. 661 ff.). Das Bundesgericht untersucht die Akten nicht selber auf Anhaltspunkte hin, welche diese als unrichtig oder zweifelhaft erscheinen lassen könnten (Urteil 2A.526/2006 vom 6. März 2007 E. 6.2). Eine offensichtliche Unrichtigkeit liegt nicht schon dann vor, wenn wissenschaftliche Studien zu unterschiedlichen Interpretationen Anlass geben, sondern nur, wenn die von der Behörde daraus gezogenen Schlüsse eindeutig und augenfällig unzutreffend erscheinen oder doch erhebliche Zweifel wecken (vgl. BGE 132 I 42 E. 3.1 S. 44). Allfällige wissenschaftliche Unsicherheiten gehen zulasten der beweispflichtigen Gesuchstellerin (vgl. Art. 10 HMG; Urteile 2A.526/2006 vom 6. März 2007 E. 6.5 und 2A.200/2003 vom 18. August 2003 E. 2.1). Fallen bei mehreren Studien die eine oder andere zugunsten des Präparats aus, genügt dies nicht, um den Sicherheits- oder Wirksamkeitsnachweis zu erbringen, wenn insgesamt Widersprüche bestehen bzw. andere Studien die behaupteten Ergebnisse nicht zu stützen vermögen (Urteil 2A.526/2006 vom 6. März 2007 E. 5 u. 6).
+ 
+2.
+2.1  Die Beschwerdeführerin macht geltend, das Bundesverwaltungsgericht habe sich in seinem Entscheid mit ihren Ausführungen nicht hinreichend auseinandergesetzt und seine Kognition in unzulässiger Weise beschränkt. Beschwerdeinstanzen auferlegten sich zwar regelmässig Zurückhaltung, "soweit für die Überprüfung des vorinstanzlichen Entscheids hoch stehende fachliche oder spezialisierte Kenntnisse erforderlich seien", doch dürfe dies nicht für Rechtsfragen gelten; als erste verwaltungsunabhängige Instanz müsse das Bundesverwaltungsgericht das Vorgehen und die Argumente der Verwaltungsbehörden umfassend prüfen; es könne sich nicht "unbesehen" darauf verlassen, dass diese "stets richtig" entschieden; andernfalls die Einsetzung einer unabhängigen richterlichen Kontrollinstanz keinen Sinn mehr mache. Auch wenn sich die urteilende Behörde in ihren Ausführungen auf die für den Entscheid wesentlichen Punkte beschränken dürfe, sei doch zu verlangen, dass sie zu diesen "eine einlässliche Begründung" abgebe und "die Argumente beider Parteien gleichermassen" in ihre Erwägungen "einbeziehe". Vorliegend habe das Bundesverwaltungsgericht ihre Überlegungen "gar nicht oder nur am Rande" erwähnt und in seiner Begründung nicht dargelegt, weshalb es die entsprechenden Argumente nicht als stichhaltig erachtet habe.
+ 
+2.2
+2.2.1  Der verfassungsmässige Anspruch auf rechtliches Gehör umfasst das Recht des Betroffenen, sich vor Erlass eines in seine Rechtsstellung eingreifenden Akts zur Sache äussern zu können (BGE 122 II 274 E. 6b S. 286 f. mit Hinweisen). Er verlangt von der Behörde, dass sie seine Vorbringen tatsächlich hört, ernsthaft prüft und in ihrer Entscheidfindung angemessen berücksichtigt (BGE 123 I 31 E. 2c S. 34 mit Hinweisen). Dies gilt für alle form- und fristgerechten Äusserungen, Eingaben und Anträge, die zur Klärung der konkreten Streitfrage geeignet und erforderlich erscheinen (BGE 112 Ia 1 E. 3c S. 3). Die Begründung muss so abgefasst sein, dass der Betroffene den Entscheid gegebenenfalls sachgerecht anfechten kann. Sie muss kurz die wesentlichen Überlegungen nennen, von denen sich das Gericht hat leiten lassen und auf die es seinen Entscheid stützt. Nicht erforderlich ist, dass sich die Begründung mit allen Parteistandpunkten einlässlich auseinandersetzt und jedes einzelne Vorbringen ausdrücklich widerlegt (BGE 133 III 439 E. 3.3 S. 445 mit Hinweisen). Auch eine Rechtsmittelbehörde, der - wie dem Bundesverwaltungsgericht - volle Kognition zusteht, soll in Gewichtungsfragen den Beurteilungsspielraum der Vorinstanz respektieren. Sie muss zwar eine falsche Entscheidung korrigieren, darf aber die Wahl unter mehreren sachgerechten Lösungen der Vorinstanz überlassen. Wenn es um die Beurteilung technischer oder wirtschaftlicher Spezialfragen geht, kann sie sich mit Blick auf deren Fachwissen eine gewisse Zurückhaltung auferlegen, ohne damit ihre Kognition in unzulässiger Weise zu beschränken, falls im konkreten Fall keine Anhaltspunkte für eine unrichtige oder unvollständige Feststellung des Sachverhalts bestehen und die spezialisierte Vorinstanz die für den Entscheid wesentlichen Gesichtspunkte geprüft und ihre Abklärungen sorgfältig und umfassend vorgenommen hat (vgl. BGE 131 II 680 E. 2.3.2 mit Hinweisen).
+2.2.2  Der Beschwerdeführerin ist einzuräumen, dass die Ausführungen des Bundesverwaltungsgerichts zu ihren Darlegungen bezüglich der Wirksamkeit und der wissenschaftlichen Einschätzung des von ihr eingereichten Materials knapp ausgefallen sind; es ergibt sich indessen daraus hinreichend klar, dass und warum das Gericht sich der Auffassung der Swissmedic anschloss. Das Schweizerische Heilmittelinstitut ist eine durch den Bund unter Mitwirkung der Kantone betriebene öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit, welche im Medizinalbereich über ein besonderes Fachwissen verfügt (vgl. Art. 68 ff. HMG); dies rechtfertigte die geübte Zurückhaltung in den von der Beschwerdeführerin aufgeworfenen wissenschaftlich-technischen Fachfragen (etwa hinsichtlich der Probleme um die "Good Clinical Practice" [GCP] von Studien), nachdem keine Indizien dafür bestanden, dass das Institut die entscheidenden Kriterien widersprüchlich, rechtsungleich oder willkürlich angewendet haben könnte. Sind die Ausführungen von Swissmedic zu den wesentlichen Gesichtspunkten inhaltlich nachvollziehbar, besteht gestützt auf den Anspruch auf rechtliches Gehör kein Anlass zu weiteren Abklärungen seitens des Gerichts. Es ist in diesem Fall an der Gesuchstellerin, zu belegen, dass und inwiefern der Entscheid der Fachbehörde auf einer unsorgfältig erarbeiteten oder lückenhaften Grundlage beruht und deshalb eine unabhängige wissenschaftliche Analyse im gerichtlichen Verfahren erforderlich erscheint.
+2.2.3  Die Beschwerdeführerin hatte im Widerrufs-/Anpassungsverfahren vor der Swissmedic umfassend Gelegenheit, ihren Standpunkt einzubringen; sie hat dabei verschiedene Kompromissvorschläge zur Formulierung der Fachinformation gemacht und von Swissmedic akzeptierte Alternativvorschläge abgelehnt. Das Bundesverwaltungsgericht führte einen doppelten Schriftenwechsel durch, in dem die Beschwerdeführerin sich detailliert zu den wissenschaftlichen Vorbehalten von Swissmedic äussern konnte. Sie erhielt schliesslich auch Gelegenheit, ihren Standpunkt vor Gericht mündlich darzulegen, wobei sie keine zusätzlichen wissenschaftlichen Unterlagen nachreichte. Das Gericht kam in der Folge zur Auffassung, dass es nicht zu beanstanden sei, wenn Swissmedic die europäische Leitlinie zur Durchführung von klinischen Studien mit Arzneimittel zur Behandlung von Schmerzen (CPMP/EWP/612/00) sinngemäss angewendet habe, obwohl die Zulassungsvoraussetzungen eines Analgetikums mit bekanntem Wirkstoff zur Diskussion gestanden habe, welches eine Weiterentwicklung eines Originalpräparats darstellte. Es schloss sich im Folgenden auch den Überlegungen der Swissmedic an, dass verschiedene Indizien darauf hinwiesen, dass die eingereichten Unterlagen (noch) keine hinreichende wissenschaftliche Basis für die gewünschte Formulierung und positive Abgrenzung hinsichtlich des Wirksamkeitseintritts von Ibuprofen-Arginat (IBA) gegenüber Ibuprofen-Säure (IBU) böten, was in der ursprünglichen Genehmigungsverfügung verkannt worden sei. Die Vorinstanz übernahm damit die fachlich-wissenschaftlichen Ausführungen von Swissmedic in deren Verfügung und Vernehmlassungen, womit es der Beschwerdeführerin möglich war, ihren Entscheid sachgerecht anzufechten.
+2.2.4  Juristisch hat das Bundesverwaltungsgericht seinen Entscheid umfassend und ohne Beschränkung seiner Kognition begründet. Es war in diesem Rahmen nicht gehalten, auf sämtliche wissenschaftlichen Ausführungen der Beschwerdeführerin, die sie in der vorliegenden Eingabe unter dem Titel der Verweigerung des rechtlichen Gehörs umfassend wiederholt, im Einzelnen einzugehen. Es wäre an der Beschwerdeführerin gewesen, allenfalls mit zusätzlichem wissenschaftlichem Material darzutun, dass und weshalb die technische Einschätzung von Swissmedic, die in der Fachinformation gewünschten Hinweise seien nicht für alle Indikationen wissenschaftlich genügend fundiert nachgewiesen, falsch erschien und weitere gerichtliche Abklärungen nötig machte.
+ 
+3.
+3.1
+3.1.1  Das Heilmittelinstitut entscheidet nach Prüfung der erforderlichen Unterlagen über die Zulassung von Arzneimitteln bzw. neuen Indikationen, wobei die Gesuchstellerin belegen muss, dass ihr Präparat qualitativ hochstehend, sicher und wirksam ist (Art. 10 und Art. 16 HMG). Die Arzneimittelinformation (Fach- und Patienteninformation) bildet Teil des Bewilligungsverfahrens (vgl. Art. 11 Abs. 1 lit. f HMG; Art. 2 lit. a in Verbindung mit Art. 4 und 5 der Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über die Anforderungen an die Zulassung von Arzneimitteln [AMZV; SR 812.212.22]; Urteil 2A.278/2005 vom 29. November 2005 E. 2.1, publ. in: ZBl 107/2006 S. 526 ff.). Erläuternde Ausführungen in der Fachinformation müssen mit der Anwendung des Arzneimittels in einem direkten Zusammenhang stehen und für die gesundheitliche Aufklärung wichtig sein; sie dürfen anderen Angaben nicht widersprechen und haben sich auf die zugelassenen Anwendungen zu beziehen (vgl. Art. 13 und 14 in Verbindung mit Ziff. 1 Abs. 6 des Anhangs 4 der AMZV ["Anforderung an die Information für die Medizinalpersonen und den Arzneimittel-Fachhandel"] sowie Ziff. 13 und 14 der Erläuterungen der Swissmedic hierzu [Stand: 1. Oktober 2006]). Über die Fachinformation sollen die behandelnden Medizinalpersonen die für die Verschreibung und sichere Anwendung von Arzneimitteln erforderlichen Angaben erhalten; nur diese erlauben es ihnen, die Patienten sachgerecht zu beraten und zu informieren, womit die entsprechenden Informationen deren Schutz dienen: Sie sollen potentielle Gefahren und mögliche Täuschungen oder Fehlinterpretationen im Umgang mit dem jeweiligen Arzneimittel verhindern ("Heilmittelrechtliches Vorsorgeprinzip"; vgl. auch JUANA SCHMIDT, Pharmakommunikation - Information oder Werbung?, in: Dörr/Michel [Hrsg.], Biomedizinrecht, 2007, S. 371 ff., dort S. 389 ff.).
+ 
+3.1.2  Die Swissmedic kann die Zulassung während der Geltungsdauer von Amtes wegen oder auf Gesuch hin veränderten Verhältnissen anpassen. Sie ist in diesem Rahmen insbesondere auch befugt, Änderungen der Arzneimittelinformationen anzuordnen, wenn diese den gesetzlichen Vorgaben nicht mehr entsprechen (Art. 16 Abs. 2 und Art. 66 Abs. 1 HMG). Die Zulassungsinhaberin muss ihrerseits jeweils dem aktuellen Stand von Wissenschaft und Technik sowie neuen Ereignissen und Bewertungen Rechnung tragen, wobei sie die nötigen Änderungen in der Regel vorgängig dem Institut zur Bewilligung vorzulegen hat (vgl. Art. 16 der Verordnung vom 17. Oktober 2001 über die Arzneimittel [Arzneimittelverordnung, VAM; SR 812.212.21]). Die Genehmigung erfolgt aufgrund einer wissenschaftlichen Begutachtung, sofern von der Gesuchstellerin eine Dokumentation vorgelegt wird oder die Änderung sicherheitsrelevant ist; ansonsten wird auf eine (erneute) wissenschaftliche Begutachtung verzichtet (vgl. Ziff. 2 Abs. 1 Subziff. 2 und 3, Ziff. 3 Abs. 1 Subziff. 1 - 3 Anhang 7 AMZV). Im Rahmen des Genehmigungsverfahrens wird geprüft, ob der vorgeschlagene Text, (noch) dem aktuellen Wissensstand entspricht. Dabei kommt dem Institut als Fachbehörde ein pflichtgemäss wahrzunehmender Beurteilungsspielraum zu, den es gestützt auf eigene Erkenntnisse, allgemein zugängliche wissenschaftliche Arbeiten, Richtlinien schweizerischer und internationaler (Fach-)Organisationen und den von der Gesuchstellerin beigebrachten Unterlagen sachgerecht wahrzunehmen hat.
+3.1.3  Indirekt mit der Fachinformation ist die Frage der Fachwerbung verbunden: Zwar gilt die Verordnung vom 17. Oktober 2001 über die Arzneimittelwerbung (Arzneimittel-Werbeverordnung, AWV; SR 812.212.5; vgl. URSULA EGGENBERGER STÖCKLI, Werbung für Heilmittel, in: Poledna [Hrsg.], Gesundheit und Werbung, 2005, S. 61 ff., dort S. 80 f.) für das Packungsmaterial und die Arzneimittelinformation nicht unmittelbar (Art. 1 Abs. 2 lit. a AWV), doch müssen alle Angaben in der Fachwerbung im Einklang mit der vom Schweizerischen Heilmittelinstitut zuletzt genehmigten Arzneimittelinformation stehen; insbesondere dürfen grundsätzlich nur vom Institut genehmigte Indikationen und Anwendungsmöglichkeiten beworben werden (Art. 5 Abs. 1 AWV; vgl. URSULA EGGENBERGER STÖCKLI, Arzneimittel-Werbeverordnung, 2006, N. 11 ff. zu Art. 5 AWV). Die Fachwerbung muss in ihren Aussagen genau, ausgewogen, sachlich zutreffend und belegbar sein; sie darf keine irreführenden Angaben enthalten (Art. 5 Abs. 3 AWV). Die Werbeaussagen müssen auf dem aktuellen Stand der wissenschaftlichen Erkenntnisse beruhen und sollen diesen widerspiegeln. Sie dürfen nur auf klinische Versuche Bezug nehmen, die nach den Anforderungen der Guten Praxis der Klinischen Versuche (GPKV) durchgeführt und publiziert oder zur Publikation angenommen sind (Art. 5 Abs. 5 AWV). Aussagen zu Vergleichen mit anderen Arzneimitteln sind in der Fachwerbung zulässig, wenn sie sich als wissenschaftlich korrekt erweisen und sich auf Studien abstützen, welche den Anforderungen der Guten Praxis der Klinischen Versuche entsprechen (Art. 7 AWV).
+3.2
+3.2.1  Die Beschwerdeführerin macht geltend, zwischen ihr und der Swissmedic sei in der Sache selber im Wesentlichen noch umstritten, (1) ob Ibuprofen-Arginat (der Wirkstoff in Spedifen [IBA]) schneller wirkt als Ibuprofen-Säure (IBU), die in herkömmlichen Ibuprofen-Präparaten zur Anwendung kommt, (2) ob der Unterschied zwischen IBA und IBU beim Wirkungseintritt in der Arzneimittelinformation erwähnt werden darf und (3) ob Swissmedic ohne triftige Gründe auf die Verfügung vom 30. September 2003 zurückgekommen ist. Die letzte Frage ist hier nicht mehr zu prüfen, da die ursprünglich auf fünf Jahre beschränkte Zulassungsbewilligung am 12. Dezember 2009 ausgelaufen ist (vgl. oben E. 1.1).
+3.2.2  In Bezug auf die wissenschaftliche Einschätzung der eingereichten Unterlagen bringt die Beschwerdeführerin nichts vor, was die Annahme, die eingereichten Unterlagen genügten im Rahmen der Guten Praxis der Klinischen Versuche (GPKV) für den gewünschten allgemeinen Hinweis einer schnelleren Wirksamkeit von Spedifen® nicht, als offensichtlich unvollständig oder fehlerhaft erscheinen liesse. Ihre Ausführungen erschöpfen sich darin, die eigenen, bereits wiederholt in den vorinstanzlichen Verfahren vorgebrachten Einschätzungen jenen des Instituts gegenüberzustellen. Sie verkennt dabei, dass es an ihr ist, die Wirksamkeit hinsichtlich der bewilligten Indikationen anhand von wissenschaftlich erhärteten, über vernünftige Zweifel erhabene Untersuchungen nachzuweisen. Die von ihr eingereichten Unterlagen weisen zwar allenfalls auf eine gewisse schnellere Wirkgeschwindigkeit im Rahmen klinischer Versuche bei chirurgischen Zahnextraktionen hin (Dental Surgery-Studien); die Swissmedic durfte indessen davon ausgehen, dass die entsprechende Behauptung für die anderen zugelassenen Indikationen dadurch nicht im Rahmen der CPMP-Guideline (Note for Guidance on Clinical Investigation of Medicinal Products for Treatment of Nociceptive Pain [CPMP/WEWP/612/00]) hinreichend nachgewiesen erschien (vgl. das Urteil 2A.515/2002 vom 28. März 2003 E. 3.5). Das Indikations-/Anwendungsgebiet von Spedifen® umfasst gemäss Arzneimittel-Kompendium "verschiedene Schmerzzustände besonders akuter Natur, wie z.B. Symptome des Zervikalsyndroms, Kopfschmerzen, Zahnschmerzen, muskuläre und osteoartikuläre Schmerzen, schmerzhafte Wirbelsäulensyndrome, posttraumatische und postoperative Entzündungen und Schmerzen; Schmerzzustände in der Gynäkologie wie z.B. Dysmenorrhoe; schubweise wiederkehrende Schmerzzustände bei rheumatischen Erkrankungen entzündlicher und degenerativer Formen und bei morgendlicher Gelenksteifheit; extraartikuläre rheumatische Beschwerden; Fieber- und Schmerzzustände bei infektiösen Erkrankungen (z.B. grippale Infekte)". Die von der Beschwerdeführerin als "Pivotal-Studien" bezeichneten Untersuchungen bezogen sich auf chirurgische Zahnextraktionen; für die anderen Bereiche reichte sie lediglich zwei ergänzende supportive Studien bei Dysmenorrhoe ein; die zwei Studien bei Spannungs-Kopfschmerzen bezeichnete sie im Laufe des Verfahrens als "untaugliches Schmerzmodell", obwohl entsprechende Schmerzen ebenfalls in den zugelassenen Anwendungsbereich fallen, weshalb die diesbezüglichen Untersuchungen nicht gänzlich unberücksichtigt bleiben konnten.
+3.2.3  Swissmedic hat nachvollziehbar dargelegt, dass aus den von der Beschwerdeführerin angerufenen Werten der drei Dental Surgery-Studienberichten nicht zwingend generell auf den behaupteten schnelleren Wirkungseintritt geschlossen werden kann, da sie in verschiedenen Punkten (Definition im Studienprotokoll, Signifikanzschranken usw.) nicht den Anforderungen der einschlägigen Guidelines entsprächen. Es bestanden gestützt auf die inkonsistenten Resultate der Studie IA-US-03 (ungewöhnlich langsame Resorption und unterdurchschnittlich tiefe maximale Plasmaspiegel im Vergleich zu anderen Ibuprofen-Präparaten), bei der als einziger der eingereichten sieben klinischen Untersuchungen gleichzeitig die Pharmakokinetik und die klinische Wirksamkeit untersucht wurden (vgl. zu den verschiedenen Untersuchungstypen und -definitionen: Christoph Schmidt, Die Zulassung von Arzneimitteln nach dem Heilmittelgesetz, 2008, S. 96 ff.), tatsächlich Zweifel daran, dass die Resultate eine genügende statistische Signifikanz der Unterschiede (zum Original Ibuprofen), klinische Relevanz der Effektgrösse (Ausmass der Wirkung von Test und Referenz im Vergleich mit Placebo im Dosierungsintervall) und wissenschaftlich ausreichende Datenkonsistenz über sämtliche Studien hinweg für die von der Beschwerdeführerin gewünschten vergleichenden Aussagen über die Wirkgeschwindigkeit zu schaffen vermochten. Zwar ist Ibuprofen als Arginat(-salz) besser wasserlöslich als andere Ibuprofenformen; hieraus kann aber nicht zwangsläufig darauf geschlossen werden, dass damit auch eine schnellere Absorption oder gar ein schnellerer klinischer Wirkungseintritt erstellt ist. Ein solcher muss vielmehr mit geeigneten, den einschlägigen wissenschaftlichen Guidelines entsprechenden klinischen Studien belegt werden.
+3.2.4  Mit der Beschwerdeführerin ist davon auszugehen, dass nicht  jede vergleichende Aussage zu einem anderen ähnlichen Produkt in der Fachinformation ausgeschlossen erscheint (vgl. Eggenberger Stöckli, a.a.O., N. 16 zu Art. 5 AWV). Es kann durchaus ein Interesse daran bestehen, die Fachkreise über den schnelleren Wirkungseintritt eines Stoffes in einer bestimmten Form gegenüber anderen Arzneiformen zu informieren; gleichzeitig müssen dann aber wohl auch die Wirkungsdauer und allenfalls die Wirkungsintensität mitberücksichtigt werden. Auf jeden Fall haben die entsprechenden Unterschiede wissenschaftlich unzweifelhaft belegt zu sein; nur dann kann sich die Frage stellen, ob allenfalls - mit Blick auf die Wirtschaftsfreiheit (Art. 27 BV), welche auch das Recht auf Werbung umfasst - ein Anspruch darauf besteht, dass sie in die Fachinformationen aufgenommen werden. Da bei den sieben eingereichten Studien - wie dargelegt - hinreichende Indizien für eine ungenügende wissenschaftliche Validität bestanden, braucht die Frage hier nicht vertieft zu werden. Grundsätzlich bleibt es bei den Vorgaben des Heilmittelinstituts, wonach die Angaben über die Eigenschaften des Wirkstoffes oder der Wirkstoffkombination konzis und belegt sein müssen und Werbeaussagen zu unterlassen sind. Pharmakodynamisch sollen nur Wirkungen beschrieben werden, die für die Indikation relevant oder zum Verständnis von Nebenwirkungen wichtig erscheinen. Dabei ist deutlich zwischen experimentellen Befunden und nachgewiesenen therapeutischen Wirkungen beim Menschen zu unterscheiden. Mit Bezug auf die klinische Wirksamkeit sind die wesentlichen Daten der vorgelegten klinischen Studien zu erwähnen (z.B. Charakteristik der Patientenpopulation, Effektgrösse, Statistik usw.; vgl. zum Ganzen: Ziff. 13 der Erläuterungen der Swissmedic vom 1. Oktober 2006 zu den "Anforderungen an die Information für die Medizinalpersonen und den Arzneimittel-Fachhandel [Fachinformation]").
+ 
+4.
+Was die Beschwerdeführerin gegen den angefochtenen Entscheid weiter einwendet, lässt diesen ebenfalls nicht bundesrechtswidrig erscheinen:
+ 
+4.1  Zwar fällt ihre Tätigkeit in den Anwendungsbereich der Wirtschaftsfreiheit, doch darf diese zum Schutz des Publikums im öffentlichen Interesse durch angemessene Massnahmen beschränkt werden (vgl. Art. 36 BV). Dass allenfalls nur wissenschaftlich einwandfrei belegte Charakteristika eines Wirkstoffs in Abgrenzung zu ähnlichen Arzneiformen in die Fachinformation aufgenommen werden können, womit sie hernach im Rahmen der Arzneimittel-Werbeverordnung auch beworben werden dürfen, dient der klaren Information von Fachkreisen und Publikum sowie der Lauterkeit auf dem Medikamentenmarkt (vgl. Art. 1 Abs. 3 lit. c HMG). Dieser soll nicht nur "qualitativ hoch stehende, sichere und wirksame Heilmittel" hervorbringen (Art. 1 Abs. 1 HMG), sondern den Konsumentinnen und Konsumenten zudem auch einen angemessenen Schutz vor Täuschung bieten (Art. 1 Abs. 2 lit. a HMG). Die in Verkehr gebrachten Heilmittel sind ihrem Zweck entsprechend und massvoll zu verwenden (Art. 1 Abs. 2 lit. b HMG), was eine konzise und wissenschaftlich belegte Information über die gesamten oder doch über einen wesentlichen Teil der zulässigen Indikationen bzw. Applikationen voraussetzt (vgl. POLEDNA/BERGER, Öffentliches Gesundheitsrecht, 2002, N. 308).
+ 
+4.2  Soweit die Beschwerdeführerin eine Gleichbehandlung mit Algifor-L®/-forte verlangt, das ihrem Ibuprofenprodukt ähnlich sei, verkennt sie, dass in dessen Fachinformation lediglich darauf hingewiesen wird, dass das darin enthaltene Ibuprofenlysinat "die gleichen pharmakologischen Eigenschaften wie Ibuprofen" zeigt, sich aber von diesem durch "seine höhere Wasserlöslichkeit" unterscheidet. Pharmakokinetisch wird festgehalten, dass der maximale Plasmaspiegel von 33,6 mg/l (Beutel) resp. 37,2 mg/l (Filmtablette) "in ungefähr 30 Minuten nach einer oralen Gabe von 400 mg Ibuprofen" erreicht wird. Abgesehen davon, dass die entsprechenden Informationen auf anderen Unterlagen beruhen, unterscheiden sich die von der Swissmedic gegenüber der Beschwerdeführerin angeordneten Anpassungen im Resultat hiervon nicht grundlegend: Auch die Fachinformation zu Algifor-L®/-forte enthält trotz der ebenfalls bestehenden höheren Wasserlöslichkeit keinen vergleichenden Hinweis bezüglich eines gegenüber anderen Ibuprofenprodukten schnelleren Wirkungseintritts. Die Beschwerdeführerin kann aus der bewilligten Produkteinformation von Algifor-L®/-forte deshalb nichts zu ihren Gunsten ableiten.
+ 
+4.3  Dasselbe gilt bezüglich der Tatsache, dass die französische Zulassungsbehörde Spifen 400 mg mit dem pharmakologischen Hinweis akzeptiert hat: "...Dans les douleurs dentaires post-extractionelles, l'effet antalgique de SPIFEN à été observé plus précocement que pour une forme conventionnelle d'ibuprofène" und die Beschwerdeführerin gestützt hierauf in Frankreich entsprechend wirbt: Es ist nicht ersichtlich, auf welchen rechtlichen und wissenschaftlichen Grundlagen die französischen Behörden diesen Hinweis gestattet haben. Bezüglich der Werbung in der Schweiz hat das Bundesgericht die Auffassung von Swissmedic bestätigt, dass bereits gestützt auf die bisherigen Arzneimittelinformationen Aussagen wie "Lindert den Schmerz bereits nach wenigen Minuten" und: "...befreit vollständig vom Schmerz innert 30 Minuten" sachlich unzutreffend und übertrieben seien; der zuletzt genehmigten Arzneimittelinformation könne kein Hinweis darüber entnommen werden, in welchem Umfang und nach welchem Zeitablauf eine Linderung der Schmerzen eintrete; sie enthalte auch keine Angaben, die darauf hindeuten würden, dass eine vollständige Schmerzbefreiung nach zirka 30 Minuten eintreten könnte (Urteil 2A.607/2005 vom 23. Juni 2006, E. 6 ["Dolo-Spedifen 400"], publ. in: sic! 2007 S. 126 ff.). Nach Art. 13 HMG sind zwar bei Arzneimitteln, die bereits in einem anderen Land mit vergleichbarer Arzneimittelkontrolle zugelassen sind, die entsprechenden Ergebnisse - auch hinsichtlich der Arzneimittelinformationen - zu berücksichtigen. Die ausländische Zulassung muss indessen nicht zwingend übernommen werden. Sie bildet lediglich ein Indiz dafür, dass eine genügende wissenschaftliche Relevanz bestehen kann, entbindet die Swissmedic indessen nicht davon, ihrer Prüfungspflicht gemäss dem schweizerischen Zulassungsrecht nachzukommen und bei wissenschaftlich begründeten Zweifeln zusätzliche Unterlagen einzuverlangen (vgl. CHRISTA TOBLER, in: BSK Heilmittelgesetz, Basel 2006, N. 5 ff. zu Art. 13 HMG).
+ 
+5.
+Die vorliegende Beschwerde ist somit unbegründet und deshalb abzuweisen, soweit sie nicht gegenstandslos geworden ist (vgl. oben E. 1.1 [Bewilligungswiderruf wegen ursprünglicher Fehlerhaftigkeit]). Die unterliegende Beschwerdeführerin wird für das bundesgerichtliche Verfahren vollumfänglich kostenpflichtig (vgl. Art. 66 BGG; vgl. BGE 125 V 373 E. 2a; 118 Ia 488 E. 4a S. 494 f.): Auch hinsichtlich des Bewilligungswiderrufs wäre ihre Beschwerde aufgrund der vorinstanzlichen Ausführungen vermutlich abzuweisen gewesen. Der Überführungsentscheid von der IKS- zur Swissmedic-Zulassung stand unter dem ausdrücklichen Vorbehalt einer nachträglichen umfassenderen Prüfung der Rechtmässigkeit der Zulassung "gestützt auf bereits vorhandene Akten oder künftige Erkenntnisse", was es Swissmedic erlaubte, im Interesse einer richtigen und einheitlichen Rechtsanwendung auf die frühere Prüfung zurückzukommen und eine nachträgliche Anpassung bzw. Präzisierung der Arzneimittelinformation im Einklang mit den Resultaten der ursprünglich zu Unrecht nicht hinreichend gewürdigten Studien zu verlangen (vgl. die E. 3.4 des angefochtenen Entscheids). Dem Verfahrensausgang entsprechend sind keine Parteientschädigungen geschuldet (vgl. Art. 68 BGG).
+ 
+Demnach erkennt das Bundesgericht:
+ 
+1.
+Die Beschwerde wird abgewiesen, soweit sie nicht gegenstandslos geworden ist.
+ 
+2.
+Die Gerichtskosten von Fr. 5'000.-- werden der Beschwerdeführerin auferlegt.
+ 
+3.
+Dieses Urteil wird den Verfahrensbeteiligten, dem Bundesverwaltungsgericht, Abteilung III, sowie dem Eidgenössischen Departement des Innern schriftlich mitgeteilt.
+ 
+Lausanne, 18. Januar 2010
+ 
+Im Namen der II. öffentlich-rechtlichen Abteilung
+des Schweizerischen Bundesgerichts
+Der Präsident:  Der Gerichtsschreiber:
+ 
+Müller  Hugi Yar
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                            2
+3
+Vorwärts
+
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

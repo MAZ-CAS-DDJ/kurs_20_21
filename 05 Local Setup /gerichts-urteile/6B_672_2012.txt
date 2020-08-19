@@ -1,0 +1,194 @@
+
+
+6B_672/2012 (19.03.2013)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Bundesgericht
+Tribunal fédéral
+Tribunale federale
+Tribunal federal
+ 
+{T 0/2}
+6B_672/2012
+ 
+Arrêt du 19 mars 2013
+Cour de droit pénal
+ 
+Composition
+MM. et Mme les Juges fédéraux Mathys, Président,
+Jacquemoud-Rossari et Oberholzer.
+Greffier: M. Rieben.
+ 
+Participants à la procédure
+X.________, représenté par Maître Thomas Legler et Maître Michèle Burnier, avocats,
+recourant,
+ 
+contre
+ 
+1. Ministère public du canton de Neuchâtel, rue du Pommier 3, 2000 Neuchâtel,
+2. C.________ SA, représentée par Me Nathalie Tissot, avocate,
+intimés.
+ 
+Objet
+Concurrence déloyale, arbitraire, droit d'être entendu, etc.,
+ 
+recours contre le jugement de la Cour pénale du Tribunal cantonal du canton de Neuchâtel du 10 octobre 2012.
+ 
+Faits:
+ 
+A.
+Par jugement du 8 février 2011, le Tribunal de police des Montagnes et du Val-de-Ruz a reconnu X.________ coupable d'infraction à la loi contre la concurrence déloyale (art. 23 et 5 let. a LCD) ainsi que de contrainte (art. 181 CP). Il l'a condamné à la peine de 45 jours-amende à 300 francs, avec sursis pendant deux ans avec suite de frais et dépens.
+ 
+B.
+Saisie d'un appel de X.________, et d'un appel joint de C.________ SA, la Cour pénale du Tribunal cantonal de la République et canton de Neuchâtel a, par jugement du 10 octobre 2012, partiellement admis l'appel de X.________ et rejeté celui de C.________ SA. Elle a réduit la peine prononcée à 40 jours-amende à 300 francs, avec sursis pendant deux ans, au motif que ce n'était pas une infraction de contrainte qui devait être retenue, mais uniquement un délit manqué de contrainte. Elle s'est fondée sur les principaux éléments de fait suivants.
+B.a  X.________ s'est vu confier par C.________ SA, respectivement D.________, son administrateur, le mandat de développer, contre rémunération, de nouveaux modèles de montres de luxe et en particulier, le développement d'une montre musique avec indication d'un semainier perpétuel. D.________, qui en avait eu l'idée, a alors remis des schémas de principe à X.________. Celui-ci a développé un système avec mécanisme manuel (invention A) et un autre système avec mécanisme automatique (invention B).
+B.b  X.________ a déposé une première demande de brevet européen le 25 janvier 2006 pour cette seconde invention, en s'indiquant comme seul inventeur, et il a déposé une autre demande de brevet pour la première le 27 janvier 2006 en indiquant D.________ comme co-inventeur avec lui. Un brevet international a été délivré à X.________ pour l'invention B. Par la suite, ce dernier a fait savoir à D.________ qu'il acceptait la cession de ce brevet contre le paiement des sommes qu'il réclamait pour le développement de la montre avec semainier perpétuel.
+ 
+C.
+X.________ forme un recours en matière pénale au Tribunal fédéral contre le jugement du 10 octobre 2012. Il conclut à l'annulation du jugement attaqué et à son acquittement, subsidiairement, au renvoi de la cause à l'autorité cantonale pour nouvelle décision dans le sens des considérants, le tout avec suite de frais et dépens.
+Il n'a pas été ordonné d'échange d'écritures.
+ 
+Considérant en droit:
+ 
+1.
+Le recourant fait valoir que la cour cantonale a considéré que D.________ lui avait remis le "résultat d'un travail" au sens de l'art. 5 let. a LCD sans indiquer en quoi celui-ci consisterait. Il invoque à cet égard une violation de cette dernière disposition ainsi que de l'interdiction de l'arbitraire et de la présomption d'innocence.
+ 
+1.1  Selon l'art. 23 al. 1 LCD, quiconque, intentionnellement, se rend coupable de concurrence déloyale au sens des art. 3, 4, 4a, 5 ou 6 LCD est, sur plainte, puni d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire.
+L'art. 5 let. a LCD dispose que celui qui, notamment, exploite de façon indue le résultat d'un travail qui lui a été confié, par exemple des offres, des calculs ou des plans agit de façon déloyale. Pour que cette disposition soit applicable, il faut, d'une part, que le résultat d'un travail ait été confié à l'auteur et, d'autre part, que celui-ci l'utilise contrairement aux accords passés, qu'il le détourne de la destination convenue. Le caractère déloyal de l'acte réside dans la trahison de la confiance donnée (arrêt 6S.684/2001 du 18 janvier 2002 consid. 1.b).
+Le terme de "résultat d'un travail" couvre le résultat d'un travail de nature préparatoire, qui se situe en amont de l'utilisation commerciale. Peuvent constituer le résultat d'un travail des esquisses, des études ou des concepts (Simone Brauchbar Birkhäuser, Bundesgesetz gegen den unlauteren Wettbewerb (UWG), Stämpflis Handkommentar, 2010, n. 9 ad art. 5 LCD; Carl Baudenbacher, Lauterkeitsrecht, 2001, n. 26 ad art. 5 LCD). Un certain effort intellectuel et/ou matériel doit avoir conduit au résultat obtenu. En revanche, la loi ne réprime pas la reprise d'une simple idée confiée par un tiers qui n'en serait encore qu'à un stade embryonnaire et qui, partant, nécessite encore un long travail de mise au point (ATF 122 III 469 consid. 8b p. 484; Message à l'appui d'une loi fédérale contre la concurrence déloyale, FF 1983 II, p. 1103; Baudenbacher, op. cit., n. 24 ad art. 5 LCD; François Perret, La protection des prestations in: La nouvelle loi contre la concurrence déloyale, 1988, p. 45).
+ 
+1.2  Selon la cour cantonale, le résultat d'un travail au sens de l'art. 5 let. a LCD a été confié au recourant puisque l'idée d'une montre musicale avec affichage de la semaine émane de D.________ et qu'elle a été concrétisée par l'élaboration de plusieurs schémas de principe, remis au recourant afin qu'il résolve les problèmes techniques rencontrés dans le développement du produit. En déposant une demande de brevet à son nom, le recourant a exploité cette idée en violation de son devoir de fidélité.
+ 
+1.3  Le seul fait que les développements opérés par le recourant se fondent sur une idée de D.________ ne permet pas encore de considérer qu'il y a eu reprise d'un travail par le recourant au sens de l'art. 5 let. a LCD. La cour cantonale ne précise en outre pas quel croquis, plan ou esquisse figurant à la procédure et dont D.________ - et non le recourant - serait l'auteur, elle vise par le terme de "schémas de principe". Celui-ci ne donne cependant, en lui-même, aucune indication sur la nature ou le contenu des documents remis au recourant. La cour cantonale reprend à cet égard la formule utilisée par l'expert dans le cadre de sa réponse à la question s'il avait d'autres remarques à apporter ("le dépôt du brevet doit il me semble être décidé par M. D.________ et lui seul compte tenu qu'il est l'initiateur du projet, qu'il a apporté l'idée et des schémas de principe"; pce D.471). Le contexte dans lequel ce terme a été utilisé ne permet pas de déterminer à quel document l'expert, auquel l'ensemble du dossier pénal a été remis, faisait allusion. L'expression utilisée ne pouvait en outre avoir aucune portée juridique puisque l'expert n'est pas qualifié pour se prononcer sur des questions de droit, mais uniquement de fait (ATF 118 Ia 144 consid. 1c et les références citées; arrêt 4A_478/2008 du 16 décembre 2008 consid. 4.1).
+Les documents qualifiés de "schémas de principe" ne sont pas identifiés et le Tribunal fédéral ne peut dès lors pas contrôler si la cour cantonale a violé le droit fédéral en considérant qu'au vu de leur nature, ils devaient être qualifiés de résultat d'un travail au sens de l'art. 5 let. a LCD.
+Il n'y a pas lieu d'examiner si, même en l'absence d'un résultat d'un travail, le comportement du recourant consistant à déposer un brevet à son nom portant sur un mécanisme qu'il a développé dans le cadre de sa relation contractuelle avec D.________ pourrait tomber sous le coup d'une autre disposition de la loi contre la concurrence déloyale. Tel pourrait être le cas en particulier en vertu de la clause générale de l'art. 2 LCD, au motif qu'il s'était créé un rapport de confiance entre les parties et que la loyauté obligeait le recourant à ne pas détourner les informations reçues de l'usage convenu (cf. arrêt 4C.399/1998 du 18 mars 1999 consid. 2b, publié in sic! 1999, p. 300; cf. également ATF 93 II 272 consid. 4 p. 276 s.; 77 II 263 consid. 2c p. 269 s.). La réalisation d'un acte de concurrence déloyale au sens de cette disposition ne serait cependant pas susceptible de constituer une infraction pénale selon l'art. 23 LCD.
+ 
+1.4  En définitive, la décision attaquée ayant été prononcée sans que les faits nécessaires à l'application de la loi soient constatés, elle est contraire au droit fédéral. Elle doit être annulée et la cause renvoyée à l'autorité précédente, sans échange d'écritures, afin que l'état de fait soit complété et qu'un nouveau jugement soit prononcé (cf. ATF 133 IV 293 consid. 3.4.2 p. 296 s.).
+ 
+2.
+Le recourant invoque une violation de l'art. 181 CP.
+ 
+2.1  La cour cantonale a admis la réalisation de cette infraction au motif que le recourant s'est indûment attribué des droits de propriété intellectuelle grâce à un procédé déloyal et qu'il a ainsi utilisé un moyen illicite pour influer sur la liberté d'action de C.________ SA afin d'obtenir le paiement des sommes qu'il réclamait.
+La cause étant renvoyée à l'autorité cantonale afin qu'elle statue à nouveau sur le caractère déloyal du comportement du recourant au sens de l'art. 5 let. a LCD, il est prématuré de statuer sur l'infraction de délit manqué de contrainte.
+ 
+2.2  Il peut, au surplus, être relevé ce qui suit.
+La cour cantonale a considéré que le recourant avait implicitement menacé l'intimée d'un dommage qui devait être qualifié de sérieux "au vu des enjeux économiques" liés au brevet. L'état de fait cantonal ne contient cependant aucune constatation quant à la valeur économique de l'invention qui fait l'objet du brevet. Même si les brevets d'invention sont délivrés pour les inventions nouvelles utilisables industriellement (art. 1 al. 1 LBI), cela ne signifie pas encore nécessairement que l'invention qui a fait en l'espèce l'objet du brevet a une valeur économique importante, dont l'intimée pourrait être frustrée si elle était privée de la possibilité de l'exploiter. En outre, la cour a considéré que réclamer le paiement des sommes promises en contrepartie d'une cession des droits sur l'invention sur laquelle le recourant a obtenu un brevet constituait un moyen de pression sur C.________ SA. Les motifs pour lesquels un brevet n'a pas été délivré pour l'invention A, pour laquelle une demande a été déposée au nom du recourant et de D.________, ne sont pas établis. Le recourant soutient pour sa part que la raison en est que l'intimée a renoncé à poursuivre l'examen de la demande portant sur l'invention A et ne s'est pas acquittée des annuités réclamées. Or, si C.________ SA ou D.________ ont effectivement renoncé volontairement au brevet sur cette invention, qui est intimement liée à l'invention B, la menace du recourant de ne pas céder le brevet délivré ne pouvait exercer aucune pression sur les précités. La cour cantonale devra également établir les faits sur ces points avant de se prononcer sur la réalisation d'une éventuelle infraction à l'art. 181 CP.
+ 
+3.
+Invoquant l'arbitraire dans la constatation des faits et l'appréciation des preuves ainsi que la violation de la présomption d'innocence, le recourant conteste que la demande de brevet le désignant comme unique inventeur a été déposée antérieurement à celle qui indique D.________ comme co-inventeur à ses côtés.
+Il ressort effectivement des accusés de réception de l'Office européen des brevets auxquels le recourant se réfère que la demande de brevet A (xxx) et la demande de brevet B (yyy) ont été toutes deux déposées le 27 janvier 2006 (pces D.189 et D.244). Il ressort également du courrier adressé le 9 janvier 2007 au Juge d'instruction par la société E.________ SA, qui a effectué les démarches pour déposer les demandes de brevets sur les inventions A et B, que celles-ci ont été accomplies le 27 janvier 2006 (cf. pce D.374). La date du 25 janvier 2006 qui figure sur la requête en délivrance d'un brevet européen et mentionne le recourant comme seul inventeur (pce D. 179), ne peut quant à elle être considérée comme la date à laquelle la demande de brevet a été déposée, ni même celle à laquelle elle a été envoyée, mais, tout au plus, celle à laquelle la demande aurait été rédigée. La cour cantonale ne pouvait dès lors pas retenir qu'un premier dépôt avait été effectué le 25 janvier 2006, puis un second le 27 janvier 2006, mais au contraire que les deux demandes de brevet ont été déposées à cette dernière date.
+ 
+Cela étant, l'antériorité de la demande déposée au nom du seul recourant n'a pas été invoquée, en tant que telle, comme un élément qui fonde les infractions à la loi contre la concurrence déloyale ou de délit manqué de contrainte, mais le fait que le recourant a déposé une demande et obtenu un brevet à son nom en violation de son devoir de fidélité (cf. supra consid. 1.2) et a ainsi recouru à un moyen illicite pour obtenir le paiement des sommes qu'il réclamait (cf. supra consid. 2.1). La constatation erronée selon laquelle les deux demandes de brevet ont été déposées à des dates différentes n'a pas influé sur le sort de la cause. Le recourant ne peut donc la critiquer (cf. art. 97 al. 1 LTF).
+ 
+4.
+Le recourant invoque une violation de son droit d'être entendu (art. 29 al. 2 Cst.) au motif que la cour cantonale aurait fondé sa décision, notamment, sur le témoignage de l'épouse de D.________ intervenu le 17 février 2010 devant le Tribunal de police des Montagnes et du Val-de-Ruz, lequel n'avait toutefois pas été consigné dans un procès-verbal. Selon ce témoignage, l'idée d'un semainier perpétuel avait germé dans la tête de D.________ en 1999 déjà.
+Le recourant, qui était assisté lors des débats de première instance par un mandataire, ne prétend pas avoir été privé de la possibilité de réclamer qu'un procès-verbal soit dressé et il n'allègue pas avoir soulevé devant l'autorité cantonale le grief selon lequel le Tribunal de police n'aurait pas consigné les déclarations du témoin. Le recourant contrevient ainsi au principe de la bonne foi (art. 5 al. 3 Cst.) qui oblige celui qui constate un prétendu vice de procédure à le signaler immédiatement à un moment où il pourrait encore être corrigé et lui interdit d'attendre en restant passif afin de pouvoir s'en prévaloir ultérieurement pour l'hypothèse d'une issue défavorable de la procédure (ATF 135 III 334 consid. 2.2 p. 336; 134 I 20 consid. 4.3.1 p. 21; 132 II 485 consid. 4.3 p. 496). Son grief est tardif et, partant, irrecevable. Au demeurant, la cour cantonale a constaté que le recourant lui-même avait toujours admis que l'idée d'une montre musicale avec semainier perpétuel était celle de D.________.
+ 
+5.
+Le recours doit être partiellement admis, l'arrêt attaqué annulé et la cause renvoyée à l'autorité cantonale afin qu'elle statue à nouveau au sens des considérants. Pour le surplus, le recours doit être rejeté dans la mesure où il est recevable.
+Le recourant obtenant partiellement gain de cause, il peut prétendre à une indemnité de dépens (art. 68 al. 1 LTF) et supportera une partie des frais judiciaires (art. 66 al. 1 LTF). Il n'y a pas lieu d'allouer d'indemnité à l'intimée qui n'a pas été invitée à se déterminer (cf. supra consid. 1.4).
+ 
+Par ces motifs, le Tribunal fédéral prononce:
+ 
+1.
+Le recours est partiellement admis, l'arrêt attaqué est annulé et la cause est renvoyée à l'autorité cantonale afin qu'elle statue à nouveau. Pour le surplus, le recours est rejeté dans la mesure où il est recevable.
+ 
+2.
+Les frais judiciaires, arrêtés à 2'000 francs, sont mis à la charge du recourant.
+ 
+3.
+Le canton de Neuchâtel versera au recourant une indemnité de dépens de 3'000 francs.
+ 
+4.
+Le présent arrêt est communiqué aux parties et à la Cour pénale du Tribunal cantonal du canton de Neuchâtel.
+ 
+Lausanne, le 19 mars 2013
+ 
+Au nom de la Cour de droit pénal
+du Tribunal fédéral suisse
+ 
+Le Président:    Mathys
+ 
+Le Greffier:    Rieben
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

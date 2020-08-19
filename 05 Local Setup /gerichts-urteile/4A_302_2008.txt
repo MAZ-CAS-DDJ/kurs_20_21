@@ -1,0 +1,260 @@
+
+
+4A_302/2008 (20.11.2008)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Bundesgericht
+Tribunal fédéral
+Tribunale federale
+Tribunal federal
+ 
+{T 0/2}
+4A_302/2008/ech
+ 
+Arrêt du 20 novembre 2008
+Ire Cour de droit civil
+ 
+Composition
+MM. et Mmes les Juges Corboz, Président, Klett, Rottenberg Liatowitsch, Kolly et Kiss.
+Greffière: Mme Godat Zimmermann.
+ 
+Parties
+X.________,
+recourant, représenté par Me Jean-Marie Crettaz,
+ 
+contre
+ 
+Y.________ Inc.,
+intimée, représentée par Me Daniel Guggenheim.
+ 
+Objet
+interprétation d'un contrat,
+ 
+recours contre l'arrêt de la Chambre civile de la Cour de justice du canton de Genève du 16 mai 2008.
+ 
+Faits:
+ 
+A.
+A.a A.________, conseiller juridique dans une étude d'avocats genevoise, entretenait des relations d'affaires avec X.________, actionnaire majoritaire de la Compagnie T.________ SA (ci-après: T.________), société holding de droit français. A une date indéterminée, le premier a indiqué au second que deux princes saoudiens cherchaient des investisseurs pour participer à une opération immobilière en Arabie saoudite.
+ 
+Vers la fin 1992, les princes en question, B.________ et C.________, sont devenus actionnaires de T.________ à concurrence du tiers du capital-actions; ils ont reçu les certificats d'actions T.________ n°s 16 et 17 établis à leur nom respectif.
+ 
+Le 20 décembre 1992, B.________ a émis une promissory note par laquelle il s'engageait à payer à l'ordre de T.________, le 19 juin 1993, la somme de 25'000'000 USD; l'argent était destiné à l'augmentation du capital d'une filiale de T.________. L'effet devait être présenté à une banque de Riyad. Cette dernière a informé la banque de T.________ qu'elle avait avalisé le billet à ordre; elle a attesté également que B.________ gérait un portefeuille dépassant 800'000'000 USD et avait toujours respecté ses engagements. Le 25 janvier 1993, elle faisait toutefois savoir à la banque de T.________ qu'elle n'avait pas connaissance de l'existence de billets à ordre et qu'elle n'en était pas responsable. Le billet à ordre n'a pas été honoré à son échéance.
+A.b A.________ a également approché D.________, susceptible d'être intéressé à participer au financement de l'opération immobilière en Arabie saoudite. Cet homme d'affaires était actionnaire unique et administrateur avec signature individuelle de Y.________ Inc. (ci-après: Y.________), société de droit panaméen. A.________ et X.________ ont expliqué à D.________ que les deux princes saoudiens avaient déjà investi des montants considérables et avaient besoin d'un financement complémentaire à court terme de l'ordre de 6'000'000 USD pour parfaire l'opération. Ils lui ont soumis divers documents, dont la lettre de la banque de Riyad confirmant que B.________ disposait d'un portefeuille de 800'000'000 USD et qu'il avait toujours respecté ses engagements, ainsi que le billet à ordre de 25'000'000 USD, au sujet duquel ils ne l'ont pas informé de la contestation de l'aval.
+ 
+Le 14 avril 1993, un contrat intitulé sale agreement a été conclu entre Y.________, d'une part et B.________, C.________ et X.________ agissant conjointement, d'autre part. Ces derniers déclaraient vendre à Y.________ la moitié du capital-actions de T.________, faisant l'objet des certificats d'actions nos 16, 17 et 20, pour le prix de 6'000'000 USD, à verser par l'entremise de A.________ (art. 1, 2 et 4). Par ailleurs, Y.________ concédait irrévocablement aux vendeurs le droit de racheter les actions pour 7'000'000 USD dans l'hypothèse d'un rachat dans les 45 jours suivant la date de conclusion du contrat et pour 9'500'000 USD si l'option était exercée entre le 45ème (sic) et le 90ème jour (art. 6); l'acheteuse s'engageait à ne pas disposer des actions afin d'être en mesure de les restituer en cas d'exercice du droit de réméré (art. 7); si les vendeurs ne faisaient pas usage de leur droit dans les 90 jours, Y.________ obtenait la propriété entière et inconditionnelle des actions et pouvait en disposer librement (art. 9). Enfin, les parties ont soumis le contrat au droit suisse et inclus une clause d'élection de for en faveur des juridictions genevoises (art. 11 et 12).
+ 
+Selon un contrat séparé daté également du 14 avril 1993 (escrow agreement), les parties ont désigné A.________ en qualité de tiers séquestre. Ce dernier devait détenir les actions pour Y.________, les livrer contre paiement à B.________, C.________ et X.________ en cas d'usage du droit de réméré et les remettre en pleine propriété à Y.________ en cas de non-exercice de ce droit dans les délais prévus.
+ 
+Le 16 avril 1993, les parties ont établi un addendum à leur accord. Il y est notamment prévu que, «après 90 jours suivant la date de conclusion», Y.________ peut requérir B.________, C.________ et X.________ qu'ils rachètent les actions pour le prix de 9'500'000 USD; en cas d'exercice de ce droit par Y.________, les requis s'obligent solidairement et conjointement à racheter les actions.
+ 
+Le 20 avril 1993, A.________ a reçu de la part de Y.________ 6'000'000 USD dont il a fait suivre 5'900'000 USD à B.________ et C.________; le 23 juin 2003, il a retourné le solde de 100'000 USD à Y.________.
+Le 16 juillet 1993, B.________ et C.________ ont donné plein pouvoir à X.________ de les représenter, avec délégation de signature, afin de régler au mieux la bonne fin et/ou «la subrogation et avenants nécessaires» de la convention d'avril 1993.
+A.c Par l'intermédiaire de A.________, D.________ a constitué R.________ SA, société de droit .... Il a confié à E.________ la propriété fiduciaire des actions de cette société; A.________ et E.________ en étaient les administrateurs.
+ 
+Le 20 août 1993, les certificats d'actions T.________ nos 16, 17 et 20 ont été transférés à R.________ SA. Quelques jours plus tard, X.________ a cédé à R.________ SA des actions correspondant à un centième du capital social de T.________; R.________ SA détenait dès lors 51% du capital-actions de cette société. En juillet 1995, R.________ SA a transféré des actions représentant 20% du capital social de T.________ à E.________.
+ 
+Le 15 septembre 1995, T.________, en difficultés financières, a été mise en redressement judiciaire avec autorisation provisoire d'exploitation par le Tribunal de commerce de Bobigny (France). Le 30 juin 1997, ce dernier a arrêté un plan de redressement et déclaré les actions T.________ incessibles durant dix ans.
+ 
+Entre le 29 mai 1996 et le 27 juin 1997, Y.________ a invité à quatre reprises B.________ à procéder au rachat des actions T.________ au prix de 9'500'000 USD. Le prince n'a pas donné suite.
+A.d En octobre 1998, D.________ a déposé plainte pénale à Genève pour escroquerie contre B.________, C.________ et X.________. Le classement ordonné par le Ministère public a été confirmé par la Chambre d'accusation genevoise en date du 12 mars 1999.
+ 
+B.
+Le 13 juillet 1999, Y.________ a ouvert action devant le Tribunal de première instance de Genève contre B.________, C.________, X.________ et A.________; elle concluait au paiement par les défendeurs, pris solidairement, d'un montant de 5'900'000 USD avec intérêts à 18% l'an dès le 20 avril 1993. Elle fondait sa prétention sur les responsabilités contractuelle et aquilienne ainsi que sur l'enrichissement illégitime.
+Après annulation par la Cour de justice d'un premier jugement rejetant entièrement la demande de Y.________, le Tribunal de première instance s'est prononcé à nouveau le 19 mai 2004. Statuant contradictoirement, elle a mis A.________ hors de cause et condamné X.________, conjointement et solidairement avec B.________ et C.________, à verser à Y.________ la somme de 5'900'000 USD avec intérêts à 18% l'an dès le 29 mai 1996; en outre, elle a condamné par défaut B.________ et C.________, conjointement et solidairement avec X.________, à verser à Y.________ la somme de 5'900'000 USD avec intérêts à 18% l'an dès le 29 mai 1996.
+ 
+B.________ et C.________ ont formé opposition à défaut. Le Tribunal de première instance a déclaré l'opposition irrecevable pour cause de tardiveté, décision confirmée par arrêt de la Cour de justice. Le Tribunal fédéral a rejeté un recours de droit public contre l'arrêt cantonal (cause 4P.7/2007).
+ 
+Y.________ a interjeté appel du jugement en tant que son action contre A.________ avait été rejetée. Elle a retiré ce recours par la suite.
+ 
+X.________ a également appelé du jugement du 19 mai 2004, concluant à son annulation, sauf pour ce qui concerne le rejet de l'action contre A.________, et au déboutement de Y.________ des conclusions qu'elle dirigeait contre lui.
+ 
+Pour sa part, Y.________ a formé appel incident sur les intérêts, demandant à ce qu'ils soient calculés à partir du 20 avril 1993, et non depuis le 29 mai 1996.
+ 
+La Cour de justice a rendu son arrêt le 16 mai 2008. Elle a d'abord donné acte à Y.________ du retrait de l'appel dirigé contre A.________ et, partant, a confirmé le jugement attaqué dans la mesure où il libérait ce défendeur. Puis, elle a constaté que le jugement condamnatoire rendu par défaut contre B.________ et C.________ était entré en force. Enfin, rejetant l'appel de X.________ et admettant l'appel incident de Y.________, elle a annulé le jugement rendu contre X.________ et, statuant à nouveau, l'a condamné, conjointement et solidairement avec B.________ et C.________, à verser à Y.________ la somme de 5'900'000 USD avec intérêts à 18% l'an dès le 20 avril 1993.
+ 
+En résumé, la Cour de justice est d'avis que le contrat du 14 mars 1993 et son avenant du 16 mars 1993 sont une construction juridique choisie en raison de l'interdiction du droit musulman de contracter des emprunts avec intérêts, qu'ils constituent en réalité un contrat de prêt assorti d'une cession d'actions à titre de garantie, que les fonds mis à disposition devaient être remboursés à première réquisition au-delà du délai de 90 jours dès la conclusion de la convention, que le remboursement requis n'est pas intervenu et que X.________, en tant que débiteur solidaire, doit dès lors désintéresser Y.________. En ce qui concerne la date à partir de laquelle des intérêts moratoires sont dus, la Chambre civile retient que ceux-ci courent dès le 20 avril 2003, date de la remise des fonds, au motif que X.________ aurait commis un acte illicite en violant, par tromperie, son devoir de renseigner D.________ au sujet de la contestation de l'aval du billet à ordre émis par B.________.
+ 
+C.
+X.________ interjette un recours en matière civile, concluant à ce que l'arrêt attaqué soit annulé en tant que la Cour de justice a statué à nouveau, c'est-à-dire dans la mesure où elle a admis l'action dirigée contre lui, et à ce que Y.________ soit déboutée de toutes ses conclusions.
+ 
+Par ordonnance du 3 septembre 2008, le Président de la cour de céans a rejeté la demande d'effet suspensif présentée par le recourant.
+ 
+Y.________ conclut au rejet du recours.
+ 
+Sur requête, le recourant a été admis à déposer une détermination sur la réponse. La détermination a été communiquée à l'intimée.
+ 
+Considérant en droit:
+ 
+1.
+Le Tribunal fédéral examine d'office et librement la recevabilité des recours qui lui sont soumis (ATF 134 III 235 consid. 1 p. 236, 379 consid. 1 p. 381; 134 V 138 consid. 1 p. 140).
+ 
+1.1 Le recours en matière civile peut être interjeté pour violation du droit, tel qu'il est délimité par les art. 95 et 96 LTF. En vertu de l'exception ancrée à l'art. 106 al. 2 LTF, le Tribunal fédéral n'entre pas en matière sur la violation d'un droit de rang constitutionnel ou sur une question afférente au droit cantonal ou intercantonal si le grief n'a pas été invoqué et motivé de manière détaillée par la partie recourante. Pour ces griefs, les exigences en matière de motivation correspondent à celles plus élevées de l'ancien recours de droit public; le recourant doit discuter les considérants de la décision attaquée et exposer de manière claire et circonstanciée en quoi consiste la violation du droit constitutionnel (ATF 134 II 244 consid. 2.1 et 2.2; 133 III 393 consid. 6, 545 consid. 2.2).
+ 
+En l'espèce, le recourant ne soulève aucun grief d'ordre constitutionnel qui satisfasse aux exigences formelles posées par la loi.
+ 
+Pour le reste, le Tribunal fédéral applique le droit d'office (art. 106 al. 1 LTF), sans être limité par les moyens du recours ni par le raisonnement de la cour cantonale, ce qui implique qu'il peut admettre un recours pour d'autres motifs que ceux qui ont été articulés ou, à l'inverse, rejeter un recours en substituant une nouvelle argumentation à celle de l'autorité précédente (ATF 134 III 102 consid. 1.1 et l'arrêt cité). Cependant, compte tenu de l'exigence de motivation contenue à l'art. 42 al. 1 et 2 LTF, sanctionnée par l'irrecevabilité des recours dont la motivation est manifestement insuffisante (art. 108 al. 1 let. b LTF), le Tribunal fédéral n'examine en principe que les griefs invoqués; il n'est donc pas tenu de traiter, comme le ferait une autorité de première instance, toutes les questions juridiques qui se posent, lorsque celles-ci ne sont plus discutées devant lui (ATF 134 III 102 consid. 1.1 p. 105).
+ 
+1.2 Le Tribunal fédéral conduit son raisonnement juridique sur la base des faits établis par l'autorité précédente (art. 105 al. 1 LTF). L'auteur du recours ne peut critiquer les faits que s'ils ont été établis de façon manifestement inexacte ou en violation du droit au sens de l'art. 95 LTF (art. 97 al. 1 LTF; cf aussi art. 105 al. 2 LTF); il faut encore que la correction du vice soit susceptible d'influer sur le sort de la querelle (art. 97 al. 1 LTF). La notion de «manifestement inexacte» évoquée ci-dessus correspond à celle d'arbitraire au sens de l'art. 9 Cst. (Message du 28 février 2001 concernant la révision totale de l'organisation judiciaire fédérale, FF 2001 4135 ch. 4.1.4.2; ATF 133 II 384 consid. 4.2.2). La partie recourante qui entend s'écarter des constatations de l'autorité précédente doit expliquer de manière circonstanciée en quoi les conditions d'une exception à l'art. 105 al. 1 LTF seraient réalisées, faute de quoi il n'est pas possible de tenir compte d'un état de fait qui diverge de celui contenu dans la décision attaquée (cf. ATF 133 III 462 consid. 2.4; 133 II 249 consid. 1.4.3). Aucun fait nouveau ni preuve nouvelle ne peut être présenté à moins de résulter de la décision de l'autorité précédente (art. 99 al. 1 LTF).
+ 
+La possibilité de rectifier ou de compléter l'état de fait ne fait pas du Tribunal fédéral une cour d'appel. Il reste une instance de révision du droit à qui le législateur, pour des motifs d'économie de procédure, a donné la faculté de corriger, à titre exceptionnel, l'état de fait lorsque cela peut se faire de manière simple (cf. Message précité, FF 2001 4141 ch. 4.1.4.5).
+ 
+Dans son mémoire, le recourant s'écarte partiellement de l'état de fait retenu par l'autorité cantonale ou le complète en faisant référence à des pièces figurant au dossier, comme si le Tribunal fédéral était une cour d'appel qui revoit librement les faits. Conformément aux principes rappelés ci-dessus, il ne sera pas tenu compte de l'état de fait divergent présenté dans le recours, irrecevable dans cette mesure.
+ 
+2.
+Le rejet de l'action contre A.________ et l'admission de l'action contre B.________ et C.________ sont définitifs. La présente procédure ne divise plus que le recourant et l'intimée.
+ 
+Contrairement à ce que cette dernière suggère, la condamnation de B.________ et de C.________, en tant que débiteurs solidaires du montant de 5'900'000 USD, ne fait pas obstacle à un éventuel rejet de l'action contre le recourant, recherché comme débiteur solidaire de la même obligation. En effet, dans une consorité simple, les actes procéduraux des uns restent sans influence sur la situation juridique des autres. Que B.________ et C.________ n'aient pas valablement attaqué leur condamnation est donc sans incidence pour le recourant; cela ne fait obstacle ni à un recours de sa part, ni à ce que l'action de l'intimée puisse, le cas échéant, être rejetée dans la mesure où elle est dirigée contre lui.
+ 
+3.
+L'intimée a fondé son action en premier lieu sur la responsabilité délictuelle de ses partenaires contractuels, soutenant avoir été sciemment et astucieusement trompée, lors de l'octroi du prêt, sur la valeur du billet à ordre émis par B.________ et, partant, sur la valeur des actions T.________ offertes en garantie. Invoquant les art. 28 et 41 CO, elle demandait réparation du dommage ainsi subi, soit le remboursement du montant de 5'900'000 USD versés à B.________ et C.________.
+ 
+3.1 Le Tribunal de première instance a exclu toute responsabilité délictuelle dans le cas présent et déclaré mal fondées les conclusions basées sur l'art. 41 CO. Dans son appel incident, l'intimée critiquait le jugement sur ce point et soutenait que ses conclusions déduites de la responsabilité aquilienne étaient fondées. Pour sa part, la Cour de justice a confirmé la condamnation du recourant à payer 5'900'000 USD en exécution du contrat conclu entre les parties, admettant une obligation contractuelle de rembourser le prêt; elle a toutefois retenu une tromperie au sens de l'art. 28 CO lors de l'octroi du prêt et s'est fondée sur l'art. 41 CO pour allouer, dès le jour du versement de l'argent, un intérêt fixé à 18% sur la somme à rembourser. Dans la présente procédure, le recourant conteste avoir commis un acte illicite et l'intimée évoque également la responsabilité délictuelle pour fonder son action.
+ 
+3.2 La partie induite à contracter par le dol de l'autre n'est pas obligée, même si son erreur n'est pas essentielle (art. 28 al. 1 CO). Le contrat entaché de dol est tenu pour ratifié lorsque la partie qu'il n'oblige pas a laissé s'écouler une année sans déclarer à l'autre sa résolution de ne pas le maintenir, ou sans répéter ce qu'elle a payé; le délai court dès que le dol a été découvert (art. 31 al. 1 et 2 CO). La partie non obligée supporte le fardeau de la preuve (art. 8 CC; Max Kummer, Berner Kommentar, 1962, n° 293 ad art. 8 CC). Le prêteur trompé qui demande le remboursement du prêt conformément aux conditions contractuelles n'invalide pas le contrat, mais, au contraire, le ratifie (ATF 61 II 228 consid. 3 p. 234 /235).
+ 
+3.3 En l'espèce, la Cour de justice n'a pas constaté que l'intimée aurait déclaré à ses cocontractants ne pas vouloir maintenir le contrat; au contraire, elle fonde son arrêt sur la validité du contrat. Bien qu'elle supportât le fardeau de la preuve, l'intimée n'a pas allégué avoir fait une telle déclaration. En revanche, elle admet avoir eu des doutes sur la validité du billet à ordre le 6 mai 1993, soit environ trois semaines après la conclusion du contrat et le versement de l'argent. Cependant, en juin 1997, soit quatre ans plus tard, elle réclamait encore le paiement du montant de 9'500'000 USD en exécution du contrat. Dans ces circonstances, rien ne permet de retenir que le contrat des 14 et 16 avril 1993 aurait été invalidé pour vice de consentement; l'intimée ne peut rien déduire de l'art. 28 CO. La cause porte uniquement sur l'exécution de la convention des 14/16 avril 1993.
+ 
+4.
+Selon les termes du contrat du 14 avril 1993 et de son addendum du 16 avril 1993, l'intimée achète des actions T.________ pour le prix de 6'000'000 USD et obtient en plus le droit, illimité dans le temps, d'exiger des vendeurs, après l'écoulement d'un délai de 90 jours depuis la conclusion du contrat, qu'ils lui rachètent ces actions au prix de 9'500'000 USD; de leur côté, les vendeurs disposent, pendant une durée déterminée, d'un droit de rachat des actions à un prix fixé à l'avance, soit 7'000'000 USD si l'option est exercée dans les 45 jours après la conclusion du contrat et 9'500'000 USD si elle l'est entre le 45ème (sic) et le 90ème jour.
+ 
+Interprétant l'accord des parties, la Cour de justice a exclu que celles-ci aient passé un contrat de vente; malgré les termes utilisés dans le contrat du 14 avril 1993, elle a qualifié la convention de prêt, garanti par le transfert d'actions à titre fiduciaire. Selon l'arrêt attaqué, l'intimée a accordé aux princes saoudiens un prêt avec intérêts, la construction juridique choisie, soit une vente avec un pacte de réméré à un prix déterminé, permettant d'éluder l'interdiction du droit musulman de contracter des emprunts avec intérêts. L'addendum du 16 avril 1993, qui confère à l'intimée la faculté, au-delà du délai de 90 jours, de requérir le rachat des actions à un prix fixe sans limite dans le temps, consacre le droit de la prêteuse au remboursement des fonds à première réquisition, conformément aux art. 312 et 318 CO relatifs au prêt de consommation. Et en se reconnaissant, dans l'acte du 16 avril 1993, débiteur solidaire de l'obligation de rembourser les fonds, le recourant a pris un engagement propre que la cour cantonale qualifie de reprise cumulative de dette.
+ 
+4.1 Le recourant s'en prend au résultat de l'interprétation à laquelle la Chambre civile s'est livrée. A son avis, il n'existe en l'espèce aucun motif justifiant de s'écarter du sens littéral du contrat de vente du 14 avril 1993 auquel l'addendum du 16 avril 1993 n'a apporté aucun changement fondamental. Une interprétation stricte s'imposerait d'autant plus dans le cas particulier que les parties au contrat sont des personnes versées dans les affaires et rompues à l'usage de notions juridiques.
+ 
+4.2 Lorsqu'il est amené à qualifier ou interpréter un contrat, le juge doit s'efforcer tout d'abord de déterminer la commune et réelle intention des parties, sans s'arrêter aux expressions ou dénominations inexactes dont elles ont pu se servir, soit par erreur, soit pour déguiser la nature véritable de la convention (art. 18 al. 1 CO); s'il y parvient au terme d'une interprétation dite subjective, il s'agit d'une constatation de fait qui lie en principe le Tribunal fédéral, conformément à l'art. 105 LTF.
+ 
+Si la volonté réelle des parties ne peut pas être établie ou si leurs volontés intimes divergent, le juge doit interpréter les déclarations et les comportements selon la théorie de la confiance: Il doit alors rechercher comment une déclaration ou une attitude pouvait être comprise de bonne foi en fonction de l'ensemble des circonstances (interprétation dite objective). Le principe de la confiance permet d'imputer à une partie le sens objectif de sa déclaration ou de son comportement, même s'il ne correspond pas à sa volonté intime. L'application du principe de la confiance est une question de droit que le Tribunal fédéral peut examiner librement (art. 106 al. 1 LTF). Pour trancher cette question, il faut toutefois se fonder sur le contenu de la manifestation de volonté et sur les circonstances, dont la constatation relève du fait (ATF 133 III 675 consid. 3.3 p. 681/682 et les arrêts cités). Les circonstances pertinentes à cet égard sont celles qui ont précédé ou accompagné la manifestation de volonté, à l'exclusion des événements postérieurs à la conclusion du contrat (ATF 133 III 61 consid. 2.2.1 p. 67 et les arrêts cités).
+ 
+Le sens d'un texte, apparemment clair, n'est pas forcément déterminant, de sorte que l'interprétation purement littérale est prohibée. Même si la teneur d'une clause contractuelle paraît limpide à première vue, il peut résulter d'autres conditions du contrat, du but poursuivi par les parties ou d'autres circonstances que le texte de ladite clause ne restitue pas exactement le sens de l'accord conclu. Il n'y a toutefois pas lieu de s'écarter du sens littéral du texte adopté par les cocontractants lorsqu'il n'existe aucune raison sérieuse de penser qu'il ne correspond pas à leur volonté (ATF 133 III 61 consid. 2.2.1 p. 67 et les arrêts cités).
+ 
+4.3 En l'espèce, la cour cantonale n'a pas établi en fait une volonté réelle commune des parties, fondée sur des indices concrets ou des éléments postérieurs à la conclusion du contrat des 14/16 avril 1993. Elle a analysé les clauses contractuelles liant les parties et recherché comment elles devaient être comprises en fonction des circonstances qui ont entouré leur adoption, en particulier du but poursuivi économiquement. Ce faisant, les juges genevois ont procédé à une interprétation objective du contrat, fondée sur le principe de la confiance, comme ils l'indiquent du reste expressément au considérant 3.2 de l'arrêt attaqué. Il s'ensuit que la cour de céans peut revoir librement le résultat de cette interprétation.
+ 
+4.4 Les parties ont choisi de conclure une vente, combinée avec un droit de réméré de durée limitée et une option de revente illimitée dans le temps. Le fait que le même résultat économique aurait pu être atteint plus simplement par la conclusion d'un contrat nommé - le prêt de consommation avec intérêts - ne soumet pas pour autant la construction juridique adoptée aux art. 312 et suivants CO. Il s'agit bien plutôt de partir du contenu de l'accord défini par les parties en vertu de leur liberté contractuelle et de rechercher, par interprétation, les droits et obligations découlant du contrat.
+ 
+A cet égard, le contrat est clair: le recourant et les princes saoudiens remettent à l'intimée des actions représentant 50% du capital social de T.________ contre paiement d'un prix de vente de 6'000'000 USD (art. 1 et 2); pendant les 90 jours suivant la conclusion du contrat, les vendeurs disposent d'un droit de réméré, le prix de rachat des actions étant alors fixé à 7'000'000 USD pendant 45 jours et à 9'500'000 USD au-delà (art. 6); durant ce délai, l'acheteuse s'engage à ne pas disposer des actions (art. 7); en revanche, après l'échéance du délai de 90 jours, elle acquiert la pleine propriété des actions si les vendeurs n'ont pas exercé leur droit de réméré (art. 9 et escrow agreement). Le mécanisme instauré correspond bien aux termes choisis par les parties: la remise et le transfert de la propriété d'une chose moyennant le paiement d'un prix est une vente (cf. art. 184 al. 1 CO). Une fois le délai de 90 jours écoulé sans avoir été utilisé, l'acheteuse dispose du droit, illimité dans le temps, de revendre les actions aux vendeurs pour le prix de 9'500'000 USD; pour elle, l'option est la suivante: conserver les actions ou les restituer aux vendeurs contre le paiement d'un prix fixé à l'avance. Les droits et obligations contractuels sont précisément déterminés: les vendeurs ont la possibilité, pendant 90 jours, de racheter les actions moyennant le paiement de 7'000'000 USD, respectivement 9'500'000 USD; s'ils ne font pas usage de cette faculté, l'acheteuse a alors le droit, pendant une période illimitée, de leur revendre les actions au prix invariable de 9'500'000 USD, mais elle peut aussi choisir de conserver les actions. Les parties ont ainsi atteint un équilibre contractuel qui ne se réduit pas à un prêt avec intérêts. La qualification dans ce sens effectuée par la cour cantonale ne peut être confirmée.
+En conclusion, il convient de s'en tenir aux termes mêmes utilisés dans l'accord des 14 et 16 avril 1993, dont rien ne permet de penser sérieusement qu'ils ne correspondent pas à la volonté des parties.
+ 
+4.5 Comme on l'a vu plus haut, l'intimée se trouvait, depuis la mi-juillet 1993, devant l'option consistant soit à conserver les actions, soit à les revendre aux vendeurs pour le prix de 9'500'000 USD. Ce dernier choix supposait toutefois que l'acheteuse puisse disposer des actions en tout temps et ait la possibilité de les retransférer aux vendeurs simultanément (Zug um Zug) au paiement du prix de revente convenu (cf. ATF 129 III 535 consid. 3.2.1 p. 541). Or, il ressort de l'état de fait cantonal que, depuis fin août 1993, l'intimée n'était plus titulaire des actions faisant l'objet des certificats nos 16, 17 et 20, lesquels avaient été transférés à R.________. Cela signifie que, lorsqu'elle a exercé son droit d'option à quatre reprises entre le 29 mai 1996 et le 27 juin 1997, l'intimée n'était pas en mesure de disposer des actions. Par conséquent, elle ne pouvait alors exiger le paiement du montant de 9'500'000 USD de la part du recourant, qui n'avait pas à s'exécuter. De plus, lorsque l'acheteuse a ouvert action en juillet 1999, les actions étaient, en tout état de cause, frappées d'incessibilité pour dix ans au moins à la suite d'une décision judiciaire du 30 juin 1997. La restitution des actions se révélait dès lors impossible pour une longue durée, à l'échéance imprévisible.
+ 
+Sur le vu de ce qui précède, l'intimée ne dispose contre le recourant d'aucune prétention fondée sur le contrat des 14/16 avril 1993, contrairement à ce que la cour cantonale a reconnu. Par conséquent, le recours doit être admis dans la mesure où il est recevable et l'action de l'intimée contre le recourant sera rejetée.
+ 
+Ce résultat dispense la cour de céans d'examiner les autres griefs soulevés dans le recours.
+ 
+5.
+Comme le recourant obtient gain de cause, l'intimée prendra à sa charge les frais de la procédure (art. 66 LTF) et les dépens de son adverse partie (art. 68 al. 1 et 2 LTF).
+ 
+Par ces motifs, le Tribunal fédéral prononce:
+ 
+1.
+Le recours est admis dans la mesure où il est recevable.
+ 
+2.
+L'arrêt attaqué est annulé en tant que la cour cantonale a statué à nouveau, sauf en tant qu'elle a confirmé les chiffres 1 et 2 du dispositif du jugement du 19 mai 2004.
+ 
+L'action en paiement introduite par Y.________ Inc. contre X.________ est rejetée.
+ 
+L'arrêt attaqué est confirmé en tant qu'il constate que les chiffres 6 à 8 du dispositif du jugement du 19 mai 2004 sont entrés en force de chose jugée.
+ 
+3.
+La cause est renvoyée à la Cour de justice du canton de Genève pour nouvelle décision sur les frais et dépens de la procédure cantonale dans la mesure où ils concernent les relations entre X.________ et Y.________ Inc.
+ 
+4.
+Les frais judiciaires, arrêtés à 25'000 fr., sont mis à la charge de l'intimée.
+ 
+5.
+Une indemnité de 30'000 fr., à payer à titre de dépens au recourant, est mise à la charge de l'intimée.
+ 
+6.
+Le présent arrêt est communiqué aux mandataires des parties et à la Chambre civile de la Cour de justice du canton de Genève.
+ 
+Lausanne, le 20 novembre 2008
+ 
+Au nom de la Ire Cour de droit civil
+du Tribunal fédéral suisse
+Le Président:   La Greffière:
+ 
+Corboz  Godat Zimmermann
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                            2
+Vorwärts
+
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

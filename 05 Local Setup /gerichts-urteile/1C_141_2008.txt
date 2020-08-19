@@ -1,0 +1,167 @@
+
+
+1C_141/2008 (11.08.2008)
+
+
+
+
+
+
+
+
+
+
+
+
+         Wichtiger Hinweis:
+         
+         Diese Website wird in älteren Versionen von Netscape ohne graphische Elemente dargestellt. Die Funktionalität der Website ist aber trotzdem gewährleistet. Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser zu installieren.
+      
+
+
+Zurück zur Einstiegsseite
+Drucken
+
+
+Grössere Schrift
+
+
+
+
+       
+   
+
+
+
+
+
+Tribunale federale
+Tribunal federal
+ 
+{T 0/2}
+1C_141/2008/col
+ 
+Arrêt du 11 août 2008
+Ire Cour de droit public
+ 
+Composition
+MM. les Juges Féraud, Président, Reeb et Fonjallaz.
+Greffier: M. Kurz.
+ 
+Parties
+A.________,
+recourant, représenté par Me Philip Grant, avocat,
+ 
+contre
+ 
+Ecole polytechnique fédérale de Lausanne, INN 032 (Bâtiment INN), Station 7, 1015 Lausanne,
+intimée.
+ 
+Objet
+protection des données,
+ 
+recours contre l'arrêt du Tribunal administratif fédéral, Cour I, du 13 février 2008.
+ 
+Faits:
+ 
+A.
+Le 3 janvier 2006, A.________ s'est adressé à l'Ecole polytechnique fédérale de Lausanne (EPFL), auprès de laquelle il était étudiant et employé jusqu'en 1999, en demandant l'accès à l'ensemble des données le concernant, en particulier celles relatives à ses statuts d'étudiant et d'employé, ainsi que les données en relation avec l'association "Ingénieurs du Monde-EPFL" (ci-après: l'association). Il désirait aussi connaître le but et la base juridique de chaque fichier.
+ 
+B.
+Le 9 février 2006, A.________ a saisi la Commission fédérale de la protection des données (ci-après: la commission) en se plaignant de l'absence de réponse de la part de l'EPFL. Cette dernière l'a alors invité à consulter son dossier, des photocopies pouvant être obtenues contre le versement de 300 fr. d'avance de frais. A.________ a également contesté cette décision. Le 11 mai 2006, l'EPFL a notamment confirmé que le dossier académique était à disposition de l'intéressé, que les données relatives au statut d'employé avaient été détruites à l'échéance du délai de conservation et que l'association était indépendante de l'EPFL. Aucun document nouveau n'avait été versé au dossier depuis sa dernière consultation par l'intéressé en novembre 1999. Le dossier académique a été produit devant la commission. A.________ a prétendu que certains document manquaient au dossier.
+La cause a été transmise au Tribunal administratif fédéral (TAF) qui, par arrêt du 13 février 2008, a rejeté le recours dans la mesure de sa recevabilité. Le recourant avait renoncé à contester le montant de l'avance exigée pour les photocopies; l'EPFL s'était exprimée en cours de procédure sur le but et les fondements légaux de la collecte de données, de sorte que le recours était sans objet sur ces points; il était irrecevable dans la mesure où il concernait des informations relatives à un tiers, soit l'association. Sur le fond, le recourant ne rendait pas vraisemblable que l'EPFL ait dissimulé des pièces du dossier.
+ 
+C.
+A.________ forme un recours en matière de droit public contre cet arrêt. Il conclut à ce que lui soit reconnu le droit d'accéder aux données le concernant relatives à l'association, à ce que l'EPFL indique le but et la base juridique du traitement de ces données, ainsi que les catégories de données, les participants au fichier et les destinataires des données.
+Le TAF et l'EPFL concluent au rejet du recours
+ 
+Considérant en droit:
+ 
+1.
+Le recours est formé en temps utile contre un arrêt du TAF rendu dans une cause de droit public. Il est recevable au sens des art. 82 let. a, 86 al. 1 let. a et 100 al. 1 LTF.
+ 
+1.1 Le recourant conteste l'irrecevabilité de ses conclusions portant sur la consultation des données relatives à son activité dans le cadre de l'association. Il a qualité pour soulever un tel grief au sens de l'art. 89 al. 1 LTF.
+ 
+1.2 Le Tribunal fédéral statue en principe sur la base des faits établis par l'autorité précédente (art. 105 al. 1 LTF), sous réserve des cas prévus à l'art. 105 al. 2 LTF. Cette disposition lui donne la faculté de rectifier ou compléter d'office l'état de fait de l'arrêt attaqué dans la mesure où des lacunes ou erreurs dans l'établissement de celui-ci lui apparaîtraient d'emblée comme manifestes. Quant au recourant, il ne peut critiquer la constatation de faits importants pour le jugement de la cause que si ceux-ci ont été constatés en violation du droit au sens de l'art. 95 LTF ou de manière manifestement inexacte (art. 97 al. 1 LTF), c'est-à-dire arbitraire, ce qu'il lui appartient de démontrer par une argumentation répondant aux exigences de l'art. 42 al. 2 LTF, respectivement de l'art. 106 al. 2 LTF. En outre, l'existence de faits constatés de manière inexacte ou en violation du droit n'est pas une condition suffisante pour conduire à l'annulation ou la modification de la décision attaquée. Il faut encore qu'elle soit susceptible d'avoir une influence déterminante sur l'issue de la procédure (art. 97 al. 1 in fine LTF).
+ 
+2.
+Le recourant reproche au TAF d'avoir considéré que sa demande d'accès portait sur les données relatives à un tiers, soit l'association "Ingénieurs du Monde-EPFL". En réalité, le recourant désirait accéder aux données détenues par l'EPFL et concernant sa propre activité dans le cadre de cette association.
+ 
+2.1 Le recourant se plaint injustement d'une mauvaise constatation des faits. Si en effet le TAF a mal interprété une conclusion qui lui était soumise et refusé à tort d'entrer en matière, il s'agit bien plutôt d'un déni de justice formel, prohibé par l'art. 29 Cst. Dans l'un ou l'autre cas, le vice invoqué n'a pas d'incidence sur l'issue de la cause.
+ 
+2.2 En effet, le TAF a rejeté les autres conclusions du recourant, en estimant que rien ne permettait de suspecter l'EPFL d'avoir dissimulé des pièces en sa possession. Il était bien plus probable que les documents mentionnés par le recourant, absents du dossier, aient été détruits. Ces considérations, que le recourant ne met pas en doute, s'appliquent également aux pièces qui concerneraient l'activité du recourant en rapport avec l'association: il n'existe aucun indice permettant de penser que le dossier produit par l'intimée serait incomplet. A supposer que le TAF soit entré en matière sur la conclusion du recourant, il l'aurait rejetée, pour les mêmes motifs.
+ 
+2.3 Sur le fond, le recourant persiste à considérer que l'intimée conserverait des pièces en relation avec son activité dans le cadre de l'association. Il soutient que l'existence de telles pièces n'aurait pas été contestée par l'intimée, en particulier dans sa réponse au recours du 11 mai 2006. Dans cette écriture, l'EPFL relève que l'association est indépendante, voulant par là exprimer que c'est elle qui détiendrait les éventuelles données relatives à l'activité du recourant. L'intimée fait certes aussi référence à la loi fédérale sur l'archivage; ce n'est toutefois pas pour admettre l'existence de données en sa possession, mais pour relever que le recourant avait déjà eu l'occasion de consulter et de photocopier le dossier; une liste complète des pièces consultées lui avait été remise et aucune pièce nouvelle n'avait été ajoutée au dossier depuis sa dernière consultation en novembre 1999.
+Contrairement à ce que soutient le recourant, l'intimée a toujours affirmé que le dossier remis en consultation était complet; en dépit de ses affirmations contraires, les faits établis sur ce point par le TAF ne sauraient être qualifiés de manifestement inexacts au sens des art. 97 al. 1 et 105 al. 2 LTF. Cela étant, on ne peut qu'admettre, comme l'a fait le TAF, qu'il n'existe aucune preuve ni aucun indice de l'existence de données dont l'accès aurait été indûment refusé au recourant.
+ 
+3.
+Le recours doit par conséquent être rejeté, aux frais de son auteur (art. 66 al. 1 LTF). Conformément à ce que prévoit l'art. 68 al. 3 LTF, aucun dépens ne sont alloués aux organisations chargées de tâches de droit public lorsqu'ils obtiennent gain de cause dans l'exercice de leurs attributions officielles. Tel est le cas de l'intimée.
+ 
+Par ces motifs, le Tribunal fédéral prononce:
+ 
+1.
+Le recours est rejeté.
+ 
+2.
+Les frais judiciaires, arrêtés à 2000 fr., sont mis à la charge du recourant.
+ 
+3.
+Il n'est pas alloué de dépens.
+ 
+4.
+Le présent arrêt est communiqué aux parties et au Tribunal administratif fédéral, Cour I.
+Lausanne, le 11 août 2008
+Au nom de la Ire Cour de droit public
+du Tribunal fédéral suisse
+Le Président:        Le Greffier:
+ 
+Féraud        Kurz
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+         Navigation
+      
+
+Neue Suche
+
+
+Zurück zum Suchresultat
+
+
+            Rang:
+                                                         1
+                                                
+
+ähnliche Leitentscheide suchen
+
+ähnliche Urteile ab 2000 suchen
+
+
+
+
+
+
+
+
+
+
+       
+   
+
+       
+   
+
+Drucken
+nach oben
+
+

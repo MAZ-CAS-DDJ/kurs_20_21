@@ -1,0 +1,115 @@
+
+Bundesgericht
+Tribunal fédéral
+Tribunale federale
+Tribunal federal
+ 
+ 
+	
+ 
+ 
+{T 0/2}
+ 
+6B_656/2015
+ 
+ 
+ 
+ 
+Urteil vom 16.12.2016
+ 
+Strafrechtliche Abteilung
+ 
+Besetzung
+Bundesrichter Denys, Präsident,
+Bundesrichterin Jacquemoud-Rossari,
+Bundesrichter Oberholzer, Rüedi,
+Bundesrichterin Jametti,
+Gerichtsschreiber Matt.
+ 
+Verfahrensbeteiligte
+X.________,
+vertreten durch Rechtsanwalt Sven Gretler,
+Beschwerdeführer,
+ 
+gegen
+ 
+1. Oberstaatsanwaltschaft des Kantons Zürich, Florhofgasse 2, 8090 Zürich,
+2. Prof. Dr. med. A.________,
+Beschwerdegegner.
+ 
+Gegenstand
+Mehrfache Drohung, Verwertbarkeit von Beweismitteln,
+ 
+Beschwerde gegen das Urteil des Obergerichts des Kantons Zürich, II. Strafkammer, vom 5. Mai 2015.
+ 
+ 
+Sachverhalt:
+ 
+A.
+X.________ wird vorgeworfen, am 28. März 2013 und am 7. Mai 2013 über verschiedene E-Mail-Adressen drei Droh-E-Mails an in eine frühere Strafuntersuchung gegen ihn involvierte Personen (Prof. Dr. med. A.________, Staatsanwältin B.________ und C.________, Einsatzleiter der Kantonspolizei Zürich) versandt zu haben.
+ 
+B.
+Am 25. Juni 2014 sprach das Bezirksgericht Zürich X.________ der mehrfachen Drohung schuldig und verurteilte ihn unter Anrechnung der erstandenen Haft von 391 Tagen zu einer Freiheitsstrafe von 21 Monaten. Von weiteren Vorwürfen sprach es ihn frei. Es ordnete den Vollzug der Freiheitsstrafe an, verzichtete aber auf den Widerruf einer am 11. Oktober 2011 bedingt ausgesprochenen Geldstrafe. Das Bezirksgericht verpflichtete X.________ zur Bezahlung der Hälfte der Verfahrenskosten sowie einer Genugtuung von Fr. 1'000.-- an Prof. Dr. med. A.________. Ausserdem verfügte es über die Verwendung resp. Rückgabe verschiedener beschlagnahmter Gegenstände.
+ 
+C.
+Auf Berufung von X.________ hin bestätigte das Obergericht des Kantons Zürich am 5. Mai 2015 das erstinstanzliche Urteil in den angefochtenen Punkten.
+ 
+D.
+X.________ beantragt mit Beschwerde in Strafsachen, das obergerichtliche Urteil sei mit Ausnahme der Festsetzung der Entschädigung des amtlichen Verteidigers aufzuheben. Er sei vollumfänglich freizusprechen und für die erlittene Haft mit Fr. 87'400.-- zu entschädigen. Es seien die beschlagnahmten Gegenstände herauszugeben, die Zivilforderung auf den Zivilweg zu verweisen und die Kosten auf die Staatskasse zu nehmen. Eventualiter sei die Sache zu neuer Entscheidung an das Obergericht zurückzuweisen. X.________ ersucht für das bundesgerichtliche Verfahren um unentgeltliche Rechtspflege und Verbeiständung.
+ 
+E.
+Die Vorinstanz sowie die Beschwerdegegner 1 und 2 haben auf eine Vernehmlassung verzichtet.
+ 
+ 
+Erwägungen:
+ 
+1.
+ 
+1.1. Der Beschwerdeführer macht geltend, die von den Strafverfolgungsbehörden erhobenen Daten, namentlich bezüglich Ort und Zeitpunkt des Versands von E-Mails, seien nicht verwertbar. Die Behörden hätten ihre Anfragen nicht direkt an den ausländischen Kommunikationsdienst-Anbieter stellen dürfen, sondern den ordentlichen Rechtshilfeweg beschreiten müssen, weil keine gültige Zustimmung eines zur Herausgabe der Daten Berechtigten im Sinne von Art. 32 lit. b des Übereinkommens vom 23. November 2001 über die Cyberkriminalität (SR 0.311.43) vorliege. Die Datenverwendungsrichtlinien des ausländischen Kommunikationsdienst-Anbieters sähen kein Recht zur freiwilligen Datenherausgabe vor. Die Vorinstanz begründe ihre gegenteilige Auffassung nicht, was seinen Anspruch auf rechtliches Gehör verletze. Zudem hätten die behördlichen Anfragen gemäss Art. 273 StPO durch das Zwangsmassnahmengericht genehmigt werden müssen, weil es sich um Randdaten handle. Der vorinstanzlich festgestellte Sachverhalt beruhe daher auf einer Rechtsverletzung. Infolge Unverwertbarkeit der vom ausländischen Kommunikationsdienst-Anbieter erhaltenen Daten und mangels weiterer Beweise sei die Täterschaft des Beschwerdeführers nicht erwiesen.
+ 
+1.2. Die Vorinstanz erwägt, die Untersuchungsbehörden hätten die strittigen Daten rechtmässig erlangt. Der ausländische Kommunikationsdienst-Anbieter sei zu deren Herausgabe berechtigt gewesen und habe sie auf zwanglose Anfrage freiwillig nach Ermessen bekannt gegeben. Obwohl es sich um eine Datenbeschaffung im Ausland gehandelt habe, sei daher ein Rechtshilfeersuchen zufolge Art. 32 lit. b des Übereinkommens über die Cyberkriminalität ausnahmsweise entbehrlich gewesen. Zudem hätten die Anfragen beim ausländischen Kommunikationsdienst-Anbieter gemäss Art. 14 Abs. 4 des Bundesgesetzes vom 6. Oktober 2000 betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF; SR 780.1), welcher Art. 273 StPO als lex specialis vorgehe, nicht durch das Zwangsmassnahmengericht genehmigt werden müssen. Die Ermittlung von Daten zur Bestimmung des Berechtigten einer bekannten E-Mail-Adresse stelle eine Bestandesdatenabfrage dar. Die Beweise seien verwertbar.
+ 
+1.3. Zunächst ist zu prüfen, ob und inwieweit das Zwangsmassnahmengericht die Erhebung der strittigen Daten hätte bewilligen müssen.
+ 
+1.3.1. Bei Straftaten, die über das Internet begangen werden, sind die dem schweizerischen Recht unterworfenen Dienstanbieterinnen verpflichtet, der Polizei und der Staatsanwaltschaft alle (auch rückwirkenden) Angaben zu machen, die eine Identifikation des Urhebers ermöglichen (Art. 14 Abs. 4 i.V.m. Art. 1 Abs. 1-2 BÜPF sowie Art. 24b und Art. 27 der Verordnung vom 31. Oktober 2001 über die Überwachung des Post- und Fernmeldeverkehrs [VÜPF; SR 780.11]; vgl. BGE 141 IV 108 E. 5.1 S. 120 mit Hinweisen). Bei sog. Bestandesdaten-Auskünften nach Art. 14 Abs. 1 BÜPF sind die Anschlüsse den Strafverfolgungsbehörden bereits bekannt ("bestimmte Fernmeldeanschlüsse"), und es wird den auskunftsberechtigten Behörden lediglich mitgeteilt, wer als Inhaber bzw. Rechnungsadressat dieses Anschlusses bei den Anbieterinnen registriert ist. Es werden also lediglich Bestandesdaten mitgeteilt, aber keine Verbindungsdaten zu Kommunikationen erhoben. Eine richterliche Bewilligung ist hier nicht erforderlich (vgl. THOMAS HANSJAKOB, forum poenale 2013, S. 176 f.). Von der blossen Bestandesdaten-Auskunft über registrierte Fernmeldeanschlüsse nach Art. 14 BÜPF zu unterscheiden ist die Erhebung von Verbindungs-Randdaten bzw. die Teilnehmeridentifikation im Sinne von Art. 273 Abs. 1 StPO: Dabei werden Teilnehmer an konkreten Fernmeldeverbindungen über einen gewissen Zeitraum hinweg identifiziert ("Verbindung hat oder gehabt hat"). Das heisst, es werden Verkehrsdaten von Kommunikationen erhoben und gestützt darauf Anschlüsse und Teilnehmer identifiziert. Hier muss der dringende Verdacht eines Verbrechens oder Vergehens (Art. 273 Abs. 1 StPO) vorliegen. Ausserdem muss die Verbindungsdaten-Erhebung richterlich bewilligt werden (Art. 273 Abs. 2 StPO; BGE 141 IV 108 E. 6.2 S. 128 f.).
+ 
+1.3.2. Gewisse Abgrenzungsfragen stellen sich, wenn der (Internet-) Anschluss den Strafverfolgungsbehörden nicht bereits bekannt ist, also wenn kein "typischer" Fall einer Bestandesdaten-Abfrage im Sinne von Art. 14 Abs. 1 BÜPF vorliegt. Falls bei Untersuchungen wegen Internetdelikten bereits eine E-Mail-Adresse bzw. ein Internetanschluss bekannt ist, stellt die Ermittlung der betreffenden Registrierungsdaten grundsätzlich eine Bestandesdatenabfrage im Sinne von Art. 14 Abs. 4 BÜPF dar (vgl. THOMAS HANSJAKOB, a.a.O., S. 177; DERS., in: Kommentar zur Schweizerischen Strafprozessordnung, Donatsch/Hansjakob/Lieber [Hrsg.], 2. Aufl., 2014, N. 8 zu Art. 273). Wenn den Strafverfolgungsbehörden hingegen lediglich strafbare Internet-Kommunikationsaktivitäten bekannt geworden sind und über die Verbindungs-Randdaten der betreffenden Internet-Kommunikation die zugewiesenen IP-Adressen und registrierten Kunden erst eruiert werden sollen (sogenannte "IP-History"), sind bei Überwachungen die Vorschriften von Art. 273 StPO anwendbar (vgl. Botschaft vom 27. Februar 2013 zum Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs, BBl 2013 2683, 2743 f. Ziff. 2.6; BGE 126 I 50 E. 5-6 S. 60-67). Bei Erhebungen gemäss Art. 14 Abs. 4 BÜPF wird nur abgeklärt, wer einen  bestimmten Internet-Anschluss benützt hat. Randdatenerhebungen nach Art. 273 StPO liegen demgegenüber vor, wenn eruiert werden soll, "wer wann mit wem" über das Internet "kommuniziert" hat (THOMAS H ansjakob, Kommentar zur Schweizerischen Strafprozessordnung, a.a.O., N. 8 zu Art. 273; zum Ganzen: BGE 141 IV 108 E. 5.1 S. 120 und E. 6.2 S. 128 f. mit Hinweisen).
+ 
+1.4.
+ 
+1.4.1. Gemäss den für das Bundesgericht verbindlichen Feststellungen der Vorinstanz haben die Untersuchungsbehörden den ausländischen Kommunikationsdienst-Anbieter allgemein um Auskunft über die E-Mail-Adressen ersucht, von welchen aus die inkriminierten Droh-Nachrichten versandt wurden. Dieser gab in der Folge bekannt, wann die E-Mail-Adressen und die Nachrichten erstellt wurden. Ausserdem teilte er mit, über welche IP-Adressen und Provider die Adressen generiert und die E-Mails verschickt wurden. Anhand dieser Informationen konnten die Strafbehörden ermitteln, wann und insbesondere von wo aus der Versand der E-Mails erfolgte. Angaben zum Inhaber der inkriminierten E-Mail-Adressen sind den vorinstanzlichen Urteilen nicht zu entnehmen und wurden vom ausländischen Kommunikationsdienst-Anbieter offenbar nicht mitgeteilt. Solche liegen einzig mit Bezug auf eine weitere E-Mail-Adresse vor, welche dem Beschwerdeführer zuzuordnen sein soll, allerdings über ein Pseudonym.
+ 
+1.4.2. Aufgrund der vorstehenden Ausführungen (E. 1.3 und 1.4.1) kann der Vorinstanz nicht gefolgt werden, wenn sie erwägt, die Untersuchungsbehörden hätten lediglich Bestandesdaten erhoben. Dies trifft einzig auf die Daten bezüglich der Identität des Inhabers der verwendeten E-Mail-Adressen zu, die aber, soweit hier von Bedeutung, nicht ermittelt werden konnten. Für die ebenfalls angefragten Daten zu den IP-Adressen und den Providern gilt dies hingegen nicht. Diese ermöglichten den Strafbehörden die Ermittlung des Orts des Versandes der inkriminierten Nachrichten. Es handelt sich daher um Daten, die die Kommunikation betreffen und somit um Verbindungs-Randdaten. Daran ändert nichts, dass die E-Mail-Adressen bereits bekannt waren, wie die Vorinstanz erwägt. Die Behörden erfragten nicht lediglich Registrierungsdaten zu diesen Adressen und insbesondere nicht Daten zum Inhaber eines bestimmten ihnen bekannten Anschlusses. Sie ermittelten vielmehr über die IP-Adresse den bis dato unbekannten Anschluss als solchen sowie dessen Standort. Der von der Vorinstanz in diesem Zusammenhang angerufene Art. 14 BÜPF ist insoweit nicht einschlägig. Bei der Teilnehmeridentifikation nach diesem Artikel geht es nur um die Frage, wer einen bestimmten Anschluss benützt (THOMAS HANSJAKOB, forum poenale 2013, S. 176). Entsprechend sehen Absatz 1 und 4 der Bestimmung einzig die Verpflichtung der Internet-Anbieter zur Bekanntgabe von Daten über bestimmte - d.h. bekannte - Fernmeldeanschlüsse wie Namen, Adresse und Beruf des Inhabers vor. Darum ging es hier aber nicht. Art. 14 BÜPF bildet demgegenüber keine Grundlage für die genehmigungsfreie Erfassung weiterer Daten, namentlich von Randdaten. Die Erwägungen des Bundesgerichts in BGE 141 IV 108 E. 5.1. S. 120 führen zu keinem anderen Ergebnis (vgl. oben E. 1.3.1 f.). Wenn die Vorinstanz unter Bezugnahme auf BGE 139 IV 98 annimt, bei über das Internet begangenen Straftaten gehe Art. 14 BÜPF dem Art. 273 StPO vor, so trifft dies in dieser Absolutheit nicht zu. Sie übersieht, dass sich das Bundesgericht mit der hier strittigen Frage der Genehmigungspflicht nach Art. 273 Abs. 2 StPO nicht befasst hat. Es hat lediglich erwogen, bei über das Internet begangenen Straftaten sei die in Abs. 3 der genannten Bestimmung vorgesehene Sechsmonatsfrist für die rückwirkende Herausgabe von Auskünften nicht anwendbar. Insoweit gehe der - keine Frist statuierende - Art. 14 Abs. 4 BÜPF der Regelung gemäss StPO vor. Wie der Beschwerdeführer im Übrigen zu Recht rügt, war im dem BGE 139 IV 98 zugrunde liegenden Fall, anders als vorliegend, die IP-Adresse bekannt und es ging nur um die Identifikation eines bestimmten Benutzers.
+ 
+1.4.3. Nach dem Gesagten hätten die Untersuchungsbehörden eine Genehmigung durch das Zwangsmassnahmengericht nach Art. 273 Abs. 2 StPO einholen müssen, soweit sie Daten zum Versandort der inkriminierten E-Mails resp. zu den IP-Adressen und Providern abgefragt haben. Da eine solche nicht vorliegt, sind die aus den Anfragen stammenden Erkenntnisse gestützt auf Art. 277 Abs. 2 i.V.m. Art. 141 Abs. 1 Satz 2 StPO absolut unverwertbar (vgl. Urteil 6B_605/2014 vom 22. Dezember 2014 E. 1.2.3). Nicht gefolgt werden kann dem Beschwerdeführer, wenn er geltend macht, es seien gewisse entlastende Indizien gleichwohl zu berücksichtigen. Zwar kann die beschuldigte Person die Verwertung von rechtswidrig erlangten Beweisen verlangen, wenn sie diese entlastend findet. Sie kann jedoch nicht lediglich einzelne Tatsachen zur Auswertung freigeben wollen, im Übrigen aber auf dem Verwertungsverbot beharren (MARC JEAN-RICHARD-DIT-BRESSEL, in: Basler Kommentar, Schweizerische Strafprozessordnung, 2. Aufl. 2014, N. 5 zu Art. 277 StPO).
+ 
+1.5. Die Beschwerde ist begründet. Auf die weiteren Anträge und Rügen des Beschwerdeführers ist nicht einzugehen. Die Vorinstanz, an welche die Sache zurückzuweisen ist, wird unter Ausserachtlassung der rechtswidrig erlangten Beweise zu beurteilen haben, ob der Beschwerdeführer die ihm vorgeworfenen Straftaten begangen hat.
+ 
+2.
+Die Beschwerde ist gutzuheissen. Der angefochtene Entscheid ist aufzuheben und die Sache an die Vorinstanz zurückzuweisen.
+Bei diesem Ausgang sind für das bundesgerichtliche Verfahren keine Kosten zu erheben (Art. 66 Abs. 1 und 4 BGG). Der Kanton Zürich hat dem Beschwerdeführer für das bundesgerichtliche Verfahren eine angemessene Entschädigung zu bezahlen (Art. 68 Abs. 1 und 2 BGG). Diese ist praxisgemäss seinem Rechtsvertreter auszurichten. Damit wird das Gesuch um unentgeltliche Rechtspflege und Verbeiständung gegenstandslos.
+ 
+ 
+  Demnach erkennt das Bundesgericht:
+ 
+1.
+Die Beschwerde wird gutgeheissen, das Urteil des Obergerichts des Kantons Zürich vom 5. Mai 2015 aufgehoben und die Sache zur neuen Entscheidung an die Vorinstanz zurückgewiesen.
+ 
+2.
+Es werden keine Gerichtskosten erhoben.
+ 
+3.
+Der Kanton Zürich hat dem Rechtsvertreter des Beschwerdeführers, Rechtsanwalt Sven Gretler, für das bundesgerichtliche Verfahren eine Entschädigung von Fr. 3'000.-- auszurichten.
+ 
+4.
+Dieses Urteil wird den Parteien und dem Obergericht des Kantons Zürich, II. Strafkammer, schriftlich mitgeteilt.
+ 
+ 
+Lausanne, 16. Dezember 2016
+ 
+Im Namen der Strafrechtlichen Abteilung
+des Schweizerischen Bundesgerichts
+ 
+Der Präsident: Denys
+ 
+Der Gerichtsschreiber: Matt
