@@ -32,8 +32,8 @@ Anmeldeschluss	Mo, 10.08.2019
 ## Von der Cloud zur lokalen Installation
 **25. September 2020**
 
-1. Anaconda-Setup
-2. Jupyter Notebook (Unterschiede und die Ähnlichkeiten zu Google Colab)
+1. [Anaconda-Setup](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/01%20install%20anaconda.md)
+2. [Jupyter Notebook](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/02%20Jupyter.md) (Unterschiede und die Ähnlichkeiten zu Google Colab)
 3. Bedienungsprozess des eigenen Computers
 4. Python Libraries und Module
 5. Module os und eingelesen oder auslesen grosser Dateimengen
