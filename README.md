@@ -64,7 +64,7 @@ Anmeldeschluss	Mo, 10.08.2019
 
 
 ## Pandas Einführung, Teil 1
-**30. September / 1. Oktober 2020**
+**30. September**
 1. Einstieg: Datenjournalismus ist... (ssc), 15'
 1. Ein DDJ-Beispiel: [Film dialogues from 2000 screenplays](https://pudding.cool/2017/03/film-dialogue/) (ssc), 10'
 1. Einführung in Pandas: [Fragen formulieren - Kraftwerke](08%20Pandas%20Teil%201/Einführung%20Pandas.ipynb)*([Lösung](08%20Pandas%20Teil%201/Einführung%20Pandas%20L.ipynb))* (ssc), 30'
@@ -75,7 +75,7 @@ Anmeldeschluss	Mo, 10.08.2019
 1. Homework: [Explorieren, Filtern, Kombinieren - Fussballstadien](08%20Pandas%20Teil%201/Homework%201.ipynb) *([Lösung](08%20Pandas%20Teil%201/Homework%201%20L.ipynb))*, (ssc) 60'
 
 ## Pandas Einführung, Teil 2
-**2. Oktober 2020**
+**1. Oktober 2020**
 1. Einstieg: Ein DDJ-Beispiel: [Pick your own Brexit](https://www.bloomberg.com/graphics/2018-pick-your-own-brexit/) (ssc), 10'
 1. Unterricht: [Dataframes handling - Peter, Paul und Maria](09%20Pandas%20Teil%202/Dataframes%20Handling.ipynb) (ssc), 45'
 1. Übung: [Daten klassifizieren - SNF-Grants](09%20Pandas%20Teil%202/Daten%20klassifizieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20klassifizieren%20L.ipynb))* (ssc), 90'
@@ -85,7 +85,7 @@ Anmeldeschluss	Mo, 10.08.2019
 1. Homework: [Explorieren, Kombinieren - Zürichs Einwohner](09%20Pandas%20Teil%202/Homework%202.ipynb) *([Lösung](09%20Pandas%20Teil%202/09%20Pandas%20Teil%202/Homework%202%20L.ipynb))*
 
 ## Selenium, Rückblick und Ausblick auf die Projekte
-**3. Oktober 2020**
+**2. Oktober 2020**
 1. [Selenium-Setup](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/10%20Selenium%2C%20Projekte/01%20Selenium%20Setup.ipynb) (bsk), 30'
 2. [Arbeit mit Selenium](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/10%20Selenium%2C%20Projekte/02%20Arbeit%20mit%20Selenium.ipynb) (bsk), 60' + 90'
 3. Rückblick: Wo braucht es mehr Vertiefung? (bsk), 60'
