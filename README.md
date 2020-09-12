@@ -1,15 +1,15 @@
 # [MAZ CAS Datenjournalismus 19-20](https://www.maz.ch/file/zusatzinfo/43314/cas_datenjournalismus_20-21_v2.pdf)
 
 Nr.	J100071
-Kursdauer	20 Tage
-Beginn / Ende	Mo, **21.09.2019 bis 15.03.2020**
-Max. Teilnehmende	12
-Anmeldeschluss	Mo, 10.08.2019
+
+Kursdauer:	20 Tage
+
+Datum: **21.09.2019 bis 15.03.2020**
 
 ## 00 Ressourcen und Dokumenten-Archiv
 1. [Methodik der datenjournalistischen Recherche](00%20weitere%C2%A0Dokumente/18_08_13_Methodik%20einer%20datenjournalistischen%20Recherche.pdf) - Leitfaden für die Projektarbeit
 1. [Vorbereitung](00%20weitere%C2%A0Dokumente/reading) - eine Leseliste
-1. [Literatur](00%20weitere%C2%A0Dokumente/reading) - rund um Datenjournalismus
+1. [Literatur und Links](00%20weitere%C2%A0Dokumente/literatur) - rund ums Thema Datenjournalismus
 1. [Wichtigste Cheat Sheets](00%20weitere%C2%A0Dokumente/cheatsheets) - zum schnellen Nachschauen
 1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) - Tutorials, Dokumentation, weitere Cheatsheets
 1. [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) - eine kuratierte Sammlung
