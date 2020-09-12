@@ -7,24 +7,27 @@ Max. Teilnehmende	12
 Anmeldeschluss	Mo, 10.08.2019
 
 ## 00 Ressourcen und Dokumenten-Archiv
-1. [Methodik der datenjournalistischen Recherche](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/00%20weitere%C2%A0Dokumente/18_08_13_Methodik%20einer%20datenjournalistischen%20Recherche.pdf)
-1. [Cheat Sheets und weitere Dokumente](https://github.com/MAZ-CAS-DDJ/kurs_19_20/tree/master/00%20weitere%C2%A0Dokumente)
-1. [Liste von DDJ-Beispielen](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md)
+1. [Methodik der datenjournalistischen Recherche](00%20weitere%C2%A0Dokumente/18_08_13_Methodik%20einer%20datenjournalistischen%20Recherche.pdf) - Leitfaden für die Projektarbeit
+1. [Vorbereitung](00%20weitere%C2%A0Dokumente/reading) - eine Leseliste
+1. [Literatur](00%20weitere%C2%A0Dokumente/reading) - rund um Datenjournalismus
+1. [Wichtigste Cheat Sheets](00%20weitere%C2%A0Dokumente/cheatsheets) - zum schnellen Nachschauen
+1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) - Tutorials, Dokumentation, weitere Cheatsheets
+1. [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) - eine kuratierte Sammlung
 
 ## 01 Themen finden und datenjournalistische Recherchen planen
 **21. September 2020**
 
-0. [Begrüssung](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/00%20Start.md) (ds, bsk), 30'
-1. [Daten-getriebene Recherchen, die die Welt bewegt haben](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/01%20Stories.md) (ds, bsk), 20'
-2. [Stories finden und klassische Recherche planen](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/02%20Stories%C2%A0finden.md) (ds), 45' (inkl. 20' Pause)
-3. [Was ist am Datenjournalismus anders?](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/03%20Was%C2%A0ist%C2%A0anders%3F.md) (bsk), 10'
-4. [Datenrecherche: Aggregieren, Reinigen, Analysieren, Visualisieren, Publizieren, Code teilen](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/04%C2%A0agg%20rei%C2%A0and%C2%A0vis.md) 20' (ds, bsk)
-5. [Spreadsheets und sind Dein bester Freund (SORT; SPLIT; VLOOKUP)](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/05%C2%A0Spreadsheets%20und%20Grenzen.md) (bsk), 60'
+0. [Begrüssung](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/00%20Start.md) (ds, bsk), 30'
+1. [Daten-getriebene Recherchen, die die Welt bewegt haben](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/01%20Stories.md) (ds, bsk), 20'
+2. [Stories finden und klassische Recherche planen](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/02%20Stories%C2%A0finden.md) (ds), 45' (inkl. 20' Pause)
+3. [Was ist am Datenjournalismus anders?](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/03%20Was%C2%A0ist%C2%A0anders%3F.md) (bsk), 10'
+4. [Datenrecherche: Aggregieren, Reinigen, Analysieren, Visualisieren, Publizieren, Code teilen](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/04%C2%A0agg%20rei%C2%A0and%C2%A0vis.md) 20' (ds, bsk)
+5. [Spreadsheets und sind Dein bester Freund (SORT; SPLIT; VLOOKUP)](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/05%C2%A0Spreadsheets%20und%20Grenzen.md) (bsk), 60'
 
-- [Übung 1](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/%C3%9Cbung1.md)
+- [Übung 1](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/%C3%9Cbung1.md)
 6. [Github-Setup](https://docs.google.com/document/d/1rT4BOjThdYkHZLEp1Gsh7f45AXM6s20-UrZNCFVHmMQ/edit?ts=5d61764a#)
 7. [Einführung Google Colab]
-8. [Feedback](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/07%20Feedback.md)
+8. [Feedback](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/07%20Feedback.md)
 
 ## 02 - 04 Python: Grundbegriffe
 **22., 23. und 24. September 2020**
@@ -32,32 +35,32 @@ Anmeldeschluss	Mo, 10.08.2019
 ## 05 Von der Cloud zur lokalen Installation
 **25. September 2020**
 
-1. [Anaconda-Setup](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/01%20install%20anaconda.md)
-2. [Jupyter Notebook](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/02%20Jupyter.md) (Unterschiede und die Ähnlichkeiten zu Google Colab)
-3. [Bedienungsprozess des eigenen Computers](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/03%20Work-Flow.md)
-4. [Python Libraries und Module](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/04%20Modules%20%26%20Libraries.ipynb)
-5. [Module os und einlesen oder auslesen grosser Dateimengen](https://github.com/MAZ-CAS-DDJ/kurs_20_21/blob/master/05%20Local%20Setup%20/05%20Dokumente%20ein-%20und%20auslesen.ipynb)
+1. [Anaconda-Setup](05%20Local%20Setup%20/01%20install%20anaconda.md)
+2. [Jupyter Notebook](05%20Local%20Setup%20/02%20Jupyter.md) (Unterschiede und die Ähnlichkeiten zu Google Colab)
+3. [Bedienungsprozess des eigenen Computers](05%20Local%20Setup%20/03%20Work-Flow.md)
+4. [Python Libraries und Module](05%20Local%20Setup%20/04%20Modules%20%26%20Libraries.ipynb)
+5. [Module os und einlesen oder auslesen grosser Dateimengen](05%20Local%20Setup%20/05%20Dokumente%20ein-%20und%20auslesen.ipynb)
 6. Github-Kenntnisse vertiefen
 
 
 ## 06 Python: APIs und Scraping I
 **28. September 2020**
 
-1. [```Requests & APIs```](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/06%20APIs%2C%20Scraping%20I/01%20Requests.ipynb) (bsk), 90' + 30'
-- [Übung1](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/06%20APIs%2C%20Scraping%20I/%C3%9Cbung1.ipynb)
-2. [HTML Code](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/06%20APIs%2C%20Scraping%20I/02%20HTML%20Code.htm) (bsk), 60'
-- [Übung2](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/06%20APIs%2C%20Scraping%20I/02%20Anatomie_einer_Website.pdf)
-3. [```BeautifulSoup```](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/06%20APIs%2C%20Scraping%20I/03%20BeautifulSoup%20.ipynb) (bsk), 90' + 90'
-- [Übung3](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/06%20APIs%2C%20Scraping%20I/%C3%9Cbung3.ipynb)
-- [Übung4](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/06%20APIs%2C%20Scraping%20I/%C3%9Cbung4.ipynb)
+1. [```Requests & APIs```](06%20APIs%2C%20Scraping%20I/01%20Requests.ipynb) (bsk), 90' + 30'
+- [Übung1](06%20APIs%2C%20Scraping%20I/%C3%9Cbung1.ipynb)
+2. [HTML Code](06%20APIs%2C%20Scraping%20I/02%20HTML%20Code.htm) (bsk), 60'
+- [Übung2](06%20APIs%2C%20Scraping%20I/02%20Anatomie_einer_Website.pdf)
+3. [```BeautifulSoup```](06%20APIs%2C%20Scraping%20I/03%20BeautifulSoup%20.ipynb) (bsk), 90' + 90'
+- [Übung3](06%20APIs%2C%20Scraping%20I/%C3%9Cbung3.ipynb)
+- [Übung4](06%20APIs%2C%20Scraping%20I/%C3%9Cbung4.ipynb)
 
 ## 07 Python: APIs und Scraping II
 **29. September 2020**
 
-1. [APIs und Authentifizierung (Google)](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/07%C2%A0APIs%2C%20Scraping%20II/APIs%20und%20Authentifikation%20(Google%20API).ipynb) (bsk), 90'
-2. [Noch mehr ```BeautifulSoup```](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/07%C2%A0APIs%2C%20Scraping%20II/02%20Noch%20mehr%20BeautifulSoup.ipynb)(bsk), 90' + 90'
-- [Übung1](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/06%20APIs%2C%20Scraping%20I/%C3%9Cbung4.ipynb)
-3. [Ausblick auf Pandas](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/07%C2%A0APIs%2C%20Scraping%20II/03%20Pandas%20Einf%C3%BChrung.ipynb) (bsk), 90'
+1. [APIs und Authentifizierung (Google)](07%C2%A0APIs%2C%20Scraping%20II/APIs%20und%20Authentifikation%20(Google%20API).ipynb) (bsk), 90'
+2. [Noch mehr ```BeautifulSoup```](07%C2%A0APIs%2C%20Scraping%20II/02%20Noch%20mehr%20BeautifulSoup.ipynb)(bsk), 90' + 90'
+- [Übung1](06%20APIs%2C%20Scraping%20I/%C3%9Cbung4.ipynb)
+3. [Ausblick auf Pandas](07%C2%A0APIs%2C%20Scraping%20II/03%20Pandas%20Einf%C3%BChrung.ipynb) (bsk), 90'
 
 
 
@@ -84,8 +87,8 @@ Anmeldeschluss	Mo, 10.08.2019
 
 ## 10 Selenium, Rückblick und Ausblick auf die Projekte
 **2. Oktober 2020**
-1. [Selenium-Setup](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/10%20Selenium%2C%20Projekte/01%20Selenium%20Setup.ipynb) (bsk), 30'
-2. [Arbeit mit Selenium](https://github.com/MAZ-CAS-DDJ/kurs_19_20/blob/master/10%20Selenium%2C%20Projekte/02%20Arbeit%20mit%20Selenium.ipynb) (bsk), 60' + 90'
+1. [Selenium-Setup](10%20Selenium%2C%20Projekte/01%20Selenium%20Setup.ipynb) (bsk), 30'
+2. [Arbeit mit Selenium](10%20Selenium%2C%20Projekte/02%20Arbeit%20mit%20Selenium.ipynb) (bsk), 60' + 90'
 3. Rückblick: Wo braucht es mehr Vertiefung? (bsk), 60'
 4. Ausblick auf Projekte (bsk), 30' + 90'
 
