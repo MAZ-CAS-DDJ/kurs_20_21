@@ -11,6 +11,7 @@ BGÖ-Anfrage, Scraping und weitere besondere Methoden der Daten-Zusammenstellung
 - **SRF:** [So werden Ärzte bestraft](https://www.srf.ch/news/schweiz/gesperrte-mediziner-so-werden-aerzte-bestraft) (2019)
 - **SRF:** [Unterschlagenes Wissen schadet](https://www.srf.ch/news/schweiz/studien-skandal-unterschlagenes-wissen-schadet) (2019)
 - **Watson:** [Flugzeug oder Bahn? So reisen Schweizer Beamte](https://www.watson.ch/schweiz/gesellschaft%20&%20politik/729967208-flugzeug-oder-bahn-so-reisen-die-schweizer-beamten) (2019)
+- **Buzzfeed:** [China Secretly Built A Vast New Infrastructure To Imprison Muslims](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims) (2020)
 - **SRF:** [Lotteriefonds-Auswertung](https://www.srf.ch/news/schweiz/lotteriefonds-auswertung-vor-allem-grossinstitutionen-profitieren) (2020)
 ## Textanalyse
 Worthäufigkeiten, Sentiment-Analyse und weitere computerlinguistische Techniken
@@ -49,8 +50,10 @@ Storytelling mit Daten: besondere Plots, ungewöhnliche Chartformen, etc.
 - **Matt Korostoff:** [Wealth, Shown to Scale](https://mkorostoff.github.io/1-pixel-wealth/) (2020)
 - **New York Times:** [Most States That Are Reopening Fail to Meet White House Guidelines](https://www.nytimes.com/interactive/2020/05/07/us/coronavirus-states-reopen-criteria.html) (2020)
 - **New York Times:** [The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York City](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html) (2020)
+- **New York Times:** [The True Colors of America’s Political Spectrum Are Gray and Green](https://www.nytimes.com/interactive/2020/09/02/upshot/america-political-spectrum.html) (2020)
 - **Washington Post:** [The U.S. death toll has reached 100,000](https://www.washingtonpost.com/graphics/2020/national/100000-deaths-american-coronavirus/?itid=hp_hp-bignews4_animated-map%3Ahomepage%2Fstory-ans) (2020)
 - **Washington Post:** [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) (2020)
+- **Woodwell:** [Understanding the global threat of a rapidly warming Arctic](https://www.woodwellclimate.org/research-area/arctic/) (2020)
 - **SRF:** [So entwickeln sich die Fallzahlen in der Schweiz](https://www.srf.ch/news/schweiz/coronavirus-so-entwickeln-sich-die-fallzahlen-in-der-schweiz) (2021)
 ## Mapping
 Choropleth, Point maps und allerlei weitere geografische Darstellungsformen
