@@ -4,7 +4,7 @@ Rund um die Themen Datenjournalismus, Data literacy, Datenvisualisierung, etc.
 
 ## Bücher
 
-- [Airtable](https://airtable.com/shrugbQMDGVNvArMT/tblSrU1fNAykSMyXU?blocks=hide) -  Lange Liste von DDJ-Büchern
+- [Airtable](https://airtable.com/shrugbQMDGVNvArMT/tblSrU1fNAykSMyXU?blocks=hide) -  Lange Liste von Dataviz-Büchern
 - [Google Docs](https://docs.google.com/spreadsheets/d/1sbfEb5b__o0RoFugu208B4CmCQOg4dCXkSEmvixh0DQ/edit#gid=961694883) - Liste von DDJ/Dataviz-Bücher
 - [Columbia University](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php) - The Curious Journalist’s Guide to Data
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Lehrbuch für Pandas etc.
