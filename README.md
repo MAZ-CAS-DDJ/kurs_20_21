@@ -1,10 +1,5 @@
 # [MAZ CAS Datenjournalismus 19-20](https://www.maz.ch/file/zusatzinfo/43314/cas_datenjournalismus_20-21_v2.pdf)
-
-Nr.	J100071
-
-Kursdauer:	20 Tage
-
-Datum: **21.09.2019 bis 15.03.2020**
+**21.09.2019 bis 15.03.2020**
 
 ## 00 Ressourcen und Dokumenten-Archiv
 1. [Methodik der datenjournalistischen Recherche](00%20weitere%C2%A0Dokumente/18_08_13_Methodik%20einer%20datenjournalistischen%20Recherche.pdf) - Leitfaden für die Projektarbeit
@@ -62,13 +57,10 @@ Datum: **21.09.2019 bis 15.03.2020**
 - [Übung1](06%20APIs%2C%20Scraping%20I/%C3%9Cbung4.ipynb)
 3. [Ausblick auf Pandas](07%C2%A0APIs%2C%20Scraping%20II/03%20Pandas%20Einf%C3%BChrung.ipynb) (bsk), 90'
 
-
-
 ## 08 Pandas Einführung, Teil 1
 **30. September**
 1. Einstieg: Datenjournalismus ist... (ssc), 15'
-1. Ein DDJ-Beispiel: [Film dialogues from 2000 screenplays](https://pudding.cool/2017/03/film-dialogue/) (ssc), 10'
-1. Einführung in Pandas: [Fragen formulieren - Kraftwerke](08%20Pandas%20Teil%201/Einführung%20Pandas.ipynb)*([Lösung](08%20Pandas%20Teil%201/Einführung%20Pandas%20L.ipynb))* (ssc), 30'
+1. Einführung in Pandas: [Daten laden, analysieren, exportieren - Coronavirus](08%20Pandas%20Teil%201/Einführung%20Pandas%20L.ipynb) (ssc), 30'
 1. Übung: [Datensets explorieren - death sentences](08%20Pandas%20Teil%201/Daten%20explorieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Daten%20explorieren%20L.ipynb))* (ssc), 80'
 1. Wiedereinstieg: DDJ-Beispiele anschauen
 1. [Hilfsmaterialien](00%20weitere%20Dokumente/hilfsmaterial/) (ssc), 20'
