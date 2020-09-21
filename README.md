@@ -19,9 +19,7 @@
 2. [Stories finden und klassische Recherche planen](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/02%20Stories%C2%A0finden.md) (ds), 45' (inkl. 20' Pause)
 3. [Was ist am Datenjournalismus anders?](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/03%20Was%C2%A0ist%C2%A0anders%3F.md) (bsk), 10'
 4. [Datenrecherche: Aggregieren, Reinigen, Analysieren, Visualisieren, Publizieren, Code teilen](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/04%C2%A0agg%20rei%C2%A0and%C2%A0vis.md) 20' (ds, bsk)
-5. [Spreadsheets und sind Dein bester Freund (SORT; SPLIT; VLOOKUP)](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/05%C2%A0Spreadsheets%20und%20Grenzen.md) (bsk), 60'
-
-- [Übung 1](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/%C3%9Cbung1.md)
+5. [Spreadsheets sind Dein bester Freund (SORT; SPLIT; VLOOKUP)](https://docs.google.com/spreadsheets/d/1GU7VEVbFwwJ7AiDM68cfrxThR54EOyX1d7rdSGnyVic/edit#gid=0) (bsk), 60'
 6. [Github-Setup](https://docs.google.com/document/d/1rT4BOjThdYkHZLEp1Gsh7f45AXM6s20-UrZNCFVHmMQ/edit?ts=5d61764a#)
 7. [Einführung Google Colab]
 8. [Feedback](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/07%20Feedback.md)
