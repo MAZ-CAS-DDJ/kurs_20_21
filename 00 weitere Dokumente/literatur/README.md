@@ -13,6 +13,7 @@ Rund um die Themen Datenjournalismus, Data literacy, Datenvisualisierung, etc.
 - [Data-Driven Storytelling](Data-Driven Storytelling.pdf) - Sammelband AK Peters Visualization Series
 - [Storytelling with Data](Nussbaumer_Knaflic_Storytelling.pdf) - Lehrbuch Cole Nussbaumer Knaflic
 - [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569/) - Alberto Cairo
+- [Fake News, Framing, Factchecking - Nachrichten im digitalen Zeitalter](Fake_News_Framing_FactChecking_Nachrichten_im_digitalen_Zeitalter_92885_9783839450253.pdf) - Tanja Köhler, Marcus Bornheim, Barnaby Skinner et al.
 
 ## Onlinekurse
 
