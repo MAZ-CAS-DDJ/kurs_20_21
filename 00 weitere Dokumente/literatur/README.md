@@ -76,3 +76,4 @@ https://www.ire.org/resource-center/listservs/subscribe-nicar-l/
 
 - [Two fundamentals that define good data journalism](https://medium.com/@digidickinson/two-fundamentals-that-define-good-data-journalism-fe79170f8566) - Andy Dickinson
 - [Best practices for covering climate change with data](https://medium.com/global-editors-network/best-practices-for-covering-climate-change-with-data-42316263b67a) - Global Editors Network
+- [How to make dope shit](https://pudding.cool/process/how-to-make-dope-shit-part-1/) - Dreiteilige DDJ-Anleitung von Pudding. [Teil 2](https://pudding.cool/process/how-to-make-dope-shit-part-2/), [Teil 3](https://pudding.cool/process/how-to-make-dope-shit-part-3/)
