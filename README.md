@@ -12,6 +12,8 @@
 ## 01 Themen finden und datenjournalistische Recherchen planen
 **21. September 2020**
 
+[**Zur Präsentation**](https://docs.google.com/presentation/d/1WBSMHrfiMLKE65JAv-VKO8sMlI_OJx40v5-htSHU5Jo/edit#slide=id.p)
+
 0. [Begrüssung](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/00%20Start.md) (ds, bsk), 30'
 1. [Daten-getriebene Recherchen, die die Welt bewegt haben](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/01%20Stories.md) (ds, bsk), 20'
 2. [Stories finden und klassische Recherche planen](01%20Themen%20finden%2C%C2%A0Recherche%C2%A0planen/02%20Stories%C2%A0finden.md) (ds), 45' (inkl. 20' Pause)
