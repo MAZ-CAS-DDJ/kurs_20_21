@@ -12,6 +12,7 @@ Rund um die Themen Datenjournalismus, Data literacy, Datenvisualisierung, etc.
 - [Factfullnes](https://www.ullstein-buchverlage.de/nc/buch/details/factfulness-9783548060415.html) - Hans Rosling über den Umgang mit Daten
 - [Data-Driven Storytelling](Data-Driven Storytelling.pdf) - Sammelband AK Peters Visualization Series
 - [Storytelling with Data](Nussbaumer_Knaflic_Storytelling.pdf) - Lehrbuch Cole Nussbaumer Knaflic
+- [How Charts Lie](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569/) - Alberto Cairo
 
 ## Onlinekurse
 
