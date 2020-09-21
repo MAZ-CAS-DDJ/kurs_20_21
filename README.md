@@ -1,5 +1,5 @@
-# [MAZ CAS Datenjournalismus 19-20](https://www.maz.ch/file/zusatzinfo/43314/cas_datenjournalismus_20-21_v2.pdf)
-**21.09.2019 bis 15.03.2020**
+# [MAZ CAS Datenjournalismus 20-21](https://www.maz.ch/file/zusatzinfo/43314/cas_datenjournalismus_20-21_v2.pdf)
+**21.09.2020 bis 15.03.2021**
 
 ## 00 Ressourcen und Dokumenten-Archiv
 1. [Methodik der datenjournalistischen Recherche](00%20weitere%C2%A0Dokumente/18_08_13_Methodik%20einer%20datenjournalistischen%20Recherche.pdf) - Leitfaden für die Projektarbeit
