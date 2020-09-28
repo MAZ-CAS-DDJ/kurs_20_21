@@ -1,8 +1,167 @@
-,Mag,Place,Time,Type
-0,4.1,"19km NE of San Jeronimo Ixtepec, Mexico",1533010343830,earthquake
-1,1.86,"34km NE of Ensenada, B.C., MX",1533008835490,earthquake
-2,1.85,"9km W of Progreso, B.C., MX",1532977028010,earthquake
-3,1.82,"26km ENE of Pine Valley, CA",1532964179630,earthquake
-4,1.86,"6km WSW of Holtville, CA",1532953778000,earthquake
-5,1.67,"70km WSW of Alberto Oviedo Mota, B.C., MX",1532941201800,earthquake
-6,2.79,"72km WSW of Alberto Oviedo Mota, B.C., MX",1532931837280,earthquake
+,Type,Mag,Place,Time
+0,earthquake,2.5,"17 km SE of Ackerly, Texas",1601152788069
+1,earthquake,1.76,"20km ESE of Tijuana, B.C., MX",1601085764670
+2,earthquake,3.0,"57 km S of Whites City, New Mexico",1601050250129
+3,earthquake,2.9,western Texas,1601050163479
+4,earthquake,1.24,"22km NW of Ocotillo, CA",1601050011650
+5,earthquake,2.9,"56 km S of Whites City, New Mexico",1601019963560
+6,earthquake,3.4,"58 km S of Whites City, New Mexico",1600989253822
+7,earthquake,4.6,"70 km ENE of Mulegé, Mexico",1600988801235
+8,earthquake,5.3,"58 km ENE of Mulegé, Mexico",1600988489882
+9,earthquake,2.9,"55 km S of Whites City, New Mexico",1600985999409
+10,earthquake,2.6,"51 km W of Mentone, Texas",1600967412975
+11,earthquake,4.4,"30 km S of La Línea, Mexico",1600919722507
+12,earthquake,1.09,"26km ENE of Pine Valley, CA",1600917159220
+13,earthquake,2.82,"84km ESE of Maneadero, B.C., MX",1600901392300
+14,earthquake,0.79,"26km SSW of Ocotillo Wells, CA",1600900066820
+15,earthquake,0.98,"27km SSW of Ocotillo Wells, CA",1600900041020
+16,earthquake,0.68,"27km ENE of Pine Valley, CA",1600897027960
+17,earthquake,1.74,"27km SSW of Ocotillo Wells, CA",1600886500280
+18,earthquake,1.02,"27km ENE of Pine Valley, CA",1600886324930
+19,earthquake,1.6,"17km E of Ocotillo, CA",1600859889580
+20,earthquake,2.5,"15 km NW of Midland, Texas",1600841080059
+21,earthquake,4.8,"28 km SSW of Ocós, Guatemala",1600815392442
+22,earthquake,0.98,"23km SW of Ocotillo Wells, CA",1600797230570
+23,earthquake,3.05,"85km ESE of Maneadero, B.C., MX",1600773652000
+24,earthquake,0.86,"22km WNW of Ocotillo, CA",1600767813990
+25,earthquake,2.7,"49 km NW of Toyah, Texas",1600757420918
+26,quarry blast,1.41,"5km NE of Rancho San Diego, CA",1600714818780
+27,earthquake,0.34,"8km NNW of Ocotillo, CA",1600703760040
+28,earthquake,0.71,"25km SSW of Ocotillo Wells, CA",1600686504070
+29,earthquake,4.9,Revilla Gigedo Islands region,1600678804780
+30,earthquake,4.4,"98 km SW of Altata, Mexico",1600662953021
+31,earthquake,4.5,Revilla Gigedo Islands region,1600662131121
+32,earthquake,1.52,"17km WNW of Progreso, B.C., MX",1600634609280
+33,earthquake,3.6,"63 km E of San Vicente, Mexico",1600623060356
+34,earthquake,1.51,"0km NE of El Centro, CA",1600615709220
+35,earthquake,1.39,"1km E of El Centro, CA",1600610366930
+36,earthquake,1.23,"2km ESE of El Centro, CA",1600610226040
+37,earthquake,1.76,"32km WSW of Encinitas, CA",1600608522520
+38,earthquake,1.11,"26km SSW of Ocotillo Wells, CA",1600602644410
+39,earthquake,1.34,"1km SE of El Centro, CA",1600599848950
+40,earthquake,1.49,"1km NNE of El Centro, CA",1600596371340
+41,earthquake,1.59,"1km ESE of El Centro, CA",1600596365900
+42,earthquake,0.79,"26km SSW of Ocotillo Wells, CA",1600586780220
+43,earthquake,0.21,"26km SSW of Ocotillo Wells, CA",1600586772180
+44,earthquake,1.67,"18km WNW of Progreso, B.C., MX",1600580546630
+45,earthquake,2.08,"11km W of Delta, B.C., MX",1600574366970
+46,earthquake,2.39,"88km ESE of Maneadero, B.C., MX",1600571119170
+47,earthquake,3.3,"12 km WNW of Santa Tecla, El Salvador",1600554187590
+48,earthquake,4.4,"36 km SW of Puerto El Triunfo, El Salvador",1600522325759
+49,earthquake,4.4,"9 km NW of Puerto Madero, Mexico",1600495384718
+50,earthquake,1.07,"4km SW of Imperial, CA",1600493902060
+51,earthquake,1.24,"15km ESE of Ocotillo, CA",1600484140130
+52,earthquake,2.4,"6 km SE of Gardendale, Texas",1600476658600
+53,earthquake,2.5,"53 km ENE of San Vicente, Mexico",1600476061068
+54,earthquake,2.3,"5 km SE of Gardendale, Texas",1600473845730
+55,earthquake,3.8,"50 km W of Mentone, Texas",1600465707441
+56,earthquake,2.4,"12 km NNW of Midland, Texas",1600446067702
+57,earthquake,1.59,"2km SSE of Brawley, CA",1600438739500
+58,earthquake,0.66,"23km SW of Ocotillo Wells, CA",1600428285590
+59,earthquake,1.6,"31km W of La Jolla, CA",1600417492080
+60,experimental explosion,2.0,"4 km ESE of Lindsay, Texas",1600411499865
+61,earthquake,0.96,"22km SSW of Ocotillo Wells, CA",1600372554950
+62,earthquake,0.26,"23km SW of Ocotillo Wells, CA",1600365741560
+63,earthquake,4.2,"81 km SW of Cabeza de Toro, Mexico",1600330644058
+64,earthquake,3.0,"11 km NNW of Midland, Texas",1600314562586
+65,earthquake,5.2,"7 km SSW of Motozintla, Mexico",1600305239816
+66,quarry blast,0.84,"7km NNW of La Mesa, CA",1600286486760
+67,earthquake,2.03,"91km SSW of Alberto Oviedo Mota, B.C., MX",1600261302360
+68,earthquake,1.42,"28km ENE of Primo Tapia, B.C., MX",1600242699430
+69,quarry blast,1.37,"6km ESE of Bonita, CA",1600203303170
+70,earthquake,1.34,"1km NE of Brawley, CA",1600203143410
+71,earthquake,0.84,"27km ENE of Pine Valley, CA",1600194142380
+72,earthquake,1.61,"62km E of Maneadero, B.C., MX",1600174816180
+73,earthquake,2.98,"40km W of El Sauzal, B.C., MX",1600167012440
+74,earthquake,1.33,"8km SW of Progreso, B.C., MX",1600165759050
+75,earthquake,1.43,"7km SW of Progreso, B.C., MX",1600158898030
+76,earthquake,0.98,"24km SW of Ocotillo Wells, CA",1600154214410
+77,earthquake,0.91,"24km SW of Ocotillo Wells, CA",1600149245510
+78,earthquake,1.61,"27km ENE of Pine Valley, CA",1600139354690
+79,earthquake,3.1,"50 km S of Whites City, New Mexico",1600138335048
+80,earthquake,0.63,"23km NW of Ocotillo, CA",1600136089170
+81,earthquake,1.49,"8km WNW of Holtville, CA",1600129238010
+82,earthquake,2.73,"35km E of Maneadero, B.C., MX",1600124589130
+83,earthquake,2.8,"50 km S of Whites City, New Mexico",1600123248419
+84,earthquake,1.84,"49km WSW of Rosarito, B.C., MX",1600116123440
+85,earthquake,1.57,"9km ESE of Imperial, CA",1600099607940
+86,earthquake,1.58,"9km ESE of Imperial, CA",1600099577880
+87,earthquake,1.1,"8km E of Imperial, CA",1600099574410
+88,earthquake,1.56,"8km ENE of El Centro, CA",1600099539300
+89,earthquake,1.74,"8km E of Imperial, CA",1600099268690
+90,earthquake,4.6,"6 km ESE of Patulul, Guatemala",1600093768426
+91,earthquake,3.2,"19 km ESE of Lindsay, Texas",1600092882357
+92,earthquake,2.6,"51 km W of Mentone, Texas",1600092391911
+93,earthquake,2.5,"50 km W of Mentone, Texas",1600063512783
+94,earthquake,0.82,"25km NNE of Ocotillo, CA",1600056589670
+95,earthquake,0.88,"25km WSW of Westmorland, CA",1600055950600
+96,earthquake,2.22,"23km NW of Ocotillo, CA",1600034151210
+97,earthquake,0.97,"22km NW of Ocotillo, CA",1600033951050
+98,earthquake,0.83,"11km WSW of Progreso, B.C., MX",1600000335010
+99,earthquake,1.54,"42km ENE of Ensenada, B.C., MX",1599994609090
+100,earthquake,3.7,"0 km ENE of Amatillo, Mexico",1599990849734
+101,earthquake,0.59,"25km SW of Ocotillo Wells, CA",1599985233210
+102,earthquake,1.8,"9 km NNE of Odessa, Texas",1599975590139
+103,earthquake,0.48,"26km SW of Ocotillo Wells, CA",1599972902080
+104,earthquake,1.86,"27km SSW of Ocotillo Wells, CA",1599935652240
+105,earthquake,1.87,"24km SW of Ocotillo Wells, CA",1599918017610
+106,earthquake,1.35,"5km SSE of Brawley, CA",1599897150460
+107,earthquake,1.4,"33km W of La Jolla, CA",1599882689330
+108,earthquake,2.47,"7km SW of Alberto Oviedo Mota, B.C., MX",1599835667890
+109,earthquake,1.18,"16km WNW of Imperial, CA",1599781573760
+110,earthquake,4.4,"4 km ENE of Rizo de Oro, Mexico",1599742063486
+111,earthquake,0.75,"23km NW of Ocotillo, CA",1599721967130
+112,earthquake,1.03,"26km SSW of Ocotillo Wells, CA",1599713470190
+113,earthquake,3.1,"57 km S of Whites City, New Mexico",1599708565594
+114,earthquake,0.63,"16km WSW of Westmorland, CA",1599692031150
+115,earthquake,2.3,"90km ESE of Maneadero, B.C., MX",1599684311610
+116,quarry blast,0.8,"7km NNW of La Mesa, CA",1599681754710
+117,earthquake,2.4,"17 km NE of Hermleigh, Texas",1599668749700
+118,earthquake,4.3,"2 km NE of Tejutla, Guatemala",1599652776621
+119,earthquake,0.98,"22km NW of Ocotillo, CA",1599643842360
+120,earthquake,4.4,"23 km SSW of El Coyul, Mexico",1599643004319
+121,earthquake,2.33,"90km SSW of Alberto Oviedo Mota, B.C., MX",1599616064740
+122,earthquake,1.79,"39km WSW of Carlsbad, CA",1599586602610
+123,earthquake,1.45,"9km WNW of Holtville, CA",1599546060840
+124,earthquake,1.5,"3km SSW of Heber, CA",1599543229410
+125,earthquake,4.2,"89 km N of Colonia Emiliano Zapata, Mexico",1599529200190
+126,earthquake,1.28,"21km E of Ocotillo, CA",1599521256500
+127,earthquake,2.7,"59 km S of Whites City, New Mexico",1599497343814
+128,earthquake,2.7,"48 km NW of Toyah, Texas",1599441539524
+129,earthquake,3.0,"49 km NW of Toyah, Texas",1599441360035
+130,earthquake,2.7,"57 km S of Whites City, New Mexico",1599426828266
+131,earthquake,2.16,"71km WSW of Alberto Oviedo Mota, B.C., MX",1599405396120
+132,earthquake,2.8,"55 km S of Whites City, New Mexico",1599393852121
+133,earthquake,1.93,"32km NE of Ensenada, B.C., MX",1599380878980
+134,earthquake,1.13,"24km SW of Ocotillo Wells, CA",1599379806650
+135,earthquake,1.01,"23km NW of Ocotillo, CA",1599347737870
+136,earthquake,2.6,"47 km W of Mentone, Texas",1599315193970
+137,earthquake,2.8,"13 km WSW of Falls City, Texas",1599295729559
+138,earthquake,2.6,"12 km WSW of Falls City, Texas",1599274208722
+139,earthquake,2.6,"10 km W of Falls City, Texas",1599270480979
+140,earthquake,2.7,"51 km NW of Toyah, Texas",1599252131364
+141,earthquake,2.9,"60 km S of Whites City, New Mexico",1599226018183
+142,earthquake,2.6,"57 km ENE of San Vicente, Mexico",1599188312570
+143,earthquake,1.33,"23km NW of Ocotillo, CA",1599166946370
+144,earthquake,1.8,western Florida,1599157074795
+145,earthquake,1.51,"8km SW of Progreso, B.C., MX",1599154643560
+146,earthquake,2.64,"90km ESE of Maneadero, B.C., MX",1599154584140
+147,earthquake,2.5,"54 km S of Whites City, New Mexico",1599149118226
+148,earthquake,3.8,"0 km WSW of Pollard, Alabama",1599145673144
+149,earthquake,1.25,"23km NW of Ocotillo, CA",1599141992190
+150,earthquake,2.06,"7km W of Progreso, B.C., MX",1599140807770
+151,earthquake,4.2,"176 km SW of Emiliano Zapata, Mexico",1599137193519
+152,earthquake,0.55,"12km WSW of El Centro, CA",1599131784500
+153,earthquake,0.8,"22km NW of Ocotillo, CA",1599131077010
+154,earthquake,2.79,"88km ESE of Maneadero, B.C., MX",1599128258000
+155,earthquake,1.64,"23km NW of Ocotillo, CA",1599127849470
+156,earthquake,3.0,"48 km W of Mentone, Texas",1599105147111
+157,earthquake,3.4,"20 km ENE of La Paz, Mexico",1599101122760
+158,earthquake,2.8,"47 km W of Mentone, Texas",1599055998582
+159,earthquake,1.59,"1km NW of El Centro, CA",1599025263590
+160,earthquake,2.5,"47 km W of Mentone, Texas",1599023915195
+161,earthquake,3.1,"45 km W of Mentone, Texas",1599022369510
+162,earthquake,3.3,"47 km W of Mentone, Texas",1599022306611
+163,earthquake,1.27,"16km E of Ocotillo, CA",1599011478030
+164,quarry blast,1.28,"4km ENE of Rancho San Diego, CA",1598986836650
+165,earthquake,3.3,"61 km E of San Vicente, Mexico",1598946093826
