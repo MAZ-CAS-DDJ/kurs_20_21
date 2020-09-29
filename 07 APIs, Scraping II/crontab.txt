@@ -1,0 +1,15 @@
+
+
+say v- Paulina "Hallo, wie geht es Dir?"
+say -v '?'
+say -v markus -r 50 -f
+
+export EDITOR=nano
+crontab -e
+
+crontab.guru
+
+https://github.com/kipe/pycron
+
+
+
