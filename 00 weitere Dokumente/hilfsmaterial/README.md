@@ -8,6 +8,9 @@ Sammlung von Hilfsmaterialien zu diversen Programmiersprachen und Python-Bibliot
 - [Data Wrangling with Pandas](Pandas_Cheat_Sheet.pdf) - Eine optisch sehr hübsche Übersicht
 - [Simons Cheat Sheet](pandas.md) - Meine Notizen, aufbereitet mit Links
 
+### Templates
+- [Datenanalyse](templates/Template%20Analyse.ipynb) - Ein Template mit Funktionen zum Auskommentieren
+
 ### Tutorials
 - [Liste von Tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) - Offizielles Verzeichnis
 - [Lede Program, Foundations](http://www.jonathansoma.com/lede/foundations-2017/) - einige Practice-Notebooks von der Columbia
