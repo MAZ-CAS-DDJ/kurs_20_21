@@ -6,7 +6,7 @@
 1. [Vorbereitung](00%20weitere%C2%A0Dokumente/reading) - eine Leseliste
 1. [Literatur und Links](00%20weitere%C2%A0Dokumente/literatur) - rund ums Thema Datenjournalismus
 1. [Wichtigste Cheat Sheets](00%20weitere%C2%A0Dokumente/cheatsheets) - zum schnellen Nachschauen
-1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) - Tutorials, Dokumentation, weitere Cheatsheets
+1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) - Tutorials, Dokumentation, weitere Cheatsheets, Templates
 1. [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) - eine kuratierte Sammlung
 
 ## 01 Themen finden und datenjournalistische Recherchen planen
