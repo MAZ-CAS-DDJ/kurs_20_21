@@ -1,0 +1,756 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Welcher Parlamentarier hat bei Google den grössten Fussabdruck?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "1. Liste aller Parlamentarier finden (Pandas)\n",
+    "2. Liste mit Vornamen, Nachnamen und Rat bauen (Pandas)\n",
+    "3. Googlen und Resultate direkt ansteuern (Selenium)\n",
+    "4. DataFrame bauen und Resulate abspeicher (For Loop into Pandas)\n",
+    "5. Mergen wir die Daten mit dem ursprünglichen DataFrame\n",
+    "6. Visualisieren wir die Daten"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Imports"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from selenium import webdriver\n",
+    "from selenium.webdriver.common.keys import Keys\n",
+    "from selenium.webdriver.common.by import By\n",
+    "from selenium.webdriver.support.ui import Select\n",
+    "import time\n",
+    "import pandas as pd\n",
+    "from bs4 import BeautifulSoup\n",
+    "from random import uniform"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "%matplotlib notebook\n",
+    "import matplotlib.pyplot as plt"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**1. Liste aller Parlamentarier**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df = pd.read_excel('https://www.parlament.ch/Poly/Adressen_RM/mitgliederlist-pc.xlsx')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n",
+      "RangeIndex: 246 entries, 0 to 245\n",
+      "Data columns (total 34 columns):\n",
+      " #   Column                  Non-Null Count  Dtype  \n",
+      "---  ------                  --------------  -----  \n",
+      " 0   Rat                     246 non-null    object \n",
+      " 1   Anrede 1                246 non-null    object \n",
+      " 2   Vorname                 246 non-null    object \n",
+      " 3   Name                    246 non-null    object \n",
+      " 4   Anrede 2                61 non-null     object \n",
+      " 5   Firma (Postadresse)     56 non-null     object \n",
+      " 6   Strasse (Postadresse)   81 non-null     object \n",
+      " 7   Zusatz (Postadresse)    27 non-null     object \n",
+      " 8   PLZ (Postadresse)       81 non-null     float64\n",
+      " 9   Ort (Postadresse)       81 non-null     object \n",
+      " 10  Tel. (Postadresse)      38 non-null     object \n",
+      " 11  Fax (Postadresse)       18 non-null     object \n",
+      " 12  Homepage (Postadresse)  37 non-null     object \n",
+      " 13  Firma (Wohnadresse)     5 non-null      object \n",
+      " 14  Strasse (Wohnadresse)   179 non-null    object \n",
+      " 15  Zusatz (Wohnadresse)    13 non-null     object \n",
+      " 16  PLZ (Wohnadresse)       179 non-null    float64\n",
+      " 17  Ort (Wohnadresse)       179 non-null    object \n",
+      " 18  Tel. (Wohnadresse)      30 non-null     object \n",
+      " 19  Fax (Wohnadresse)       8 non-null      object \n",
+      " 20  Homepage (Wohnadresse)  177 non-null    object \n",
+      " 21  Firma (Mailing)         59 non-null     object \n",
+      " 22  Strasse (Mailing)       246 non-null    object \n",
+      " 23  Zusatz (Mailing)        38 non-null     object \n",
+      " 24  PLZ (Mailing)           246 non-null    int64  \n",
+      " 25  Ort (Mailing)           246 non-null    object \n",
+      " 26  Tel. (Mailing)          65 non-null     object \n",
+      " 27  Fax (Mailing)           26 non-null     object \n",
+      " 28  Homepage (Mailing)      205 non-null    object \n",
+      " 29  Arbeitssprache          246 non-null    object \n",
+      " 30  Fraktion                246 non-null    object \n",
+      " 31  Kanton                  246 non-null    object \n",
+      " 32  Geburtsjahr             246 non-null    int64  \n",
+      " 33  VereidigungsDatum       246 non-null    int64  \n",
+      "dtypes: float64(2), int64(3), object(29)\n",
+      "memory usage: 65.5+ KB\n"
+     ]
+    }
+   ],
+   "source": [
+    "df.info()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**2. Liste mit Vornamen, Nachnamen und Rat bauen**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def make(elem):\n",
+    "    if elem == 'NR':\n",
+    "        return 'Nationalrat'\n",
+    "    else:\n",
+    "        return 'Ständerat'\n",
+    "df[\"Rat\"] = df[\"Rat\"].apply(make)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df['google suche'] = '\"' + df['Rat']+ \" \" + df['Vorname'] + \" \" +df['Name'] + '\"'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "pol_list = list(df['google suche'])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "['\"Nationalrat Jean-Luc Addor\"',\n",
+       " '\"Nationalrat Andreas Aebi\"',\n",
+       " '\"Nationalrat Matthias Aebischer\"',\n",
+       " '\"Nationalrat Thomas Aeschi\"',\n",
+       " '\"Nationalrat Céline Amaudruz\"']"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "pol_list[:5]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**3. Googlen und Resultate direkt ansteuern**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Wir starten den BRowser auf\n",
+    "driver = webdriver.Firefox()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Und nun sagen wir dem Browser, welche Seite er besuchen sollte. \n",
+    "driver.get('https://www.google.ch')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Wir benutzen den Webinspector\n",
+    "search = driver.find_element_by_name('q')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 35,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#send keys\n",
+    "search.send_keys(pol_list[0])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#button click\n",
+    "search.send_keys(Keys.RETURN)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 37,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "<selenium.webdriver.firefox.webelement.FirefoxWebElement (session=\"00e32abf-2d58-b84d-8e0a-de0c20b8bd42\", element=\"76226300-0ce5-9645-a357-0283dab9596e\")>"
+      ]
+     },
+     "execution_count": 37,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#get results\n",
+    "driver.find_element_by_id('result-stats')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'Ungefähr 2’120 Ergebnisse (0.63 Sekunden) '"
+      ]
+     },
+     "execution_count": 38,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#get results in text format\n",
+    "driver.find_element_by_id('result-stats').text"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "driver.find_element_by_name('q').clear()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**4. DataFrame bauen und Resulate abspeicher**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 53,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Wir starten den Browser auf\n",
+    "driver = webdriver.Firefox()\n",
+    "#Und nun sagen wir dem Browser, welche Seite er besuchen sollte. \n",
+    "driver.get('https://www.google.ch')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#start the for loop\n",
+    "result_list = []\n",
+    "for elem in pol_list:\n",
+    "    \n",
+    "    search = driver.find_element_by_name('q')\n",
+    "    search.send_keys(elem)\n",
+    "    search.send_keys(Keys.RETURN)\n",
+    "    #wait\n",
+    "    time.sleep(uniform(0.5, 5))\n",
+    "    #get and save results\n",
+    "    result = driver.find_element_by_id('result-stats').text\n",
+    "    minidict = {'Politician': elem,\n",
+    "                'Google Search Results': result}\n",
+    "    result_list.append(minidict)\n",
+    "    \n",
+    "    driver.find_element_by_name('q').clear()\n",
+    "    \n",
+    "    #wait\n",
+    "    time.sleep(3)\n",
+    "    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "48"
+      ]
+     },
+     "execution_count": 46,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "len(result_list)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**5. Mergen wir die Daten mit dem ursprünglichen DataFrame**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 81,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_polsearches = pd.DataFrame(result_list)\n",
+    "df_polsearches.to_csv('246.csv')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 82,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def clean(elem):\n",
+    "    try: \n",
+    "        elem = elem.split(\" \")[1]\n",
+    "        elem= int(elem.replace(\"’\", \"\"))\n",
+    "        return elem\n",
+    "    except:\n",
+    "        return \"N/A\"\n",
+    "df_polsearches['Count'] = df_polsearches['Google Search Results'].apply(clean)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 83,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Politician</th>\n",
+       "      <th>Google Search Results</th>\n",
+       "      <th>Count</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>Jean-Luc Addor Ständerat</td>\n",
+       "      <td>Ungefähr 11’000 Ergebnisse (0.35 Sekunden)</td>\n",
+       "      <td>11000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>Andreas Aebi Ständerat</td>\n",
+       "      <td>Ungefähr 19’500 Ergebnisse (0.32 Sekunden)</td>\n",
+       "      <td>19500</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>Matthias Aebischer Ständerat</td>\n",
+       "      <td>Ungefähr 14’400 Ergebnisse (0.44 Sekunden)</td>\n",
+       "      <td>14400</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>Thomas Aeschi Ständerat</td>\n",
+       "      <td>Ungefähr 24’800 Ergebnisse (0.42 Sekunden)</td>\n",
+       "      <td>24800</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>Céline Amaudruz Ständerat</td>\n",
+       "      <td>Ungefähr 8’690 Ergebnisse (0.35 Sekunden)</td>\n",
+       "      <td>8690</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>...</th>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>241</th>\n",
+       "      <td>Hans Wicki Ständerat</td>\n",
+       "      <td>Ungefähr 19’100 Ergebnisse (0.39 Sekunden)</td>\n",
+       "      <td>19100</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>242</th>\n",
+       "      <td>Benedikt Würth Ständerat</td>\n",
+       "      <td>Ungefähr 10’800 Ergebnisse (0.41 Sekunden)</td>\n",
+       "      <td>10800</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>243</th>\n",
+       "      <td>Roberto Zanetti Ständerat</td>\n",
+       "      <td>Ungefähr 17’400 Ergebnisse (0.45 Sekunden)</td>\n",
+       "      <td>17400</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>244</th>\n",
+       "      <td>Heidi Z'graggen Ständerat</td>\n",
+       "      <td>Ungefähr 5’160 Ergebnisse (0.39 Sekunden)</td>\n",
+       "      <td>5160</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>245</th>\n",
+       "      <td>Mathias Zopfi Ständerat</td>\n",
+       "      <td>Ungefähr 3’120 Ergebnisse (0.36 Sekunden)</td>\n",
+       "      <td>3120</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "<p>246 rows × 3 columns</p>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "                       Politician  \\\n",
+       "0        Jean-Luc Addor Ständerat   \n",
+       "1          Andreas Aebi Ständerat   \n",
+       "2    Matthias Aebischer Ständerat   \n",
+       "3         Thomas Aeschi Ständerat   \n",
+       "4       Céline Amaudruz Ständerat   \n",
+       "..                            ...   \n",
+       "241          Hans Wicki Ständerat   \n",
+       "242      Benedikt Würth Ständerat   \n",
+       "243     Roberto Zanetti Ständerat   \n",
+       "244     Heidi Z'graggen Ständerat   \n",
+       "245       Mathias Zopfi Ständerat   \n",
+       "\n",
+       "                           Google Search Results  Count  \n",
+       "0    Ungefähr 11’000 Ergebnisse (0.35 Sekunden)   11000  \n",
+       "1    Ungefähr 19’500 Ergebnisse (0.32 Sekunden)   19500  \n",
+       "2    Ungefähr 14’400 Ergebnisse (0.44 Sekunden)   14400  \n",
+       "3    Ungefähr 24’800 Ergebnisse (0.42 Sekunden)   24800  \n",
+       "4     Ungefähr 8’690 Ergebnisse (0.35 Sekunden)    8690  \n",
+       "..                                           ...    ...  \n",
+       "241  Ungefähr 19’100 Ergebnisse (0.39 Sekunden)   19100  \n",
+       "242  Ungefähr 10’800 Ergebnisse (0.41 Sekunden)   10800  \n",
+       "243  Ungefähr 17’400 Ergebnisse (0.45 Sekunden)   17400  \n",
+       "244   Ungefähr 5’160 Ergebnisse (0.39 Sekunden)    5160  \n",
+       "245   Ungefähr 3’120 Ergebnisse (0.36 Sekunden)    3120  \n",
+       "\n",
+       "[246 rows x 3 columns]"
+      ]
+     },
+     "execution_count": 83,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df_polsearches"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 85,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Politician</th>\n",
+       "      <th>Google Search Results</th>\n",
+       "      <th>Count</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>141</th>\n",
+       "      <td>Valentine Python Ständerat</td>\n",
+       "      <td>Ungefähr 652 Ergebnisse (0.30 Sekunden)</td>\n",
+       "      <td>652</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>139</th>\n",
+       "      <td>Stefania Prezioso Batou Ständerat</td>\n",
+       "      <td>Ungefähr 716 Ergebnisse (0.36 Sekunden)</td>\n",
+       "      <td>716</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>175</th>\n",
+       "      <td>Bruno Storni Ständerat</td>\n",
+       "      <td>Ungefähr 882 Ergebnisse (0.35 Sekunden)</td>\n",
+       "      <td>882</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>47</th>\n",
+       "      <td>Alex Farinelli Ständerat</td>\n",
+       "      <td>Ungefähr 962 Ergebnisse (0.46 Sekunden)</td>\n",
+       "      <td>962</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>97</th>\n",
+       "      <td>Delphine Klopfenstein Broggini Ständerat</td>\n",
+       "      <td>Ungefähr 1’200 Ergebnisse (0.34 Sekunden)</td>\n",
+       "      <td>1200</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>...</th>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "      <td>...</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>237</th>\n",
+       "      <td>Jakob Stark Ständerat</td>\n",
+       "      <td>Ungefähr 50’000 Ergebnisse (0.32 Sekunden)</td>\n",
+       "      <td>50000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>73</th>\n",
+       "      <td>Jürg Grossen Ständerat</td>\n",
+       "      <td>Ungefähr 62’100 Ergebnisse (0.36 Sekunden)</td>\n",
+       "      <td>62100</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>24</th>\n",
+       "      <td>Thomas Brunner Ständerat</td>\n",
+       "      <td>Ungefähr 67’800 Ergebnisse (0.34 Sekunden)</td>\n",
+       "      <td>67800</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>235</th>\n",
+       "      <td>Martin Schmid Ständerat</td>\n",
+       "      <td>Ungefähr 70’400 Ergebnisse (0.38 Sekunden)</td>\n",
+       "      <td>70400</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>96</th>\n",
+       "      <td>Peter Keller Ständerat</td>\n",
+       "      <td>Ungefähr 102’000 Ergebnisse (0.39 Sekunden)</td>\n",
+       "      <td>102000</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "<p>246 rows × 3 columns</p>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "                                   Politician  \\\n",
+       "141                Valentine Python Ständerat   \n",
+       "139         Stefania Prezioso Batou Ständerat   \n",
+       "175                    Bruno Storni Ständerat   \n",
+       "47                   Alex Farinelli Ständerat   \n",
+       "97   Delphine Klopfenstein Broggini Ständerat   \n",
+       "..                                        ...   \n",
+       "237                     Jakob Stark Ständerat   \n",
+       "73                     Jürg Grossen Ständerat   \n",
+       "24                   Thomas Brunner Ständerat   \n",
+       "235                   Martin Schmid Ständerat   \n",
+       "96                     Peter Keller Ständerat   \n",
+       "\n",
+       "                            Google Search Results   Count  \n",
+       "141      Ungefähr 652 Ergebnisse (0.30 Sekunden)      652  \n",
+       "139      Ungefähr 716 Ergebnisse (0.36 Sekunden)      716  \n",
+       "175      Ungefähr 882 Ergebnisse (0.35 Sekunden)      882  \n",
+       "47       Ungefähr 962 Ergebnisse (0.46 Sekunden)      962  \n",
+       "97     Ungefähr 1’200 Ergebnisse (0.34 Sekunden)     1200  \n",
+       "..                                            ...     ...  \n",
+       "237   Ungefähr 50’000 Ergebnisse (0.32 Sekunden)    50000  \n",
+       "73    Ungefähr 62’100 Ergebnisse (0.36 Sekunden)    62100  \n",
+       "24    Ungefähr 67’800 Ergebnisse (0.34 Sekunden)    67800  \n",
+       "235   Ungefähr 70’400 Ergebnisse (0.38 Sekunden)    70400  \n",
+       "96   Ungefähr 102’000 Ergebnisse (0.39 Sekunden)   102000  \n",
+       "\n",
+       "[246 rows x 3 columns]"
+      ]
+     },
+     "execution_count": 85,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "df_polsearches.sort_values(by='Count')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_p1 = pd.read_csv('first217.csv')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#df_p1 = pd.read_csv('first217.csv')\n",
+    "#df_p2 = pd.read_csv('last30.csv')\n",
+    "#frames = [df_p1, df_p2]\n",
+    "#df_p = pd.concat(frames)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 59,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "dff = df.merge(df_p, left_on='Politician', right_on='Politician')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 60,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
