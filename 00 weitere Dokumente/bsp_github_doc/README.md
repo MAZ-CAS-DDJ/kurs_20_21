@@ -9,13 +9,14 @@ Source: [Gage Skidmore](https://www.flickr.com/photos/gageskidmore/32758233090)
 ## 0 Checkliste
 
 - These formulieren: **Trumps Hass nimmt zu. Aber er erhält dafür weniger Applaus.**
-- These checken: Relevanz? neu? Aufwand/Ertrag? **Es gab ähnliche Geschichten, aber nichts Umfassendendes zu allen Trump-Tweets. Aufwand und Ertrag ist überschaubar. Am Ende 2 Arbeitstage.**
-- Knackpunkt bestimmen = Priorität für Recherchestart
+- These checken: Relevanz? Neu? Aufwand/Ertrag? **Es gab ähnliche Geschichten, aber nichts Umfassendendes zu allen Trump-Tweets. Aufwand und Ertrag ist überschaubar. Am Ende 2 Arbeitstage.**
+- Knackpunkt bestimmen. **Es lässt sich kein klarer Trend herauslesen.**
 - Briefing Person konsultieren **Fiel in diesem Fall weg.**
-- Daten beschaffen/reinigen/analysieren/visualisieren -> These justieren
+- Daten beschaffen/reinigen/analysieren/visualisieren -> These justieren **Justierung war in diesem Fall nicht nötig.**
 - Ergänzen durch klassische Recherche (Experten, Politiker etc.)
 - Dokumentieren Code und statistische Annahmen
 - Link auf Publikation
+- Aufwandslogbuch
 
 
 
@@ -32,7 +33,15 @@ Der Algorithmus nutzt dabei unter anderem ein Lexikon von Wörtern, die entweder
 
 ## [3 Namensextraktion](https://github.com/tamedia-ddj/trumphate/blob/master/2.%20Name%20Extraction.ipynb)
 
-Zur Extrahierung der Namen wurde der auf die Programmiersprache Python basierte Werkzeugkasten [Natural Language Toolkit] (NTLK)](https://www.nltk.org) verwendet. Die in einem ersten Durchlauf ermittelten Namen wurden dann von Hand zusammengeführt. Zum Beispiel: «Crooked Hillary» und «Hillary Clinton» oder «Loser Obama» und «Barack Obama».
+Zur Extrahierung der Namen wurde der auf die Programmiersprache Python basierte Werkzeugkasten [Natural Language Toolkit] (NLTK)](https://www.nltk.org) verwendet. Die in einem ersten Durchlauf ermittelten Namen wurden dann von Hand zusammengeführt. Zum Beispiel: «Crooked Hillary» und «Hillary Clinton» oder «Loser Obama» und «Barack Obama».
 
 ## 4 Artikel
 [Publikation auf Tages-Anzeiger.ch](https://www.tagesanzeiger.ch/ausland/Trumps-Hasstiraden-in-den-sozialen-Medien-nehmen-unaufhoerlich-zu/story/11406769)
+
+##Aufwandslogbuch
+- Twitterdaten aufbereiten: 1 Std.
+- Datenreinigung: 6 Std.
+- Anwendung NLTK und vaderSentiment: 3 Std.
+- Visualisierung: 1 Std.
+- Texten: 4 Std.
+- TOTAL: 15 Std.

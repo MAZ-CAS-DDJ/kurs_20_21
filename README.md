@@ -6,7 +6,7 @@
 1. [Vorbereitung](00%20weitere%C2%A0Dokumente/reading) - eine Leseliste
 1. [Literatur und Links](00%20weitere%C2%A0Dokumente/literatur) - rund ums Thema Datenjournalismus
 1. [Wichtigste Cheat Sheets](00%20weitere%C2%A0Dokumente/cheatsheets) - zum schnellen Nachschauen
-1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) - Tutorials, Dokumentation, weitere Cheatsheets
+1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) - Tutorials, Dokumentation, weitere Cheatsheets, Templates
 1. [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) - eine kuratierte Sammlung
 
 ## 01 Themen finden und datenjournalistische Recherchen planen
@@ -87,16 +87,16 @@
 
 ## 11 Pandas Vertiefung, Teil 1
 **19. Oktober 2020**
-1. Ein DDJ-Beispiel: [How well do you know your country](https://www.theguardian.com/world/ng-interactive/2015/dec/02/how-well-do-you-really-know-your-country-take-our-quiz) (ssc), 15'
+1. Wiedereinstieg: [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) anschauen
 1. Unterricht: [Date+Time Basics](11%20Pandas%20Teil%203/Date+Time%20Basics.ipynb) *([Lösung](11%20Pandas%20Teil%203/Date+Time%20Basics%20L.ipynb))* (ssc), 60'
 1. Unterricht: [Time Series - SMI-Index](11%20Pandas%20Teil%203/Time%20Series.ipynb) *([Lösung](11%20Pandas%20Teil%203/Time%20Series%20L.ipynb))* (ssc), 90'
-1. Übung: [Exploring und Plotting II - Börsenkurse](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%202.ipnyb) *([Lösung](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%202%20L.ipynb))* (ssc), 60'
+1. Gruppenübung: [Time Series Exploring - Covid](11%20Pandas%20Teil%203/Time%10Series%20Exploring.ipnyb) *([Lösung](11%20Pandas%20Teil%203/Time%10Series%20Exploring%20L.ipynb))* (ssc), 60'
 1. Unterricht: [Pandas und Funktionen](11%20Pandas%20Teil%203/Pandas%20und%20Funktionen.ipynb) *([Lösung](11%20Pandas%20Teil%203/Pandas%20und%20Funktionen%20L.ipynb))* (ssc), 60'
+1. Homework: [Exploring und Plotting II - Börsenkurse](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%202.ipnyb) *([Lösung](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%202%20L.ipynb))* (ssc), 60'
 1. Homework: [Viele Dateien - Krypto-Coins](11%20Pandas%20Teil%203/Viele%20Dateien.ipynb) *([Lösung](11%20Pandas%20Teil%203/Viele%20Dateien%20L.ipynb))* (ssc), 60'
 
 ## 12 Pandas Vertiefung, Teil 2
 **20. Oktober 2020**
-1. Wiedereinstieg: DDJ-Beispiele (ssc), 15'
 1. Übung: [Regex in Python - Songtexts](12%20Pandas%20Teil%204/Regex%20in%20Python.ipynb) *([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Python%20L.ipynb))* (ssc), 90'
 1. Übung: [Regex in Pandas - BFS](12%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))* (ssc), 60'
 1. Homework: [Regex - Senators](12%20Pandas%20Teil%204/Homework%203.ipynb) *([Lösung](12%20Pandas%20Teil%204/Homework%203%20L.ipynb))*
