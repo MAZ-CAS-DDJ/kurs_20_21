@@ -1,0 +1,2 @@
+:LABEL	id:ID(organisation_jahr_id)	organisation_id:int	jahr:int	umsatz:long	gewinn:long	kapital:long	mitarbeiter_weltweit:int	mitarbeiter_schweiz:int	geschaeftsbericht_url:string	quelle_url:string	quelle_url_gueltig:int	quelle:string	freigabe_datum:localdatetime	freigabe_datum_unix:long
+Organisationsjahr	1	285	2012	56673000000	9618000000				"http://www.novartis.com/downloads/investors/reports/novartis-annual-report-2012-de.pdf"				2014-09-16T00:00:00	1410818400

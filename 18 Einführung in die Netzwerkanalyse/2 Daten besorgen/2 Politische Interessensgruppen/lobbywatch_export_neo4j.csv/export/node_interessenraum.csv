@@ -1,0 +1,12 @@
+:LABEL	anzeige_name:string	anzeige_name_de:string	anzeige_name_fr:string	anzeige_name_mixed:string	id:ID(interessenraum_id)	name:string	name_fr:string	beschreibung:string	beschreibung_fr:string	reihenfolge:int	freigabe_datum:localdatetime	name_de:string	beschreibung_de:string	freigabe_datum_unix:long
+Interessenraum	"National (Schweiz)"	"National (Schweiz)"		"National (Schweiz)"	1	"National (Schweiz)"		"Schweiz"		10	2014-03-02T06:45:42	"National (Schweiz)"	"Schweiz"	1393739142
+Interessenraum	"Kantonal"	"Kantonal"		"Kantonal"	2	"Kantonal"				20	2014-03-02T06:45:42	"Kantonal"		1393739142
+Interessenraum	"Kommunal"	"Kommunal"		"Kommunal"	3	"Kommunal"				1000	2014-03-02T06:46:37	"Kommunal"		1393739197
+Interessenraum	"Global"	"Global"		"Global"	4	"Global"				30	2014-03-02T06:46:37	"Global"		1393739197
+Interessenraum	"Europa"	"Europa"		"Europa"	5	"Europa"				40	2014-03-02T06:47:14	"Europa"		1393739234
+Interessenraum	"Nordamerika"	"Nordamerika"		"Nordamerika"	6	"Nordamerika"				50	2014-03-02T06:47:14	"Nordamerika"		1393739234
+Interessenraum	"Asien"	"Asien"		"Asien"	7	"Asien"				60	2014-03-02T06:48:31	"Asien"		1393739311
+Interessenraum	"Afrika"	"Afrika"		"Afrika"	8	"Afrika"				70	2014-03-02T06:48:31	"Afrika"		1393739311
+Interessenraum	"National (Ausland)"	"National (Ausland)"		"National (Ausland)"	9	"National (Ausland)"				45	2014-03-02T06:56:13	"National (Ausland)"		1393739773
+Interessenraum	"Südamerika"	"Südamerika"		"Südamerika"	10	"Südamerika"				55	2014-03-02T07:24:21	"Südamerika"		1393741461
+Interessenraum	"Australien"	"Australien"		"Australien"	11	"Australien"		"Kontinent Australien: Australien, Neuseeland, ..."		70	2014-03-02T07:27:04	"Australien"	"Kontinent Australien: Australien, Neuseeland, ..."	1393741624

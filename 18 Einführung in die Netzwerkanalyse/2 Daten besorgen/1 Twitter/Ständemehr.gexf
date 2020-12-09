@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2020-12-01">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="zürich">
+    <nodes>
+      <node id="1013596464" label="mi_chriwy" />
+      <node id="1035070134975647745" label="WohlgensingerN" />
+      <node id="1082650726617239552" label="MFrauchigerSVP" />
+      <node id="1122183858244419584" label="ZStadtfux" />
+      <node id="1146782084717076480" label="zeidgenosse" />
+      <node id="1202524749911527425" label="KamasaJulian" />
+      <node id="1203761528090103810" label="phil_rys" />
+      <node id="1277220496694747136" label="russo_lf" />
+      <node id="1637562732" label="rfrbrghs" />
+      <node id="204913392" label="ogimichael" />
+      <node id="223794936" label="UlrichEGut" />
+      <node id="2270536758" label="julianmarbach" />
+      <node id="245458261" label="AndiWeibel" />
+      <node id="3091411205" label="il_lu_mi_na_ti" />
+      <node id="313300303" label="Vingelot" />
+      <node id="3356449019" label="sarah_gabi_" />
+      <node id="336172606" label="daniel_maag" />
+      <node id="4910052503" label="arnold_tobi" />
+      <node id="516305074" label="claudelongchamp" />
+      <node id="61778274" label="derrotedoktor" />
+      <node id="630653641" label="DailyTalk" />
+      <node id="707135133183307776" label="PeterGehler" />
+      <node id="734668928526524417" label="fabiangrepper" />
+      <node id="859732412204449792" label="ivo_fa" />
+      <node id="882186210277502976" label="mic_kue" />
+      <node id="902853449246793728" label="FurbieMiller" />
+      <node id="917466885515628544" label="LeandraColumb" />
+      <node id="921764366697091072" label="manuelgranwehr" />
+      <node id="940281482228174848" label="ineichen_jonas" />
+      <node id="941079086486687744" label="michellemming" />
+      <node id="613430697" label="NicErzer" />
+      <node id="4195418153" label="A_geitchlyufe" />
+      <node id="2973102701" label="benjigautschi" />
+      <node id="967838921018302470" label="manpfi" />
+      <node id="1425976159" label="AlainS1991" />
+      <node id="527477406" label="Basstian_Bass" />
+      <node id="19853881" label="frontsight" />
+      <node id="142743637" label="Chrigu_" />
+      <node id="3307127219" label="3307127219" />
+      <node id="750409733136379904" label="750409733136379904" />
+    </nodes>
+    <edges>
+      <edge source="1013596464" target="3356449019" id="0" weight="4" />
+      <edge source="1035070134975647745" target="613430697" id="1" weight="3" />
+      <edge source="1082650726617239552" target="859732412204449792" id="2" weight="4" />
+      <edge source="1082650726617239552" target="940281482228174848" id="3" weight="4" />
+      <edge source="1122183858244419584" target="4195418153" id="4" weight="3" />
+      <edge source="1146782084717076480" target="1146782084717076480" id="5" weight="5" />
+      <edge source="1202524749911527425" target="3307127219" id="6" weight="3" />
+      <edge source="1203761528090103810" target="1277220496694747136" id="7" weight="4" />
+      <edge source="1277220496694747136" target="2973102701" id="8" weight="3" />
+      <edge source="1637562732" target="1637562732" id="9" weight="3" />
+      <edge source="204913392" target="1277220496694747136" id="10" weight="4" />
+      <edge source="223794936" target="223794936" id="11" weight="3" />
+      <edge source="2270536758" target="2270536758" id="12" weight="3" />
+      <edge source="245458261" target="61778274" id="13" weight="3" />
+      <edge source="3091411205" target="967838921018302470" id="14" weight="3" />
+      <edge source="313300303" target="1425976159" id="15" weight="3" />
+      <edge source="3356449019" target="1013596464" id="16" weight="3" />
+      <edge source="336172606" target="527477406" id="17" weight="3" />
+      <edge source="4910052503" target="4910052503" id="18" weight="3" />
+      <edge source="516305074" target="516305074" id="19" weight="6" />
+      <edge source="61778274" target="245458261" id="20" weight="3" />
+      <edge source="630653641" target="750409733136379904" id="21" weight="4" />
+      <edge source="707135133183307776" target="19853881" id="22" weight="4" />
+      <edge source="734668928526524417" target="142743637" id="23" weight="3" />
+      <edge source="734668928526524417" target="882186210277502976" id="24" weight="4" />
+      <edge source="859732412204449792" target="1082650726617239552" id="25" weight="3" />
+      <edge source="882186210277502976" target="734668928526524417" id="26" weight="4" />
+      <edge source="902853449246793728" target="1122183858244419584" id="27" weight="3" />
+      <edge source="902853449246793728" target="859732412204449792" id="28" weight="3" />
+      <edge source="902853449246793728" target="902853449246793728" id="29" weight="3" />
+      <edge source="917466885515628544" target="1082650726617239552" id="30" weight="3" />
+      <edge source="921764366697091072" target="921764366697091072" id="31" weight="5" />
+      <edge source="940281482228174848" target="940281482228174848" id="32" weight="4" />
+      <edge source="941079086486687744" target="941079086486687744" id="33" weight="3" />
+    </edges>
+  </graph>
+</gexf>

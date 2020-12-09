@@ -1,0 +1,655 @@
+id	parlamentarier_id	kommission_id	funktion	parlament_committee_function	parlament_committee_function_name	von	bis	freigabe_datum
+27	11	1	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+30	12	20	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+32	14	1	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+34	15	13	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+35	15	1	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+97	34	47	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+106	36	49	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+114	38	47	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+115	38	53	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+119	238	54	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+120	238	53	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+121	238	18	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+125	51	3	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+134	122	3	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+141	180	3	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+147	212	3	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+164	39	17	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+166	75	17	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+168	89	17	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+173	142	17	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+180	161	17	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+199	67	9	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+204	117	9	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+205	127	9	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+211	167	9	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+218	210	9	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+236	83	7	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+237	88	7	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+267	65	5	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+268	85	5	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+276	120	5	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+286	170	5	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+289	212	5	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+305	53	11	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+306	55	11	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+317	250	11	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+322	178	11	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+329	223	52	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+331	227	52	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+343	98	13	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+348	144	13	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+351	166	13	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+353	182	13	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+355	195	13	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+360	223	53	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+370	83	15	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+379	158	15	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+380	172	15	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+396	230	54	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+398	235	54	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+408	99	19	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+410	104	19	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+411	108	19	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+421	190	19	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+433	230	56	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+437	246	56	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+444	75	27	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+455	195	27	"mitglied"	1	"Mitglied"			2015-06-20T00:00:00
+477	158	21	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+486	190	21	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+495	170	18	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+584	89	31	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+589	172	31	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+610	60	30	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+611	89	30	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+617	60	39	"mitglied"	9	"Stimmenzähler/in"			2015-06-20T00:00:00
+620	103	39	"mitglied"	9	"Stimmenzähler/in"			2015-06-20T00:00:00
+626	147	39	"mitglied"	11	"Fraktionspräsident/in"			2015-06-20T00:00:00
+638	41	11	"mitglied"	1	"Mitglied"			2015-06-19T12:40:36
+714	88	39	"mitglied"	10	"Ersatzstimmenzähler/in"	2015-11-30		2015-11-30T00:00:00
+718	159	39	"mitglied"	11	"Fraktionspräsident/in"	2015-11-30		2015-11-30T00:00:00
+729	57	19	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+730	269	19	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+735	127	19	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+741	305	19	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+746	6	27	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+747	80	27	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+751	287	27	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+754	297	27	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+760	264	17	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+764	276	17	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+766	291	17	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+767	158	17	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+768	248	17	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+771	310	17	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+776	279	9	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+789	80	1	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+791	110	1	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+793	117	1	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+795	302	1	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+797	289	3	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+800	300	3	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+807	120	7	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+812	304	7	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+814	312	7	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+818	268	5	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+826	167	5	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+828	182	5	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+829	44	11	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+832	101	11	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+833	132	11	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+836	294	11	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+839	21	11	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+840	251	11	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+841	261	13	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+843	265	13	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+845	270	13	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+851	147	13	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+855	306	13	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+856	211	13	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+858	264	15	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+862	93	15	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+869	308	15	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+873	316	56	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+886	125	55	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+889	238	55	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+898	219	47	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+899	315	47	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+907	318	48	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+908	160	48	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+909	319	48	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+911	246	48	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+915	86	50	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+918	34	50	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+919	321	50	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+924	228	49	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+929	160	52	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+931	246	52	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+939	66	54	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+941	223	54	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+944	242	54	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+957	153	20	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+971	235	18	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+980	227	42	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+990	227	37	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+1009	174	62	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+1021	53	21	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+1025	11	21	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+1027	137	21	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+1028	319	21	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+1033	315	41	"mitglied"	1	"Mitglied"	2015-12-19		2015-12-19T00:00:00
+1038	6	60	"mitglied"	12	"Stellvertreter/in"	2015-12-19		2015-12-19T00:00:00
+1064	63	62	"mitglied"	12	"Stellvertreter/in"	2016-01-11		2016-01-11T00:00:00
+1069	298	62	"mitglied"	12	"Stellvertreter/in"	2016-01-11		2016-01-11T00:00:00
+1081	299	3	"mitglied"	1	"Mitglied"	2016-02-15		2016-02-15T00:00:00
+1085	291	32	"mitglied"	1	"Mitglied"	2016-02-15		2016-02-15T00:00:00
+1116	170	44	"mitglied"	12	"Stellvertreter/in"	2016-03-21		2016-03-21T00:00:00
+1126	99	7	"mitglied"	1	"Mitglied"	2016-09-03		2016-09-03T00:00:00
+1140	315	49	"mitglied"	1	"Mitglied"	2016-12-24		2016-12-24T00:00:00
+1141	187	19	"mitglied"	1	"Mitglied"	2017-02-28		2017-02-28T00:00:00
+1156	256	19	"mitglied"	1	"Mitglied"	2017-09-15		2017-09-15T00:00:00
+1160	41	39	"mitglied"	11	"Fraktionspräsident/in"	2017-11-24		2017-11-24T00:00:00
+1161	251	39	"mitglied"	11	"Fraktionspräsident/in"	2017-11-24		2017-11-24T00:00:00
+1166	110	19	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1169	298	19	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1171	116	27	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1174	60	17	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1180	41	1	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1183	297	1	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1186	153	3	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1216	38	57	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1218	235	55	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1221	228	51	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1233	86	49	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1237	242	52	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1254	166	60	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1256	327	17	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1258	326	7	"mitglied"	1	"Mitglied"	2017-12-01		2017-12-01T00:00:00
+1263	310	38	"mitglied"	1	"Mitglied"	2017-12-08		2017-12-08T00:00:00
+1283	41	37	"mitglied"	1	"Mitglied"	2018-01-12		2018-01-12T00:00:00
+1287	235	62	"mitglied"	1	"Mitglied"	2018-01-19		2018-01-19T00:00:00
+1296	183	11	"mitglied"	1	"Mitglied"	2018-03-16		2018-03-16T00:00:00
+1297	264	21	"mitglied"	1	"Mitglied"	2018-03-16		2018-03-16T00:00:00
+1298	334	27	"mitglied"	1	"Mitglied"	2018-03-16		2018-03-16T00:00:00
+1299	332	17	"mitglied"	1	"Mitglied"	2018-03-16		2018-03-16T00:00:00
+1306	40	5	"mitglied"	1	"Mitglied"	2018-06-01		2018-06-01T00:00:00
+1309	293	15	"mitglied"	1	"Mitglied"	2018-06-01		2018-06-01T00:00:00
+1313	331	1	"mitglied"	1	"Mitglied"	2018-06-15		2018-06-15T00:00:00
+1314	337	9	"mitglied"	1	"Mitglied"	2018-06-15		2018-06-15T00:00:00
+1321	15	59	"mitglied"	1	"Mitglied"	2018-11-16		2018-11-16T00:00:00
+1334	34	45	"mitglied"	1	"Mitglied"	2018-12-01		2018-12-01T00:00:00
+1336	34	59	"mitglied"	1	"Mitglied"	2018-12-01		2018-12-01T00:00:00
+1337	38	59	"mitglied"	1	"Mitglied"	2018-12-01		2018-12-01T00:00:00
+1342	49	11	"mitglied"	1	"Mitglied"	2018-12-14		2018-12-14T00:00:00
+1343	187	21	"mitglied"	1	"Mitglied"	2018-12-14		2018-12-14T00:00:00
+1346	339	13	"mitglied"	1	"Mitglied"	2018-12-14		2018-12-14T00:00:00
+1359	328	9	"mitglied"	1	"Mitglied"	2019-01-11		2019-01-11T00:00:00
+1360	277	11	"mitglied"	1	"Mitglied"	2019-01-11		2019-01-11T00:00:00
+1369	88	41	"mitglied"	1	"Mitglied"	2019-03-03		2019-03-03T00:00:00
+1373	340	15	"mitglied"	1	"Mitglied"	2019-03-09		2019-03-09T00:00:00
+1374	341	3	"mitglied"	1	"Mitglied"	2019-04-02		2019-04-02T00:00:00
+1380	305	5	"mitglied"	1	"Mitglied"	2019-06-07		2019-06-07T00:00:00
+1381	280	60	"mitglied"	1	"Mitglied"	2019-06-07		2019-06-07T00:00:00
+1382	344	1	"mitglied"	1	"Mitglied"	2019-06-07		2019-06-07T00:00:00
+1384	76	57	"mitglied"	1	"Mitglied"	2019-06-21		2019-06-21T00:00:00
+1385	319	55	"mitglied"	1	"Mitglied"	2019-06-21		2019-06-21T00:00:00
+1387	228	47	"mitglied"	1	"Mitglied"	2019-06-21		2019-06-21T00:00:00
+1388	317	47	"mitglied"	1	"Mitglied"	2019-06-21		2019-06-21T00:00:00
+1389	219	48	"mitglied"	1	"Mitglied"	2019-06-21		2019-06-21T00:00:00
+1391	316	52	"mitglied"	1	"Mitglied"	2019-06-21		2019-06-21T00:00:00
+1392	76	53	"mitglied"	1	"Mitglied"	2019-06-21		2019-06-21T00:00:00
+1393	41	21	"mitglied"	1	"Mitglied"	2019-06-21		2019-06-21T00:00:00
+1394	340	60	"mitglied"	12	"Stellvertreter/in"	2019-09-02		2019-09-02T00:00:00
+1396	371	39	"mitglied"	10	"Ersatzstimmenzähler/in"	2019-12-02		2019-12-02T00:00:00
+1397	269	39	"mitglied"	9	"Stimmenzähler/in"	2019-12-02		2019-12-02T00:00:00
+1398	75	39	"mitglied"	10	"Ersatzstimmenzähler/in"	2019-12-02		2019-12-02T00:00:00
+1400	337	39	"mitglied"	10	"Ersatzstimmenzähler/in"	2019-12-02		2019-12-02T00:00:00
+1402	331	39	"mitglied"	9	"Stimmenzähler/in"	2019-12-02		2019-12-02T00:00:00
+1410	39	45	"mitglied"	1	"Mitglied"	2019-12-02		2019-12-02T00:00:00
+1411	230	45	"mitglied"	1	"Mitglied"	2019-12-02		2019-12-02T00:00:00
+1412	329	45	"mitglied"	1	"Mitglied"	2019-12-02		2019-12-02T00:00:00
+1415	39	59	"mitglied"	1	"Mitglied"	2019-12-02		2019-12-02T00:00:00
+1416	230	59	"mitglied"	1	"Mitglied"	2019-12-02		2019-12-02T00:00:00
+1417	329	59	"mitglied"	1	"Mitglied"	2019-12-02		2019-12-02T00:00:00
+1419	371	19	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1420	355	19	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1421	389	19	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1422	393	19	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1424	82	19	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1425	89	19	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1426	391	19	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1427	407	19	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1429	354	19	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1430	366	19	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1431	265	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1432	364	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1433	55	27	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1434	369	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1435	348	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1436	289	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1437	314	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1438	153	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1439	333	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1440	408	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1441	411	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1442	304	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1443	353	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1445	206	27	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1446	386	27	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1447	355	17	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1448	49	17	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1449	63	17	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1450	330	17	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1451	82	17	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1452	374	17	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1453	285	17	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1454	147	17	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1455	166	17	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1456	188	17	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1457	422	17	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1458	40	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1459	368	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1460	365	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1461	390	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1462	395	9	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1463	376	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1465	343	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1466	397	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1467	168	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1468	412	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1469	413	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1470	174	9	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1471	417	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1472	350	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1473	419	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1474	372	9	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1475	44	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1476	6	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1477	278	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1478	283	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1479	12	1	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1480	359	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1481	351	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1482	357	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1483	296	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1484	410	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1485	411	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1486	180	1	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1487	335	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1488	386	1	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1489	57	3	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1490	63	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1491	67	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1492	383	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1493	375	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1494	96	3	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1495	314	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1496	403	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1497	144	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1498	154	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1499	159	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1500	333	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1501	379	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1502	370	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1503	361	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1504	363	3	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1505	261	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1506	65	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1507	392	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1508	81	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1509	395	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1510	97	7	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1511	103	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1512	394	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1513	287	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1514	293	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1515	409	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1516	410	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1517	414	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1518	415	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1519	416	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1520	349	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1521	307	7	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1522	309	7	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1523	340	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1524	369	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1525	360	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1526	103	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1527	337	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1528	408	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1529	168	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1530	378	5	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1531	179	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1532	418	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1533	349	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1534	420	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1535	334	5	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1536	198	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1537	210	5	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1538	358	11	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1539	323	11	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1540	272	11	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1541	356	11	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1542	106	11	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1543	137	11	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1544	367	11	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1545	149	11	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1546	171	11	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1547	346	11	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1548	211	11	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1549	364	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1550	373	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1551	388	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1552	85	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1553	283	13	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1554	348	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1555	396	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1556	329	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1557	405	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1558	143	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1559	179	13	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1560	353	13	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1561	362	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1562	269	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1563	424	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1564	279	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1565	280	15	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1566	347	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1567	398	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1568	399	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1569	137	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1570	404	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1571	142	15	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1572	21	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1573	187	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1574	190	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1575	306	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1576	307	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1577	422	15	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1578	4	56	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1579	86	56	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1580	381	56	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1581	317	56	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1582	382	56	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1583	131	56	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1584	319	56	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1585	384	56	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1586	196	56	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1587	345	56	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1589	401	57	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1591	275	57	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1592	102	57	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1593	402	57	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1594	400	57	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1595	423	57	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1596	301	57	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1597	192	57	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1598	352	57	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1599	219	55	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1600	66	55	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1601	275	55	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1602	284	55	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1603	400	55	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1604	318	55	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1605	192	55	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1606	421	55	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1607	345	55	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1608	401	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1609	4	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1610	381	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1611	227	51	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1612	284	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1613	102	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1614	382	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1615	406	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1616	400	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1617	160	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1618	384	51	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1619	345	51	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1620	4	47	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1621	316	47	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1622	381	47	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1623	227	47	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1624	102	47	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1625	318	47	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1626	36	47	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1627	401	48	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1628	76	48	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1629	131	48	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1630	295	48	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1631	423	48	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1632	242	48	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1633	384	48	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1634	196	48	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1635	273	50	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1636	315	50	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1637	284	50	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1638	228	50	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1639	125	50	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1640	402	50	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1641	238	50	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1642	301	50	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1643	421	50	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1644	380	50	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1645	273	49	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1646	223	49	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1647	382	49	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1648	131	49	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1649	406	49	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1650	295	49	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1651	301	49	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1652	321	49	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1653	380	49	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1654	219	52	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1655	317	52	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1656	34	52	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1657	235	52	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1658	36	52	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1659	196	52	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1660	321	52	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1661	266	53	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1662	66	53	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1663	275	53	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1664	230	53	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1665	125	53	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1666	295	53	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1667	318	53	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1668	352	53	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1669	380	53	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1670	266	54	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1671	125	54	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1672	295	54	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1673	319	54	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1674	192	54	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1675	421	54	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1676	352	54	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1677	375	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1679	83	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1680	396	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1681	287	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1682	137	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1683	295	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1684	298	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1686	168	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1687	416	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1688	242	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1689	192	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1690	384	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1691	361	20	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1692	266	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1693	270	18	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1694	273	18	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1695	4	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1696	275	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1697	388	18	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1698	389	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1699	316	18	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1700	374	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1701	396	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1702	405	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1703	406	18	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1704	295	18	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1705	154	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1706	415	18	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1707	331	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1709	419	18	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1710	420	18	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1711	354	18	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1714	235	42	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1718	248	37	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1723	355	38	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1724	66	38	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1725	381	38	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1726	120	38	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1736	275	35	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1738	76	35	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1739	89	35	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1740	97	35	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1742	40	21	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1743	66	21	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1744	227	21	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1745	333	21	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1746	410	21	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1747	38	21	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1748	361	21	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1749	380	21	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1751	238	41	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1753	307	41	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1754	51	60	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1755	392	60	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1756	82	60	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1757	296	60	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1758	298	60	"praesident"	2	"Präsident/in"	2019-12-16		2019-12-16T00:00:00
+1759	299	60	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1760	168	60	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1761	378	60	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1762	180	60	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1763	190	60	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1764	198	60	"vizepraesident"	6	"Vizepräsident/in"	2019-12-16		2019-12-16T00:00:00
+1765	307	60	"mitglied"	1	"Mitglied"	2019-12-16		2019-12-16T00:00:00
+1766	361	60	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1767	386	60	"mitglied"	12	"Stellvertreter/in"	2019-12-16		2019-12-16T00:00:00
+1768	332	27	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1769	266	57	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1770	273	57	"vizepraesident"	6	"Vizepräsident/in"	2019-12-20		2019-12-20T00:00:00
+1771	108	43	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1772	230	43	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1773	317	43	"praesident"	2	"Präsident/in"	2019-12-20		2019-12-20T00:00:00
+1774	382	43	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1775	187	43	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1776	190	43	"vizepraesident"	6	"Vizepräsident/in"	2019-12-20		2019-12-20T00:00:00
+1777	179	18	"praesident"	2	"Präsident/in"	2019-12-20		2019-12-20T00:00:00
+1778	246	18	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1779	264	42	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1780	60	42	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1782	388	42	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1785	104	42	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1786	327	42	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1787	116	42	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1789	143	42	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1794	280	38	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1795	125	38	"vizepraesident"	6	"Vizepräsident/in"	2019-12-20		2019-12-20T00:00:00
+1796	14	38	"praesident"	2	"Präsident/in"	2019-12-20		2019-12-20T00:00:00
+1797	266	62	"mitglied"	12	"Stellvertreter/in"	2019-12-20		2019-12-20T00:00:00
+1798	104	62	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1799	402	62	"vizepraesident"	6	"Vizepräsident/in"	2019-12-20		2019-12-20T00:00:00
+1800	192	62	"mitglied"	12	"Stellvertreter/in"	2019-12-20		2019-12-20T00:00:00
+1801	422	62	"mitglied"	12	"Stellvertreter/in"	2019-12-20		2019-12-20T00:00:00
+1802	310	62	"praesident"	2	"Präsident/in"	2019-12-20		2019-12-20T00:00:00
+1803	39	35	"vizepraesident"	6	"Vizepräsident/in"	2019-12-20		2019-12-20T00:00:00
+1804	355	35	"mitglied"	12	"Stellvertreter/in"	2019-12-20		2019-12-20T00:00:00
+1805	315	35	"praesident"	2	"Präsident/in"	2019-12-20		2019-12-20T00:00:00
+1806	301	35	"mitglied"	12	"Stellvertreter/in"	2019-12-20		2019-12-20T00:00:00
+1807	266	40	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1808	80	40	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1809	102	40	"vizepraesident"	6	"Vizepräsident/in"	2019-12-20		2019-12-20T00:00:00
+1810	116	40	"praesident"	2	"Präsident/in"	2019-12-20		2019-12-20T00:00:00
+1811	153	40	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1812	301	40	"mitglied"	1	"Mitglied"	2019-12-20		2019-12-20T00:00:00
+1813	97	41	"praesident"	2	"Präsident/in"	2019-12-20		2019-12-20T00:00:00
+1814	301	41	"vizepraesident"	6	"Vizepräsident/in"	2019-12-20		2019-12-20T00:00:00
+1815	250	37	"mitglied"	12	"Stellvertreter/in"	2020-01-12		2020-01-12T00:00:00
+1816	318	37	"mitglied"	12	"Stellvertreter/in"	2020-01-12		2020-01-12T00:00:00
+1817	161	37	"praesident"	2	"Präsident/in"	2020-01-12		2020-01-12T00:00:00
+1818	188	37	"mitglied"	12	"Stellvertreter/in"	2020-01-12		2020-01-12T00:00:00
+1819	192	37	"mitglied"	12	"Stellvertreter/in"	2020-01-12		2020-01-12T00:00:00
+1820	422	37	"mitglied"	12	"Stellvertreter/in"	2020-01-12		2020-01-12T00:00:00
+1821	345	37	"vizepraesident"	6	"Vizepräsident/in"	2020-01-12		2020-01-12T00:00:00
+1822	86	42	"vizepraesident"	6	"Vizepräsident/in"	2020-01-22		2020-01-22T00:00:00
+1823	88	42	"praesident"	2	"Präsident/in"	2020-01-22		2020-01-22T00:00:00
+1824	179	39	"mitglied"	11	"Fraktionspräsident/in"	2020-02-28		2020-02-28T00:00:00
+1825	81	32	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1826	166	32	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1827	198	32	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1830	183	31	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1831	21	31	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1832	270	29	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1833	330	29	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1834	390	29	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1835	403	29	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1836	331	29	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1839	179	44	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1841	367	30	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1842	36	30	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1843	361	30	"mitglied"	1	"Mitglied"	2020-02-28		2020-02-28T00:00:00
+1844	219	32	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1845	382	32	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1847	160	32	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1848	180	32	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1849	343	31	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1850	228	31	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1852	36	31	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1853	242	31	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1854	86	29	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1856	295	29	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1858	192	29	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1859	4	44	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1863	405	44	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1864	228	30	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1866	400	30	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1868	312	30	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1869	425	9	"mitglied"	1	"Mitglied"	2020-03-06		2020-03-06T00:00:00
+1870	265	44	"mitglied"	12	"Stellvertreter/in"	2020-04-04		2020-04-04T00:00:00
+1871	66	44	"mitglied"	12	"Stellvertreter/in"	2020-04-04		2020-04-04T00:00:00
+1872	275	44	"praesident"	2	"Präsident/in"	2020-04-04		2020-04-04T00:00:00
+1873	76	44	"mitglied"	12	"Stellvertreter/in"	2020-04-04		2020-04-04T00:00:00
+1874	396	44	"vizepraesident"	6	"Vizepräsident/in"	2020-04-04		2020-04-04T00:00:00
+1876	131	32	"vizepraesident"	6	"Vizepräsident/in"	2020-04-10		2020-04-10T00:00:00
+1877	366	32	"praesident"	2	"Präsident/in"	2020-04-10		2020-04-10T00:00:00
+1878	34	31	"praesident"	2	"Präsident/in"	2020-04-10		2020-04-10T00:00:00
+1879	333	31	"vizepraesident"	6	"Vizepräsident/in"	2020-04-10		2020-04-10T00:00:00
+1881	299	29	"praesident"	2	"Präsident/in"	2020-04-10		2020-04-10T00:00:00
+1882	34	30	"praesident"	2	"Präsident/in"	2020-04-10		2020-04-10T00:00:00
+1883	414	30	"vizepraesident"	6	"Vizepräsident/in"	2020-04-10		2020-04-10T00:00:00
+1884	387	19	"mitglied"	1	"Mitglied"	2020-05-16		2020-05-16T00:00:00
+1885	425	27	"mitglied"	1	"Mitglied"	2020-05-16		2020-05-16T00:00:00
+1886	198	39	"mitglied"	11	"Fraktionspräsident/in"	2020-06-13		2020-06-13T00:00:00
+1887	264	63	"mitglied"	1	"Mitglied"	2020-07-10		2020-07-10T00:00:00
+1889	66	63	"mitglied"	1	"Mitglied"	2020-07-10		2020-07-10T00:00:00
+1890	82	63	"mitglied"	1	"Mitglied"	2020-07-10		2020-07-10T00:00:00
+1891	235	63	"mitglied"	1	"Mitglied"	2020-07-10		2020-07-10T00:00:00
+1892	142	63	"mitglied"	1	"Mitglied"	2020-07-10		2020-07-10T00:00:00
+1893	238	63	"mitglied"	1	"Mitglied"	2020-07-10		2020-07-10T00:00:00
+1894	332	63	"praesident"	2	"Präsident/in"	2020-07-10		2020-07-10T00:00:00
+1895	158	63	"mitglied"	1	"Mitglied"	2020-07-10		2020-07-10T00:00:00
+1896	188	63	"mitglied"	1	"Mitglied"	2020-07-10		2020-07-10T00:00:00
+1897	406	42	"mitglied"	1	"Mitglied"	2020-08-14		2020-08-14T00:00:00
+1899	79	19	"praesident"	2	"Präsident/in"	2020-08-30		2020-08-30T00:00:00
+1900	185	19	"mitglied"	1	"Mitglied"	2020-09-09		2020-09-09T00:00:00
+1901	76	20	"praesident"	2	"Präsident/in"	2020-09-09		2020-09-09T00:00:00
+1902	299	20	"vizepraesident"	6	"Vizepräsident/in"	2020-09-09		2020-09-09T00:00:00
+1903	402	29	"vizepraesident"	6	"Vizepräsident/in"	2020-11-06		2020-11-06T00:00:00
+1904	39	39	"praesident"	2	"Präsident/in"	2020-12-04		2020-12-04T00:00:00
+1905	65	39	"vizepraesident"	14	"2. Vizepräsident/in"	2020-12-04		2020-12-04T00:00:00
+1906	329	39	"vizepraesident"	13	"1. Vizepräsident/in"	2020-12-04		2020-12-04T00:00:00
+1907	401	58	"mitglied"	9	"Stimmenzähler/in"	2020-12-04		2020-12-04T00:00:00
+1908	228	58	"vizepraesident"	14	"2. Vizepräsident/in"	2020-12-04		2020-12-04T00:00:00
+1909	230	58	"vizepraesident"	13	"1. Vizepräsident/in"	2020-12-04		2020-12-04T00:00:00
+1910	34	58	"praesident"	2	"Präsident/in"	2020-12-04		2020-12-04T00:00:00
+1911	295	58	"mitglied"	10	"Ersatzstimmenzähler/in"	2020-12-04		2020-12-04T00:00:00
+1912	65	45	"mitglied"	1	"Mitglied"	2020-12-04		2020-12-04T00:00:00
+1913	228	45	"mitglied"	1	"Mitglied"	2020-12-04		2020-12-04T00:00:00
+1914	374	44	"mitglied"	12	"Stellvertreter/in"	2020-12-04		2020-12-04T00:00:00
+1915	219	63	"praesident"	2	"Präsident/in"	2020-12-04		2020-12-04T00:00:00

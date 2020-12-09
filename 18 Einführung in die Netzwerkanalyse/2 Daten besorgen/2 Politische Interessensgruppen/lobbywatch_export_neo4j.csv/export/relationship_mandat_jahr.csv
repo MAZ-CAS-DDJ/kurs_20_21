@@ -1,0 +1,7 @@
+:TYPE	id:int	mandat_id:int	jahr:int	verguetung:int	beschreibung:string	quelle_url:string	quelle_url_gueltig:int	quelle:string	freigabe_datum:localdatetime	person_id:END_ID(person_id)	organisation_id:START_ID(organisation_id)
+VERGUETED	5	1035	2014	174000		"http://www.sgb.ch/der-sgb/zentralsekretariat/"		"E-Mail SBG 16.6.2015"	2016-03-18T11:05:59	230	36
+VERGUETED	8	2038	2015	"0"	"ehrenamtlich"			"E-Mail Perret 28.9.2016"	2016-10-17T21:43:10	541	3563
+VERGUETED	9	2029	2015	"0"	"ehrenamtlich"			"E-Mail Perret 28.9.2016"	2016-10-17T21:43:10	541	4258
+VERGUETED	10	2030	2015	"0"	"ehrenamtlich"			"E-Mail Perret 28.9.2016"	2016-10-17T21:43:10	541	1814
+VERGUETED	11	2039	2015	"0"	"ehrenamtlich"			"E-Mail Perret 28.9.2016"	2016-10-17T21:43:10	541	194
+VERGUETED	12	2412	2015	9000	"Spesenentschädigung"			"E-Mail 13.10.2016"	2019-07-19T14:06:36	201	5125
