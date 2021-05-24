@@ -12,7 +12,9 @@ BGÖ-Anfrage, Scraping und weitere besondere Methoden der Daten-Zusammenstellung
 - **SRF:** [Unterschlagenes Wissen schadet](https://www.srf.ch/news/schweiz/studien-skandal-unterschlagenes-wissen-schadet) (2019)
 - **Watson:** [Flugzeug oder Bahn? So reisen Schweizer Beamte](https://www.watson.ch/schweiz/gesellschaft%20&%20politik/729967208-flugzeug-oder-bahn-so-reisen-die-schweizer-beamten) (2019)
 - **Buzzfeed:** [China Secretly Built A Vast New Infrastructure To Imprison Muslims](https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims) (2020)
+- **NZZ:** [Die Twitter-Aktivitäten der Experten stiegen im Herbst stark an](https://www.nzz.ch/visuals/fast-so-steil-wie-die-infektionskurve-die-twitter-aktivitaeten-der-experten-stiegen-im-herbst-stark-an-ld.1588595) (2020)
 - **SRF:** [Lotteriefonds-Auswertung](https://www.srf.ch/news/schweiz/lotteriefonds-auswertung-vor-allem-grossinstitutionen-profitieren) (2020)
+- **Tsüri:** [Das sind die Besitzer*innen der Langstrasse](https://tsri.ch/zh/exklusiv-das-sind-die-besitzerinnen-der-langstrasse/) (2020)
 ## Textanalyse
 Worthäufigkeiten, Sentiment-Analyse und weitere computerlinguistische Techniken
 - **NZZ:** [Das «Rössli» schlägt alle](https://www.nzz.ch/inland-sommerserie-schweizer-karten-interaktiv/vergleich-restaurantnamen-in-der-schweiz-1.18123894) (2013)
@@ -26,8 +28,11 @@ Worthäufigkeiten, Sentiment-Analyse und weitere computerlinguistische Techniken
 - **Vox:** [Every time Ford and Kavanaugh dodged a question, in one chart](https://www.vox.com/platform/amp/policy-and-politics/2018/9/28/17914308/kavanaugh-ford-question-dodge-hearing-chart?utm_campaign=alv9n&utm_content=chorus&utm_medium=social&utm_source=twitter&__twitter_impression=true) (2018)
 - **Die Zeit:** [Darüber spricht der Bundestag](https://www.zeit.de/politik/deutschland/2019-09/bundestag-jubilaeum-70-jahre-parlament-reden-woerter-sprache-wandel#) (2019)
 - **Tages-Anzeiger:** [Trumps Tiraden werden schärfer und schärfer](https://www.tagesanzeiger.ch/ausland/Trumps-Hasstiraden-in-den-sozialen-Medien-nehmen-unaufhoerlich-zu/story/11406769) (2019)
+- **Emojipedia:** [Emoji Trends That Defined 2020](https://blog.emojipedia.org/emoji-trends-that-defined-2020/) (2021)
+- **Emojipedia:** [What Every Heart Emoji Really Means](https://blog.emojipedia.org/what-every-heart-emoji-really-means/) (2021)
 ## Dataviz
 Storytelling mit Daten: besondere Plots, ungewöhnliche Chartformen, etc.
+- **New York Times:** [How The Recession Reshaped The Economy](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html) (2014)
 - **Constantly Plotting:** [What's that sound again?](https://constantlyplotting.com/whats-that-sound-again/) (2018)
 - **Eric Williamlin:** [A Sample of Shakespearean Productions](https://ericwilliamlin.com/shakespeare_production_data/) (2018)
 - **Guardian:** [It's 34,361 and rising](https://www.theguardian.com/world/2018/jun/20/the-list-europe-migrant-bodycount) (2018)
@@ -47,7 +52,9 @@ Storytelling mit Daten: besondere Plots, ungewöhnliche Chartformen, etc.
 - **Tages-Anzeiger:** [Wo es viele Kinder ans Gymi schaffen](https://www.tagesanzeiger.ch/zuerich/region/wo-es-viele-kinder-ans-gymi-schaffen/story/30076325) (2019)
 - **Tages-Anzeiger:** [Zahlen die Reichen genug Steuern?](https://interaktiv.tagesanzeiger.ch/2019/zahlen-reiche-genug-steuern/?nosome) (2019)
 - **Watson:** [Wie Ava Max innert Tagen zur Nummer 1 wurde](https://www.watson.ch/leben/wissen/270726641-hitparade-diese-kuenstler-kamen-schnell-zu-ihrem-nummer-1-hit-wie-aktuell-ava-max) (2019)
+- **24 Heures:** [L'utilisation du territoire Suisse](https://interactif.24heures.ch/2018/utilisation-du-territoire/) (2020)
 - **Matt Korostoff:** [Wealth, Shown to Scale](https://mkorostoff.github.io/1-pixel-wealth/) (2020)
+- **NZZ:** [So sähe die Coronakrise aus, wenn das Land eine Wohnüberbauung wäre](https://www.nzz.ch/schweiz/corona-in-der-schweiz-wie-covid-19-unser-leben-veraendert-hat-ld.1588566) (2020)
 - **New York Times:** [Most States That Are Reopening Fail to Meet White House Guidelines](https://www.nytimes.com/interactive/2020/05/07/us/coronavirus-states-reopen-criteria.html) (2020)
 - **New York Times:** [The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York City](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html) (2020)
 - **New York Times:** [The True Colors of America’s Political Spectrum Are Gray and Green](https://www.nytimes.com/interactive/2020/09/02/upshot/america-political-spectrum.html) (2020)
@@ -62,20 +69,25 @@ Choropleth, Point maps und allerlei weitere geografische Darstellungsformen
 - **The Pudding:** [Human Terrain](https://pudding.cool/2018/10/city_3d/) (2018)
 - **Washington Post:** [America is more diverse than ever — but still segregated](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study) (2018)
 - **Economist:** [Tracking the coronavirus across Europe](https://www.economist.com/graphic-detail/2020/07/03/tracking-the-coronavirus-across-europe) (2020)
+- **New York Times:** [County by County Election Results](https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html) (2020)
+- **Washington Post:** [The political winds in the U.S. are swirling](https://www.washingtonpost.com/graphics/2020/elections/electorate-changes-2016-election-vs-2020/) (2020)
 ## Interactive
 Arbeiten, bei denen der User zum Mitmachen aufgefordert wird, insb. auch mit Gamification
 - **Guardian:** [How well do you really know your country?](https://www.theguardian.com/world/ng-interactive/2015/dec/02/how-well-do-you-really-know-your-country-take-our-quiz) (2015)
 - **Gus Manson:** [Get bad news](https://www.getbadnews.com/#intro) (2016)
 - **New York Times:** [Whites Have Huge Wealth Edge Over Blacks (but Don’t Know It)](https://www.nytimes.com/interactive/2017/09/18/upshot/black-white-wealth-gap-perceptions.html) (2017)
+- **New York Times:** [You Draw It: What Got Better or Worse During Obama’s Presidency](https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html) (2017)
 - **Bloomberg:** [Pick Your Own Brexit](https://www.bloomberg.com/graphics/2018-pick-your-own-brexit/) (2018)
 - **New York Times:** [How Much Hotter Is Your Hometown Than When You Were Born?](https://www.nytimes.com/interactive/2018/08/30/climate/how-much-hotter-is-your-hometown.html?smid=fb-nytimes&smtyp=cur) (2018)
 - **New York Times:** [Are You Rich? Where Does Your Net Worth Rank in America?](https://www.nytimes.com/interactive/2019/08/12/upshot/are-you-rich-where-does-your-net-worth-rank-wealth.html) (2019)
 - **Republik:** [Wo können wir 2060 noch skifahren?](https://www.republik.ch/2019/02/06/wo-koennen-wir-im-jahr-2060-noch-ski-fahren) (2019)
+- **Berliner Morgenpost:** [Zerschneide Deutschland in zwei Teile](https://interaktiv.morgenpost.de/deutschland-teilen-deutsche-einheit-wiedervereinigung/) (2020)
 ## Algorithmen
 Diskussion von Machine Learning und anderen Algorithmen
 - **Pro Publica:** [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (2016)
 - **ABC Australia:** [How hard is it to make a believable deepfake?](https://www.abc.net.au/news/2018-09-28/fake-news-how-hard-is-it-to-make-a-deepfake-video/10313906) (2018)
 - **Economist:** [How to forecast an American's Vote](https://www.economist.com/graphic-detail/2018/11/03/how-to-forecast-an-americans-vote) (2018)
+- **SRF:** [So einfach ist es, eine Überwachungsmaschine zu bauen](https://www.srf.ch/news/schweiz/automatische-gesichtserkennung-so-einfach-ist-es-eine-ueberwachungsmaschine-zu-bauen) (2020)
 ## Crowdsourcing
 Datengewinnung mihilfe der User
 - **Tagesspiegel:** [Radmesser](https://interaktiv.tagesspiegel.de/radmesser/index.html) (2018)
@@ -86,3 +98,5 @@ Visual Journalism, Dinge, die nur online funktionieren
 - **Fivethirtyeight:** [Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/) (2020)
 - **Matt Korostoff:** [100,000 Faces](https://mkorostoff.github.io/hundred-thousand-faces/) (2020)
 - **VG:** [The Tinder Swindler](https://www.vg.no/spesial/2019/tindersvindleren/english/) (2020)
+- **Visual Capitalist:** [All of the World's Money and Markets in One Visualization](https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/) (2020)
+- **Reuters:** [Shifting Songs of Eurovision](https://graphics.reuters.com/MUSIC-EUROVISION/FINAL/rlgvdyeqzpo/index.html) (2021)
